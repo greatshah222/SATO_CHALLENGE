@@ -54,6 +54,8 @@ function App() {
       label: 'OTA YHTEYTTÄ',
     },
   ];
+  const accountBtnHandler = () => {};
+  const SearchHandler = () => {};
   return (
     <MuiThemeProvider theme={createMuiTheme(theme.morning)}>
       <DesktopBar
@@ -61,6 +63,9 @@ function App() {
         buttons={buttons}
         accountBtnLabel='kirjaudu'
         localeLink={localeLink}
+        loggedIn={false}
+        accountBtnHandler={accountBtnHandler}
+        handleSearch={SearchHandler}
       />
       <ImageHeader src={BannerImage} alt='hib' />
       <PageContent contentFullWidthMobile transparent>
