@@ -1,0 +1,620 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots NavigationList in dropdown 1`] = `
+<div>
+  <div
+    className="MuiPaper-root ForwardRef-inDropdown-542 MuiPaper-elevation0 MuiPaper-rounded"
+  >
+    <ul
+      className="MuiList-root ForwardRef-menuList-543 ForwardRef-smallTopPadding-544 MuiList-padding"
+      onKeyDown={[Function]}
+      role="menu"
+      tabIndex={-1}
+    >
+      <li
+        aria-disabled={false}
+        className="MuiButtonBase-root MuiListItem-root MuiMenuItem-root makeStyles-root-590 NavigationListItem-listItem-582 MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        role="menuitem"
+        tabIndex={0}
+      >
+        <div
+          className=""
+        />
+        <div
+          className="NavigationListItem-indentation-585"
+        >
+          <p
+            className="MuiTypography-root Text-buttonMenuItem-613 MuiTypography-body1 MuiTypography-colorInherit"
+          >
+            Usein kysyttyä
+          </p>
+        </div>
+      </li>
+      <li
+        aria-disabled={false}
+        className="MuiButtonBase-root MuiListItem-root MuiMenuItem-root makeStyles-root-590 NavigationListItem-listItem-582 NavigationListItem-active-584 MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        role="menuitem"
+        tabIndex={-1}
+      >
+        <div
+          className="NavigationListItem-activeIndentation-586"
+        />
+        <div
+          className="NavigationListItem-indentation-585"
+        >
+          <p
+            className="MuiTypography-root Text-buttonMenuItem-613 MuiTypography-body1 MuiTypography-colorInherit"
+          >
+            Ajankohtaista
+          </p>
+        </div>
+      </li>
+      <li
+        aria-disabled={false}
+        className="MuiButtonBase-root MuiListItem-root MuiMenuItem-root makeStyles-root-590 NavigationListItem-listItem-582 MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        role="menuitem"
+        tabIndex={-1}
+      >
+        <div
+          className=""
+        />
+        <div
+          className="NavigationListItem-indentation-585"
+        >
+          <p
+            className="MuiTypography-root Text-buttonMenuItem-613 MuiTypography-body1 MuiTypography-colorInherit"
+          >
+            Kotona
+          </p>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+`;
+
+exports[`Storyshots NavigationList standalone 1`] = `
+<div>
+  <div
+    className="MuiPaper-root ForwardRef-paper-109 MuiPaper-elevation0 MuiPaper-rounded"
+  >
+    <ul
+      className="MuiList-root ForwardRef-menuList-111 MuiList-padding"
+      onKeyDown={[Function]}
+      role="menu"
+      tabIndex={-1}
+    >
+      <li
+        aria-disabled={false}
+        className="MuiButtonBase-root MuiListItem-root MuiMenuItem-root makeStyles-root-158 NavigationListItem-listItem-150 MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        role="menuitem"
+        tabIndex={0}
+      >
+        <div
+          className=""
+        />
+        <div
+          className="NavigationListItem-indentation-153"
+        >
+          <p
+            className="MuiTypography-root Text-buttonMenuItem-181 MuiTypography-body1 MuiTypography-colorInherit"
+          >
+            Usein kysyttyä
+          </p>
+        </div>
+      </li>
+      <li
+        aria-disabled={false}
+        className="MuiButtonBase-root MuiListItem-root MuiMenuItem-root makeStyles-root-158 NavigationListItem-listItem-150 NavigationListItem-active-152 MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        role="menuitem"
+        tabIndex={-1}
+      >
+        <div
+          className="NavigationListItem-activeIndentation-154"
+        />
+        <div
+          className="NavigationListItem-indentation-153"
+        >
+          <p
+            className="MuiTypography-root Text-buttonMenuItem-181 MuiTypography-body1 MuiTypography-colorInherit"
+          >
+            Ajankohtaista
+          </p>
+        </div>
+      </li>
+      <li
+        aria-disabled={false}
+        className="MuiButtonBase-root MuiListItem-root MuiMenuItem-root makeStyles-root-158 NavigationListItem-listItem-150 MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        role="menuitem"
+        tabIndex={-1}
+      >
+        <div
+          className=""
+        />
+        <div
+          className="NavigationListItem-indentation-153"
+        >
+          <p
+            className="MuiTypography-root Text-buttonMenuItem-181 MuiTypography-body1 MuiTypography-colorInherit"
+          >
+            Kotona
+          </p>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+`;
+
+exports[`Storyshots NavigationList with icons 1`] = `
+<div>
+  <div
+    className="MuiPaper-root ForwardRef-paper-1009 MuiPaper-elevation0 MuiPaper-rounded"
+  >
+    <ul
+      className="MuiList-root ForwardRef-menuList-1011 MuiList-padding"
+      onKeyDown={[Function]}
+      role="menu"
+      tabIndex={-1}
+    >
+      <div
+        tabIndex={0}
+      >
+        <li
+          aria-disabled={false}
+          className="MuiButtonBase-root MuiListItem-root MuiMenuItem-root makeStyles-root-1058 NavigationListItem-listItem-1050 NavigationListItem-active-1052 MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+          onBlur={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          role="menuitem"
+          tabIndex={-1}
+        >
+          <div
+            className="NavigationListItem-activeIndentation-1054"
+          />
+          <div
+            className="NavigationListItem-indentation-1053"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root ForwardRef-large-1078 MuiSvgIcon-colorPrimary"
+              focusable="false"
+              role="presentation"
+              style={
+                Object {
+                  "marginRight": "36px",
+                }
+              }
+              viewBox="0 0 40 40"
+            >
+              <path
+                d="M35.77 7.2c.11.13.17.3.17.47v29.64c0 .41-.34.75-.75.75H5.75c-.41 0-.75-.34-.75-.75V7.67c0-.01.01-.03.01-.05 0-.17.05-.33.16-.47l4.91-5.88c.15-.17.36-.27.58-.27h19.62c.22 0 .41.1.55.25.01.01.02.01.03.02l4.91 5.93zM24.8 7.19l3.89-4.7H11.01L6.5 7.9v28.67h3.31v-7.84c0-.41.34-.75.75-.75h4.91c.41 0 .75.34.75.75v7.83h8.41V7.67c0-.18.06-.35.17-.48zM11.31 36.57h3.41v-7.09h-3.41v7.09zm23.14 0V7.94l-4.16-5.02-4.16 5.02v28.63h8.32zm-4.92-23.79c0-.41.34-.74.75-.74s.75.34.75.75v2.06c0 .41-.34.74-.75.74s-.75-.34-.75-.75v-2.06zm.75 7.42c.42 0 .75.34.75.76v2.06c0 .41-.34.741-.75.741a.756.756 0 0 1-.75-.75V20.95c0-.41.34-.75.75-.75zm0 8.17c.42 0 .75.33.75.75v2.06a.75.75 0 1 1-1.5 0v-2.06c0-.41.34-.75.75-.75zM10.66 12.03c.41 0 .75.34.75.75v2.06c0 .41-.34.75-.75.75s-.75-.34-.75-.75v-2.06c0-.41.34-.75.75-.75zm0 8.17c.41 0 .75.34.75.75v2.061c0 .409-.34.75-.75.75a.756.756 0 0 1-.75-.75V20.95c0-.41.34-.75.75-.75zm9.81 8.17c.41 0 .75.33.75.75v2.06c0 .41-.34.75-.75.75a.756.756 0 0 1-.75-.75v-2.06c0-.41.34-.75.75-.75zm-4.91-16.34c.42 0 .75.34.75.75v2.06c0 .41-.34.75-.75.75s-.75-.34-.75-.75v-2.06c0-.41.34-.75.75-.75zm0 8.17c.42 0 .75.34.75.75v2.061c0 .409-.34.75-.75.75a.756.756 0 0 1-.75-.75V20.95c0-.41.34-.75.75-.75zm4.91-8.17c.41 0 .75.34.75.75v2.06c0 .41-.34.75-.75.75s-.75-.34-.75-.75v-2.06c0-.41.34-.75.75-.75zm0 8.17c.41 0 .75.34.75.75v2.061c0 .409-.34.75-.75.75a.756.756 0 0 1-.75-.75V20.95c0-.41.34-.75.75-.75zm1.91-13.28c.41 0 .75.34.75.75s-.34.75-.75.75H9.06c-.41 0-.75-.34-.75-.75s.34-.75.75-.75h13.32z"
+              />
+            </svg>
+            <span
+              className="MuiTypography-root undefined MuiTypography-button MuiTypography-colorInherit"
+            >
+              Home
+            </span>
+          </div>
+        </li>
+        <li
+          aria-disabled={false}
+          className="MuiButtonBase-root MuiListItem-root MuiMenuItem-root makeStyles-root-1058 NavigationListItem-listItem-1050 MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+          onBlur={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          role="menuitem"
+          tabIndex={-1}
+        >
+          <div
+            className=""
+          />
+          <div
+            className="NavigationListItem-indentation-1053"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root ForwardRef-large-1078 MuiSvgIcon-colorPrimary"
+              focusable="false"
+              role="presentation"
+              style={
+                Object {
+                  "marginRight": "36px",
+                }
+              }
+              viewBox="0 0 40 40"
+            >
+              <path
+                d="M20.5 3c11.41 0 18.49 5.87 18.49 15.32S31.9 33.64 20.5 33.64c-2.78 0-5.36-.36-7.68-1.08L4.6 37.27a.72.72 0 0 1-.37.1c-.18 0-.36-.07-.5-.19a.754.754 0 0 1-.19-.86l3.12-7.1C3.61 26.53 2 22.78 2 18.32 2.01 8.87 9.09 3 20.5 3zm0 29.13c10.48 0 16.99-5.29 16.99-13.82 0-8.52-6.51-13.81-16.99-13.81-10.48 0-16.99 5.29-16.99 13.81 0 4.2 1.57 7.7 4.54 10.11.26.21.35.57.21.88l-2.43 5.53 6.53-3.75c.18-.11.4-.13.61-.06 2.25.74 4.78 1.11 7.53 1.11zm-7.92-14.77a1.51 1.51 0 1 1 0 3.02 1.51 1.51 0 0 1 0-3.02zm7.33 0a1.51 1.51 0 1 1 0 3.02 1.51 1.51 0 0 1 0-3.02zm7.33 0a1.51 1.51 0 1 1 0 3.02 1.51 1.51 0 0 1 0-3.02z"
+              />
+            </svg>
+            <span
+              className="MuiTypography-root undefined MuiTypography-button MuiTypography-colorInherit"
+            >
+              Message
+            </span>
+          </div>
+        </li>
+        <li
+          aria-disabled={false}
+          className="MuiButtonBase-root MuiListItem-root MuiMenuItem-root makeStyles-root-1058 NavigationListItem-listItem-1050 MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+          onBlur={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          role="menuitem"
+          tabIndex={-1}
+        >
+          <div
+            className=""
+          />
+          <div
+            className="NavigationListItem-indentation-1053"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root ForwardRef-large-1078 MuiSvgIcon-colorPrimary"
+              focusable="false"
+              role="presentation"
+              style={
+                Object {
+                  "marginRight": "36px",
+                }
+              }
+              viewBox="0 0 40 40"
+            >
+              <path
+                d="M28.423 23.16c.409 0 .75.34.75.75v11.12c0 1.819-1.48 3.3-3.301 3.3H4.702c-1.82 0-3.3-1.481-3.3-3.3V4.97c0-1.82 1.48-3.3 3.3-3.3h21.17a3.303 3.303 0 0 1 3.3 3.3v11.34c0 .41-.34.75-.75.75s-.75-.34-.75-.75V4.97c0-.99-.81-1.8-1.8-1.8H4.702c-.99 0-1.8.81-1.8 1.8v30.06c0 .989.81 1.8 1.8 1.8h21.17c.99 0 1.8-.811 1.8-1.8V23.91c0-.41.34-.75.75-.75zm10.17-3.022a.745.745 0 0 1-.21.562l-5.46 5.46a.748.748 0 0 1-1.06 0 .756.756 0 0 1 0-1.06l4.298-4.3h-17.17a.756.756 0 0 1-.75-.75c0-.41.341-.75.75-.75h17.05l-4.179-4.18a.754.754 0 0 1 0-1.06c.29-.29.77-.29 1.06 0l5.46 5.46a.755.755 0 0 1 .211.618z"
+              />
+            </svg>
+            <span
+              className="MuiTypography-root undefined MuiTypography-button MuiTypography-colorInherit"
+            >
+              Logout
+            </span>
+          </div>
+        </li>
+      </div>
+    </ul>
+  </div>
+</div>
+`;
+
+exports[`Storyshots NavigationList with no icon prop 1`] = `
+<div>
+  <div
+    className="MuiPaper-root ForwardRef-paper-325 MuiPaper-elevation0 MuiPaper-rounded"
+  >
+    <ul
+      className="MuiList-root ForwardRef-menuList-327 MuiList-padding"
+      onKeyDown={[Function]}
+      role="menu"
+      tabIndex={-1}
+    >
+      <li
+        aria-disabled={false}
+        className="MuiButtonBase-root MuiListItem-root MuiMenuItem-root makeStyles-root-374 NavigationListItem-listItem-366 NavigationListItem-noIcon-367 MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        role="menuitem"
+        tabIndex={0}
+      >
+        <div
+          className=""
+        />
+        <div
+          className="NavigationListItem-indentation-369"
+        >
+          <p
+            className="MuiTypography-root Text-buttonMenuItem-397 MuiTypography-body1 MuiTypography-colorInherit"
+          >
+            Usein kysyttyä
+          </p>
+        </div>
+      </li>
+      <li
+        aria-disabled={false}
+        className="MuiButtonBase-root MuiListItem-root MuiMenuItem-root makeStyles-root-374 NavigationListItem-listItem-366 NavigationListItem-active-368 NavigationListItem-noIcon-367 MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        role="menuitem"
+        tabIndex={-1}
+      >
+        <div
+          className="NavigationListItem-activeIndentation-370"
+        />
+        <div
+          className="NavigationListItem-indentation-369"
+        >
+          <p
+            className="MuiTypography-root Text-buttonMenuItem-397 MuiTypography-body1 MuiTypography-colorInherit"
+          >
+            Ajankohtaista
+          </p>
+        </div>
+      </li>
+      <li
+        aria-disabled={false}
+        className="MuiButtonBase-root MuiListItem-root MuiMenuItem-root makeStyles-root-374 NavigationListItem-listItem-366 NavigationListItem-noIcon-367 MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        role="menuitem"
+        tabIndex={-1}
+      >
+        <div
+          className=""
+        />
+        <div
+          className="NavigationListItem-indentation-369"
+        >
+          <p
+            className="MuiTypography-root Text-buttonMenuItem-397 MuiTypography-body1 MuiTypography-colorInherit"
+          >
+            Kotona
+          </p>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+`;
+
+exports[`Storyshots NavigationList with sub items 1`] = `
+<div>
+  <div
+    className="MuiPaper-root ForwardRef-paper-769 MuiPaper-elevation0 MuiPaper-rounded"
+  >
+    <ul
+      className="MuiList-root ForwardRef-menuList-771 MuiList-padding"
+      onKeyDown={[Function]}
+      role="menu"
+      tabIndex={-1}
+    >
+      <div
+        tabIndex={0}
+      >
+        <li
+          aria-disabled={false}
+          className="MuiButtonBase-root MuiListItem-root MuiMenuItem-root makeStyles-root-818 NavigationListItem-listItem-810 NavigationListItem-active-812 NavigationListItem-noIcon-811 MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          role="menuitem"
+          tabIndex={-1}
+        >
+          <div
+            className="NavigationListItem-activeIndentation-814"
+          />
+          <div
+            className="NavigationListItem-indentation-813"
+          >
+            <span
+              className="MuiTypography-root undefined MuiTypography-button MuiTypography-colorInherit"
+            >
+              Usein kysyttyä
+            </span>
+          </div>
+        </li>
+        <li
+          aria-disabled={false}
+          className="MuiButtonBase-root MuiListItem-root MuiMenuItem-root makeStyles-root-818 NavigationListItem-listItem-810 NavigationListItem-noIcon-811 MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          role="menuitem"
+          tabIndex={-1}
+        >
+          <div
+            className=""
+          />
+          <div
+            className="NavigationListItem-indentation-813"
+          >
+            <div
+              style={
+                Object {
+                  "display": "flex",
+                  "justifyContent": "space-between",
+                  "width": "100%",
+                }
+              }
+            >
+              <p
+                className="MuiTypography-root Text-buttonMenuItem-841 MuiTypography-body1 MuiTypography-colorInherit"
+              >
+                Label 2
+              </p>
+              <svg
+                aria-hidden="true"
+                className="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M13.236 11.993L9.17 7.927a.75.75 0 0 1 1.06-1.06l4.774 4.773a.5.5 0 0 1 0 .707l-4.773 4.773a.75.75 0 1 1-1.06-1.06l4.065-4.067z"
+                />
+              </svg>
+            </div>
+          </div>
+        </li>
+        <li
+          aria-disabled={false}
+          className="MuiButtonBase-root MuiListItem-root MuiMenuItem-root makeStyles-root-818 NavigationListItem-listItem-810 NavigationListItem-noIcon-811 MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          role="menuitem"
+          tabIndex={-1}
+        >
+          <div
+            className=""
+          />
+          <div
+            className="NavigationListItem-indentation-813"
+          >
+            <p
+              className="MuiTypography-root Text-buttonMenuItem-841 MuiTypography-body1 MuiTypography-colorInherit"
+            >
+              Label 3, Label 3, Label 3, Label 3, Label 3, Label 3, Label 3, Label 3
+            </p>
+          </div>
+        </li>
+      </div>
+    </ul>
+  </div>
+</div>
+`;

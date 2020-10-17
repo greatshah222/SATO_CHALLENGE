@@ -1,0 +1,140 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Popper From a Chip 1`] = `
+<div
+  style={
+    Object {
+      "padding": "40px",
+    }
+  }
+>
+  <div>
+    <div
+      className="SatoPopper-root-241"
+    >
+      <div
+        className="MuiButtonBase-root MuiChip-root makeStyles-root-245 makeStyles-white-253 MuiChip-clickable MuiChip-deletable makeStyles-deletable-261"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        <span
+          className="MuiChip-label makeStyles-label-257"
+        >
+          Click this Chip!
+        </span>
+        <svg
+          aria-hidden="true"
+          className="MuiSvgIcon-root MuiChip-deleteIcon makeStyles-deleteIcon-259"
+          focusable="false"
+          onClick={[Function]}
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12.007 13.236l4.066-4.066a.75.75 0 0 1 1.06 1.06l-4.773 4.774a.5.5 0 0 1-.707 0L6.88 10.231a.75.75 0 1 1 1.06-1.06l4.067 4.065z"
+          />
+        </svg>
+        <span
+          className="MuiTouchRipple-root"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Popper default 1`] = `
+<div
+  style={
+    Object {
+      "padding": "40px",
+    }
+  }
+>
+  <div>
+    <div
+      className="SatoPopper-root-44"
+    >
+      <button
+        aria-haspopup="true"
+        className="MuiButtonBase-root MuiButton-root makeStyles-root-48 MuiButton-text"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Popper
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Popper default, no side padding 1`] = `
+<div
+  style={
+    Object {
+      "padding": "40px",
+    }
+  }
+>
+  <div>
+    <div
+      className="SatoPopper-root-130"
+    >
+      <button
+        aria-haspopup="true"
+        className="MuiButtonBase-root MuiButton-root makeStyles-root-134 MuiButton-text"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Popper
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;

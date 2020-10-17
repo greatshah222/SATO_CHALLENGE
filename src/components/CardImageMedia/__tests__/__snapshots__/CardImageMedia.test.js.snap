@@ -1,0 +1,162 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots CardImageMedia Media with 3:1 aspect ratio 1`] = `
+<div>
+  <div
+    className="MuiPaper-root MuiCard-root makeStyles-root-201 MuiPaper-elevation1 MuiPaper-rounded"
+    style={
+      Object {
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="CardImageMedia-aspect31-236"
+    >
+      <div
+        className="CardImageMedia-picture-238"
+        style={
+          Object {
+            "backgroundImage": "url(/oulu-peltola.webp)",
+          }
+        }
+      />
+      <div
+        className="CardImageMedia-title-239"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots CardImageMedia Media with 4:3 aspect ratio 1`] = `
+<div>
+  <div
+    className="MuiPaper-root MuiCard-root makeStyles-root-41 MuiPaper-elevation1 MuiPaper-rounded"
+    style={
+      Object {
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="CardImageMedia-aspect43-77"
+    >
+      <div
+        className="CardImageMedia-picture-78"
+        style={
+          Object {
+            "backgroundImage": "url(/oulu-peltola.webp)",
+          }
+        }
+      />
+      <div
+        className="CardImageMedia-title-79"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots CardImageMedia Media with 16:9 aspect ratio 1`] = `
+<div>
+  <div
+    className="MuiPaper-root MuiCard-root makeStyles-root-121 MuiPaper-elevation1 MuiPaper-rounded"
+    style={
+      Object {
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="CardImageMedia-aspect169-155"
+    >
+      <div
+        className="CardImageMedia-picture-158"
+        style={
+          Object {
+            "backgroundImage": "url(/oulu-peltola.webp)",
+          }
+        }
+      />
+      <div
+        className="CardImageMedia-title-159 CardImageMedia-bigTitle-160"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots CardImageMedia Media with logo 1`] = `
+<div>
+  <div
+    className="MuiPaper-root MuiCard-root makeStyles-root-281 MuiPaper-elevation1 MuiPaper-rounded"
+    style={
+      Object {
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="CardImageMedia-aspect169-315"
+    >
+      <div
+        className="CardImageMedia-picture-318"
+        style={
+          Object {
+            "backgroundImage": "url(/oulu-peltola.webp)",
+          }
+        }
+      />
+      <div
+        className="CardImageMedia-title-319 CardImageMedia-bigTitle-320"
+      >
+        <img
+          src="FInlayson-white.svg"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots CardImageMedia Media with title 1`] = `
+<div>
+  <div
+    className="MuiPaper-root MuiCard-root makeStyles-root-400 MuiPaper-elevation1 MuiPaper-rounded"
+    style={
+      Object {
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="CardImageMedia-aspect169-434"
+    >
+      <div
+        className="CardImageMedia-picture-437"
+        style={
+          Object {
+            "backgroundImage": "url(/oulu-peltola.webp)",
+          }
+        }
+      />
+      <div
+        className="CardImageMedia-title-438 CardImageMedia-bigTitle-439"
+      >
+        <h3
+          className="MuiTypography-root undefined MuiTypography-h3"
+          style={
+            Object {
+              "color": "white",
+              "textAlign": "center",
+            }
+          }
+        >
+          It's a title!
+        </h3>
+      </div>
+    </div>
+  </div>
+</div>
+`;

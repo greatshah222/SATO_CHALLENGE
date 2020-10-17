@@ -1,0 +1,20 @@
+global:
+  type: 'size'
+  category: 'sizing'
+props:
+  buttonMinWidth:
+    value: '120px'
+  iconButtonWidth:
+    value: '56px'
+  buttonHeight:
+    value: '56px'
+  sizingIcon:
+    value: '24px'
+  sizingIconLarge:
+    value: '40px'
+  sizingIconExtraLarge:
+    value: '80px'
+  switchIcon:
+    value: '36px'
+  sizingIconMedium:
+    value: '32px'

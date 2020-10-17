@@ -1,0 +1,119 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots TextFieldWithMask Verification code 1`] = `
+<div>
+  <div
+    className="MuiFormControl-root MuiTextField-root MuiFormControl-marginDense"
+  >
+    <div
+      className="MuiInputBase-root MuiOutlinedInput-root makeStyles-root-176 TextFieldWithMask-input-175 MuiInputBase-formControl MuiInputBase-marginDense MuiOutlinedInput-marginDense"
+      onClick={[Function]}
+    >
+      <input
+        aria-invalid={false}
+        autoFocus={false}
+        className="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputMarginDense MuiOutlinedInput-inputMarginDense makeStyles-inputMarginDense-186 makeStyles-smallPadding-182"
+        disabled={false}
+        inputRef={[Function]}
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseUp={[Function]}
+        required={false}
+        style={
+          Object {
+            "letterSpacing": "1rem",
+            "textAlign": "center",
+          }
+        }
+        type="text"
+        value="······"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="PrivateNotchedOutline-root-229 MuiOutlinedInput-notchedOutline makeStyles-notchedOutline-178"
+        style={
+          Object {
+            "paddingLeft": 8,
+          }
+        }
+      >
+        <legend
+          className="PrivateNotchedOutline-legend-230"
+          style={
+            Object {
+              "width": 0.01,
+            }
+          }
+        >
+          <span
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots TextFieldWithMask default 1`] = `
+<div>
+  <div
+    className="MuiFormControl-root MuiTextField-root MuiFormControl-marginDense"
+  >
+    <div
+      className="MuiInputBase-root MuiOutlinedInput-root makeStyles-root-60 MuiInputBase-formControl MuiInputBase-marginDense MuiOutlinedInput-marginDense"
+      onClick={[Function]}
+    >
+      <input
+        aria-invalid={false}
+        autoFocus={false}
+        className="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputMarginDense MuiOutlinedInput-inputMarginDense makeStyles-inputMarginDense-70"
+        disabled={false}
+        inputRef={[Function]}
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseUp={[Function]}
+        required={false}
+        type="text"
+        value="______"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="PrivateNotchedOutline-root-113 MuiOutlinedInput-notchedOutline makeStyles-notchedOutline-62"
+        style={
+          Object {
+            "paddingLeft": 8,
+          }
+        }
+      >
+        <legend
+          className="PrivateNotchedOutline-legend-114"
+          style={
+            Object {
+              "width": 0.01,
+            }
+          }
+        >
+          <span
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+</div>
+`;

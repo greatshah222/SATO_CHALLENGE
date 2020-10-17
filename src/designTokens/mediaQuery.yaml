@@ -1,0 +1,12 @@
+global:
+  category: 'media-query'
+  type: 'size'
+props:
+  mobileExtraSmallMaxWidth:
+    value: 575.98
+  mobileMaxWidth:
+    value: 1023.98
+  desktopMinWidth:
+    value: 1024
+  desktopMaxWidth:
+    value: 1500

@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Breadcrumbs with multiple children 1`] = `<div />`;
+
+exports[`Storyshots Breadcrumbs with one child 1`] = `<div />`;

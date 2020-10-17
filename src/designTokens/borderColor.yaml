@@ -1,0 +1,10 @@
+global:
+  type: 'border-color'
+  category: 'border-color'
+props:
+  borderColorBlackMedium:
+    value: 'rgba(51,51,51,0.50)'
+  borderColorBlackLight:
+    value: 'rgba(51,51,51,0.30)'
+  borderColorBlackUltraLight:
+    value: 'rgba(51,51,51,0.20)'

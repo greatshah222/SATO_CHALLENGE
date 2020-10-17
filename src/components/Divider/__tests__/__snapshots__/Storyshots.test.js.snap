@@ -1,0 +1,129 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Divider Divider with large spacing 1`] = `
+<div>
+  <p
+    className="MuiTypography-root undefined MuiTypography-body2"
+  >
+    There are dividers among us
+  </p>
+  <hr
+    className="MuiDivider-root Divider-large-385"
+  />
+  <p
+    className="MuiTypography-root undefined MuiTypography-body2"
+  >
+    There are dividers among us
+  </p>
+  <hr
+    className="MuiDivider-root Divider-large-385"
+  />
+  <p
+    className="MuiTypography-root undefined MuiTypography-body2"
+  >
+    There are dividers among us
+  </p>
+</div>
+`;
+
+exports[`Storyshots Divider Divider with medium spacing 1`] = `
+<div>
+  <p
+    className="MuiTypography-root undefined MuiTypography-body2"
+  >
+    There are dividers among us
+  </p>
+  <hr
+    className="MuiDivider-root Divider-medium-286"
+  />
+  <p
+    className="MuiTypography-root undefined MuiTypography-body2"
+  >
+    There are dividers among us
+  </p>
+  <hr
+    className="MuiDivider-root Divider-medium-286"
+  />
+  <p
+    className="MuiTypography-root undefined MuiTypography-body2"
+  >
+    There are dividers among us
+  </p>
+</div>
+`;
+
+exports[`Storyshots Divider Divider with small spacing 1`] = `
+<div>
+  <p
+    className="MuiTypography-root undefined MuiTypography-body2"
+  >
+    There are dividers among us
+  </p>
+  <hr
+    className="MuiDivider-root Divider-small-187"
+  />
+  <p
+    className="MuiTypography-root undefined MuiTypography-body2"
+  >
+    There are dividers among us
+  </p>
+  <hr
+    className="MuiDivider-root Divider-small-187"
+  />
+  <p
+    className="MuiTypography-root undefined MuiTypography-body2"
+  >
+    There are dividers among us
+  </p>
+</div>
+`;
+
+exports[`Storyshots Divider Header divider 1`] = `
+<div>
+  <h5
+    className="MuiTypography-root undefined MuiTypography-h5"
+    style={
+      Object {
+        "marginBottom": 8,
+      }
+    }
+  >
+    Under me, you can see a divider
+  </h5>
+  <hr
+    className="MuiDivider-root"
+  />
+</div>
+`;
+
+exports[`Storyshots Divider Stretched divider 1`] = `
+<div>
+  <div
+    className="MuiPaper-root makeStyles-root-479 MuiPaper-elevation3 makeStyles-elevation3-486 MuiPaper-rounded"
+  >
+    <h5
+      className="MuiTypography-root undefined MuiTypography-h5"
+      style={
+        Object {
+          "marginBottom": 8,
+        }
+      }
+    >
+      Between us there is streched divider
+    </h5>
+    <hr
+      className="MuiDivider-root Divider-small-555 Divider-stretched-558"
+    />
+    <h5
+      className="MuiTypography-root undefined MuiTypography-h5"
+      style={
+        Object {
+          "marginBottom": 8,
+        }
+      }
+    >
+      Between us there is streched divider
+    </h5>
+  </div>
+</div>
+`;

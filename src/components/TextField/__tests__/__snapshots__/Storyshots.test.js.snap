@@ -1,0 +1,442 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots TextField Text Field 1`] = `
+<div>
+  <div
+    className="MuiFormControl-root MuiTextField-root MuiFormControl-marginDense"
+  >
+    <label
+      className="MuiFormLabel-root MuiInputLabel-root makeStyles-inputLabelRoot-86 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink makeStyles-shrink-87 MuiInputLabel-marginDense MuiInputLabel-outlined"
+      data-shrink={true}
+    >
+      Fill me!
+    </label>
+    <div
+      className="MuiInputBase-root MuiOutlinedInput-root makeStyles-root-78 MuiInputBase-formControl MuiInputBase-marginDense MuiOutlinedInput-marginDense"
+      onClick={[Function]}
+    >
+      <input
+        aria-invalid={false}
+        autoFocus={false}
+        className="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputMarginDense MuiOutlinedInput-inputMarginDense makeStyles-inputMarginDense-88"
+        disabled={false}
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="Hi! Please, type something"
+        required={false}
+        type="text"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="PrivateNotchedOutline-root-151 MuiOutlinedInput-notchedOutline makeStyles-notchedOutline-80"
+      >
+        <legend
+          className="PrivateNotchedOutline-legendLabelled-153 PrivateNotchedOutline-legendNotched-154"
+        >
+          <span>
+            Fill me!
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots TextField Text Field with adornment 1`] = `
+<div>
+  <div
+    className="MuiFormControl-root MuiTextField-root MuiFormControl-marginDense MuiFormControl-fullWidth"
+  >
+    <div
+      className="MuiInputBase-root MuiOutlinedInput-root makeStyles-root-412 MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedStart MuiOutlinedInput-adornedStart MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd MuiInputBase-marginDense MuiOutlinedInput-marginDense"
+      onClick={[Function]}
+    >
+      <div
+        className="MuiInputAdornment-root MuiInputAdornment-positionStart MuiInputAdornment-marginDense"
+      >
+        <p
+          className="MuiTypography-root undefined MuiTypography-body1"
+        >
+          Vuokra
+        </p>
+      </div>
+      <input
+        aria-invalid={false}
+        autoFocus={false}
+        className="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedStart MuiOutlinedInput-inputAdornedStart MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd MuiInputBase-inputMarginDense MuiOutlinedInput-inputMarginDense makeStyles-inputMarginDense-422"
+        disabled={false}
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        required={false}
+        type="text"
+      />
+      <div
+        className="MuiInputAdornment-root MuiInputAdornment-positionEnd MuiInputAdornment-marginDense"
+      >
+        <p
+          className="MuiTypography-root undefined MuiTypography-body1"
+        >
+          €
+        </p>
+      </div>
+      <fieldset
+        aria-hidden={true}
+        className="PrivateNotchedOutline-root-511 MuiOutlinedInput-notchedOutline makeStyles-notchedOutline-414"
+        style={
+          Object {
+            "paddingLeft": 8,
+          }
+        }
+      >
+        <legend
+          className="PrivateNotchedOutline-legend-512"
+          style={
+            Object {
+              "width": 0.01,
+            }
+          }
+        >
+          <span
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots TextField Text Field with error 1`] = `
+<div>
+  <div
+    className="MuiFormControl-root MuiTextField-root MuiFormControl-marginDense"
+  >
+    <div
+      className="MuiInputBase-root MuiOutlinedInput-root makeStyles-root-976 Mui-error Mui-error MuiInputBase-formControl MuiInputBase-marginDense MuiOutlinedInput-marginDense"
+      onClick={[Function]}
+    >
+      <input
+        aria-invalid={true}
+        autoFocus={false}
+        className="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputMarginDense MuiOutlinedInput-inputMarginDense makeStyles-inputMarginDense-986"
+        disabled={false}
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="Hi! Please, type something"
+        required={false}
+        type="text"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="PrivateNotchedOutline-root-1029 MuiOutlinedInput-notchedOutline makeStyles-notchedOutline-978"
+        style={
+          Object {
+            "paddingLeft": 8,
+          }
+        }
+      >
+        <legend
+          className="PrivateNotchedOutline-legend-1030"
+          style={
+            Object {
+              "width": 0.01,
+            }
+          }
+        >
+          <span
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+    <p
+      className="MuiFormHelperText-root makeStyles-captionText-983 MuiFormHelperText-contained Mui-error MuiFormHelperText-marginDense"
+    >
+      Fill this field!
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Storyshots TextField Text Field with floating label 1`] = `
+<div>
+  <div
+    className="MuiFormControl-root MuiTextField-root MuiFormControl-marginDense"
+  >
+    <label
+      className="MuiFormLabel-root MuiInputLabel-root makeStyles-inputLabelRoot-240 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-marginDense MuiInputLabel-outlined"
+      data-shrink={false}
+    >
+      Fill me!
+    </label>
+    <div
+      className="MuiInputBase-root MuiOutlinedInput-root makeStyles-root-232 MuiInputBase-formControl MuiInputBase-marginDense MuiOutlinedInput-marginDense"
+      onClick={[Function]}
+    >
+      <input
+        aria-invalid={false}
+        autoFocus={false}
+        className="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputMarginDense MuiOutlinedInput-inputMarginDense makeStyles-inputMarginDense-242"
+        disabled={false}
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="Hi! Please, type something"
+        required={false}
+        type="text"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="PrivateNotchedOutline-root-305 MuiOutlinedInput-notchedOutline makeStyles-notchedOutline-234"
+      >
+        <legend
+          className="PrivateNotchedOutline-legendLabelled-307"
+        >
+          <span>
+            Fill me!
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots TextField Text Field with helper text 1`] = `
+<div>
+  <div
+    className="MuiFormControl-root MuiTextField-root MuiFormControl-marginDense"
+  >
+    <div
+      className="MuiInputBase-root MuiOutlinedInput-root makeStyles-root-846 MuiInputBase-formControl MuiInputBase-marginDense MuiOutlinedInput-marginDense"
+      onClick={[Function]}
+    >
+      <input
+        aria-invalid={false}
+        autoFocus={false}
+        className="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputMarginDense MuiOutlinedInput-inputMarginDense makeStyles-inputMarginDense-856"
+        disabled={false}
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="Hi! Please, type something"
+        required={false}
+        type="text"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="PrivateNotchedOutline-root-899 MuiOutlinedInput-notchedOutline makeStyles-notchedOutline-848"
+        style={
+          Object {
+            "paddingLeft": 8,
+          }
+        }
+      >
+        <legend
+          className="PrivateNotchedOutline-legend-900"
+          style={
+            Object {
+              "width": 0.01,
+            }
+          }
+        >
+          <span
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+    <p
+      className="MuiFormHelperText-root makeStyles-captionText-853 MuiFormHelperText-contained MuiFormHelperText-marginDense"
+    >
+      Helper text
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Storyshots TextField Text Field with icon adornment 1`] = `
+<div>
+  <div
+    className="MuiFormControl-root MuiTextField-root MuiFormControl-marginDense"
+  >
+    <div
+      className="MuiInputBase-root MuiOutlinedInput-root makeStyles-root-591 MuiInputBase-formControl MuiInputBase-adornedStart MuiOutlinedInput-adornedStart MuiInputBase-marginDense MuiOutlinedInput-marginDense"
+      onClick={[Function]}
+    >
+      <div
+        className="MuiInputAdornment-root MuiInputAdornment-positionStart MuiInputAdornment-marginDense"
+      >
+        <svg
+          aria-hidden="true"
+          className="MuiSvgIcon-root"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M9.537 13.45a5.5 5.5 0 1 1 .835.835l-.462-.373-.373-.463zM3.22 19.54a.75.75 0 0 0 1.06 1.061l5.15-5.15a7 7 0 1 0-1.06-1.06l-5.15 5.15z"
+          />
+        </svg>
+      </div>
+      <input
+        aria-invalid={false}
+        autoFocus={false}
+        className="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedStart MuiOutlinedInput-inputAdornedStart MuiInputBase-inputMarginDense MuiOutlinedInput-inputMarginDense makeStyles-inputMarginDense-601"
+        disabled={false}
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        required={false}
+        type="text"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="PrivateNotchedOutline-root-663 MuiOutlinedInput-notchedOutline makeStyles-notchedOutline-593"
+        style={
+          Object {
+            "paddingLeft": 8,
+          }
+        }
+      >
+        <legend
+          className="PrivateNotchedOutline-legend-664"
+          style={
+            Object {
+              "width": 0.01,
+            }
+          }
+        >
+          <span
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots TextField Text Field with no border-radius 1`] = `
+<div>
+  <div
+    className="MuiFormControl-root MuiTextField-root MuiFormControl-marginDense"
+  >
+    <label
+      className="MuiFormLabel-root MuiInputLabel-root makeStyles-inputLabelRoot-1126 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink makeStyles-shrink-1127 MuiInputLabel-marginDense MuiInputLabel-outlined"
+      data-shrink={true}
+    >
+      Fill me!
+    </label>
+    <div
+      className="MuiInputBase-root MuiOutlinedInput-root makeStyles-root-1118 MuiInputBase-formControl MuiInputBase-marginDense MuiOutlinedInput-marginDense"
+      onClick={[Function]}
+    >
+      <input
+        aria-invalid={false}
+        autoFocus={false}
+        className="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputMarginDense MuiOutlinedInput-inputMarginDense makeStyles-inputMarginDense-1128 makeStyles-noBorderRadius-1122"
+        disabled={false}
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="Hi! Please, type something"
+        required={false}
+        type="text"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="PrivateNotchedOutline-root-1191 MuiOutlinedInput-notchedOutline makeStyles-notchedOutline-1120 makeStyles-noBorderRadius-1122"
+      >
+        <legend
+          className="PrivateNotchedOutline-legendLabelled-1193 PrivateNotchedOutline-legendNotched-1194"
+        >
+          <span>
+            Fill me!
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots TextField Textarea 1`] = `
+<div>
+  <div
+    className="MuiFormControl-root MuiTextField-root MuiFormControl-marginDense"
+  >
+    <div
+      className="MuiInputBase-root MuiOutlinedInput-root makeStyles-root-724 MuiInputBase-formControl MuiInputBase-multiline MuiOutlinedInput-multiline MuiInputBase-marginDense MuiOutlinedInput-marginDense"
+      onClick={[Function]}
+    >
+      <textarea
+        aria-invalid={false}
+        autoFocus={false}
+        className="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputMultiline MuiOutlinedInput-inputMultiline MuiInputBase-inputMarginDense MuiOutlinedInput-inputMarginDense makeStyles-inputMarginDense-734 makeStyles-noTopBottomPadding-727"
+        disabled={false}
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="Hi! Please, type something looooong"
+        required={false}
+        rows={6}
+      />
+      <fieldset
+        aria-hidden={true}
+        className="PrivateNotchedOutline-root-777 MuiOutlinedInput-notchedOutline makeStyles-notchedOutline-726"
+        style={
+          Object {
+            "paddingLeft": 8,
+          }
+        }
+      >
+        <legend
+          className="PrivateNotchedOutline-legend-778"
+          style={
+            Object {
+              "width": 0.01,
+            }
+          }
+        >
+          <span
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+</div>
+`;

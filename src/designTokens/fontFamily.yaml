@@ -1,0 +1,12 @@
+global:
+  type: 'font-family'
+  category: 'font-family'
+props:
+  fontTelefonWebBlack:
+    value: '"Telefon Web Black", "Roboto", "Helvetica", "Arial", sans-serif'
+  fontTelefonWeb:
+    value: '"Telefon Web", "Roboto", "Helvetica", "Arial", sans-serif'
+  fontBaskerville:
+    value: '"Baskerville", "Roboto", "Helvetica", "Arial", sans-serif'
+  fontLato:
+    value: '"Lato-Regular", "Roboto", "Helvetica", "Arial", sans-serif'

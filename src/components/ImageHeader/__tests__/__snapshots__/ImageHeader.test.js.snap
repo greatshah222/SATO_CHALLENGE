@@ -1,0 +1,175 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots ImageHeader Header with image 1`] = `
+<div>
+  <div
+    className="ImageHeader-liftImageContainer-4"
+  >
+    <img
+      alt="image alt"
+      className="ImageHeader-liftImage-5"
+      loading="lazy"
+      src="/helsinki.jpg"
+    />
+    <div
+      className="ImageHeader-title-6"
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots ImageHeader Header with image ratio 1`] = `
+<div>
+  <div
+    className="ImageHeader-liftImageContainer-10"
+  >
+    <img
+      alt="image alt"
+      className="ImageHeader-liftImage-11"
+      loading="lazy"
+      src="/oulu-peltola.webp"
+    />
+    <div
+      className="ImageHeader-title-12"
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots ImageHeader Header with pagecontent 1`] = `
+<div>
+  <div
+    className="ImageHeader-liftImageContainer-113"
+  >
+    <img
+      alt="img alt"
+      className="ImageHeader-liftImage-114"
+      loading="lazy"
+      src="/helsinki.jpg"
+    />
+    <div
+      className="ImageHeader-title-115"
+    />
+  </div>
+  <section
+    className="PageContent-container-116 PageContent-fullWidthMobile-118 PageContent-transparent-120"
+  >
+    <div
+      className="Box-box-123 Box-pageSectionLarge-127 Box-negativeTopMargin-135"
+    >
+      <div
+        className="MuiPaper-root makeStyles-root-137 makeStyles-fullWidthMobile-138 MuiPaper-elevation3 makeStyles-elevation3-144 MuiPaper-rounded"
+      >
+        <h3
+          className="MuiTypography-root undefined MuiTypography-h3"
+        >
+          Helsinki
+        </h3>
+        <p
+          className="MuiTypography-root undefined MuiTypography-body2"
+        >
+          Full of tiny and expensive apartments
+        </p>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Storyshots ImageHeader Header with pagecontent and logo 1`] = `
+<div>
+  <div
+    className="ImageHeader-liftImageContainer-313"
+  >
+    <img
+      alt="img alt"
+      className="ImageHeader-liftImage-314"
+      loading="lazy"
+      src="/helsinki.jpg"
+    />
+    <div
+      className="ImageHeader-title-315"
+    >
+      <img
+        alt="logo"
+        src="FInlayson-white.svg"
+      />
+    </div>
+  </div>
+  <section
+    className="PageContent-container-316 PageContent-fullWidthMobile-318 PageContent-transparent-320"
+  >
+    <div
+      className="Box-box-323 Box-pageSectionLarge-327 Box-negativeTopMargin-335"
+    >
+      <div
+        className="MuiPaper-root makeStyles-root-337 makeStyles-fullWidthMobile-338 MuiPaper-elevation3 makeStyles-elevation3-344 MuiPaper-rounded"
+      >
+        <h3
+          className="MuiTypography-root undefined MuiTypography-h3"
+        >
+          Helsinki
+        </h3>
+        <p
+          className="MuiTypography-root undefined MuiTypography-body2"
+        >
+          Full of tiny and expensive apartments
+        </p>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Storyshots ImageHeader Header with pagecontent and title 1`] = `
+<div>
+  <div
+    className="ImageHeader-liftImageContainer-513"
+  >
+    <img
+      alt="img alt"
+      className="ImageHeader-liftImage-514"
+      loading="lazy"
+      src="/helsinki.jpg"
+    />
+    <div
+      className="ImageHeader-title-515"
+    >
+      <h1
+        className="MuiTypography-root undefined MuiTypography-h1"
+        style={
+          Object {
+            "color": "white",
+            "textAlign": "center",
+            "width": "100%",
+          }
+        }
+      >
+        This is a title!
+      </h1>
+    </div>
+  </div>
+  <section
+    className="PageContent-container-555 PageContent-fullWidthMobile-557 PageContent-transparent-559"
+  >
+    <div
+      className="Box-box-562 Box-pageSectionLarge-566 Box-negativeTopMargin-574"
+    >
+      <div
+        className="MuiPaper-root makeStyles-root-576 makeStyles-fullWidthMobile-577 MuiPaper-elevation3 makeStyles-elevation3-583 MuiPaper-rounded"
+      >
+        <h3
+          className="MuiTypography-root undefined MuiTypography-h3"
+        >
+          Helsinki
+        </h3>
+        <p
+          className="MuiTypography-root undefined MuiTypography-body2"
+        >
+          Full of tiny and expensive apartments
+        </p>
+      </div>
+    </div>
+  </section>
+</div>
+`;

@@ -1,0 +1,126 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots CallToActionArea bigger padding 1`] = `
+<div>
+  <div
+    className="MuiPaper-root makeStyles-root-381 makeStyles-biggerPadding-383 MuiPaper-elevation3 makeStyles-elevation3-388 MuiPaper-rounded"
+  >
+    <h5
+      className="MuiTypography-root undefined MuiTypography-h5"
+    >
+      Content goes here
+    </h5>
+  </div>
+</div>
+`;
+
+exports[`Storyshots CallToActionArea default 1`] = `
+<div>
+  <div
+    className="MuiPaper-root makeStyles-root-77 MuiPaper-elevation3 makeStyles-elevation3-84 MuiPaper-rounded"
+  >
+    <h5
+      className="MuiTypography-root undefined MuiTypography-h5"
+    >
+      Content goes here
+    </h5>
+  </div>
+</div>
+`;
+
+exports[`Storyshots CallToActionArea full width and no border radius on mobile 1`] = `
+<div>
+  <div
+    className="MuiPaper-root makeStyles-root-229 makeStyles-fullWidthMobile-230 makeStyles-noBorderRadiusOnMobile-232 MuiPaper-elevation3 makeStyles-elevation3-236 MuiPaper-rounded"
+  >
+    <h5
+      className="MuiTypography-root undefined MuiTypography-h5"
+    >
+      Content goes here
+    </h5>
+  </div>
+</div>
+`;
+
+exports[`Storyshots CallToActionArea with call to action area content 1`] = `
+<div>
+  <section
+    className="PageContent-container-542"
+  >
+    <div
+      className="MuiPaper-root makeStyles-root-549 MuiPaper-elevation3 makeStyles-elevation3-556 MuiPaper-rounded"
+    >
+      <div
+        className="CallToActionAreaContent-CTAContainer-586"
+      >
+        <div
+          className="CallToActionAreaContent-CTAContent-587"
+        >
+          <h4
+            className="MuiTypography-root undefined MuiTypography-h4"
+          >
+            Title
+          </h4>
+          <p
+            className="MuiTypography-root undefined MuiTypography-body2"
+          >
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Storyshots CallToActionArea with call to action area content and lift 1`] = `
+<div>
+  <section
+    className="PageContent-container-716"
+  >
+    <div
+      className="MuiPaper-root makeStyles-root-723 MuiPaper-elevation3 makeStyles-elevation3-730 MuiPaper-rounded"
+    >
+      <div
+        className="CallToActionAreaContent-CTAContainer-760"
+      >
+        <div
+          className="CallToActionAreaContent-CTAContent-761"
+        >
+          <h4
+            className="MuiTypography-root undefined MuiTypography-h4"
+          >
+            Title
+          </h4>
+          <p
+            className="MuiTypography-root undefined MuiTypography-body2"
+          >
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+          </p>
+          <div
+            className="CallToActionAreaLift-lift-801"
+          >
+            <div
+              className="ImageHeader-liftImageContainer-802"
+            >
+              <img
+                className="ImageHeader-liftImage-803"
+                loading="lazy"
+                src="/helsinki.jpg"
+              />
+              <div
+                className="ImageHeader-title-804"
+              />
+            </div>
+          </div>
+          <p
+            className="MuiTypography-root undefined MuiTypography-body2"
+          >
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;

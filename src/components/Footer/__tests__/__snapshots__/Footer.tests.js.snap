@@ -1,0 +1,216 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Footer default 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "flexDirection": "column",
+        "minHeight": "100vh",
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "background": "lightgrey",
+          "height": "300px",
+          "width": "100%",
+        }
+      }
+    >
+      Content
+    </div>
+    <footer
+      className="Footer-footer-190"
+    >
+      <section
+        className="PageContent-container-202 Footer-pageContent-191"
+      >
+        <div
+          className="Box-box-209 Box-pageSectionLarge-213"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container"
+          >
+            <div
+              className="MuiGrid-root Footer-columnContainer-198 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4"
+            >
+              <div
+                className="LinkColumn-fullWidth-327"
+              >
+                <h5
+                  className="MuiTypography-root undefined LinkColumn-columnHeader-326 MuiTypography-h5"
+                >
+                  Asiakaspalvelu auttaa
+                </h5>
+                <div
+                  className="MuiGrid-root Footer-dynamicJustifyContainer-201 MuiGrid-container"
+                >
+                  <div
+                    className="MuiGrid-root MuiGrid-item"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      className="MuiSvgIcon-root ForwardRef-large-367 Footer-footerText-193 Footer-marginRightMedium-194"
+                      focusable="false"
+                      role="presentation"
+                      viewBox="0 0 40 40"
+                    >
+                      <path
+                        d="M26.102 27.72l3.53 3.54a3.227 3.227 0 0 1 0 4.58l-1.15 1.15-.02.02-.03.03c-1.15 1.15-2.78 1.7-4.69 1.7-4.32 0-10.07-2.81-15-7.74-7.11-7.11-9.81-15.93-6.04-19.7l.03-.03c0-.01 0-.01.01-.02l1.15-1.15c.63-.63 1.46-.95 2.29-.95.83 0 1.66.31 2.29.95l3.54 3.51a3.23 3.23 0 0 1 0 4.58l-2.51 2.51a26.505 26.505 0 0 0 4.09 5.25c1.73 1.74 3.6 3.15 5.47 4.23l2.46-2.46a3.234 3.234 0 0 1 4.58 0zm2.46 7.05c.68-.68.68-1.78.01-2.44l-3.53-3.53a1.733 1.733 0 0 0-2.459 0l-2.46 2.46a1.491 1.491 0 0 1-1.81.24c-2.05-1.18-4-2.69-5.78-4.47-1.71-1.71-3.17-3.58-4.33-5.55-.35-.59-.25-1.34.23-1.82l2.51-2.51c.68-.68.68-1.78 0-2.46l-3.53-3.53c-.33-.33-.77-.51-1.23-.51-.46 0-.9.18-1.23.52l-1.1 1.1-.04.04c-.022.02-.04.05-.07.07-1.37 1.4-1.61 3.97-.66 7.07 1.07 3.49 3.45 7.21 6.72 10.48 4.43 4.43 9.9 7.3 13.94 7.3 1.548 0 2.758-.42 3.598-1.24.011-.02.031-.04.04-.05a.407.407 0 0 0 .071-.06l1.11-1.11zM27.632 2c6.59 0 10.68 3.41 10.69 8.9 0 5.49-4.09 8.9-10.68 8.9-1.54 0-2.97-.2-4.26-.58l-4.48 2.57a.692.692 0 0 1-.37.1.73.73 0 0 1-.5-.19.74.74 0 0 1-.19-.86l1.65-3.75c-1.66-1.56-2.54-3.68-2.54-6.19 0-5.49 4.09-8.9 10.68-8.9zm0 16.3c5.75 0 9.18-2.76 9.18-7.39s-3.43-7.4-9.18-7.4-9.18 2.77-9.18 7.4c0 2.25.84 4.11 2.42 5.4.26.21.35.57.21.88l-.95 2.17 2.78-1.6c.19-.1.41-.12.61-.06 1.22.4 2.61.6 4.11.6zm-3.98-8.66a1.23 1.23 0 1 1 0 2.459 1.23 1.23 0 0 1 0-2.46zm7.84 0a1.23 1.23 0 1 1 0 2.46 1.23 1.23 0 0 1 0-2.46zm-3.92 0c.68 0 1.23.55 1.23 1.23a1.228 1.228 0 1 1-2.46 0c0-.68.55-1.23 1.23-1.23z"
+                        fillRule="evenodd"
+                      />
+                    </svg>
+                  </div>
+                  <div
+                    className="MuiGrid-root MuiGrid-item"
+                  >
+                    <a
+                      href="mailto:asiakaspalvelu@sato.fi"
+                    >
+                      <p
+                        className="MuiTypography-root undefined Footer-footerText-193 Footer-marginBottomSmall-196 MuiTypography-body2"
+                      >
+                        asiakaspalvelu@sato.fi
+                      </p>
+                    </a>
+                    <a
+                      href="tel://020334443"
+                    >
+                      <p
+                        className="MuiTypography-root undefined Footer-footerText-193 MuiTypography-body2"
+                      >
+                        020 334 443
+                      </p>
+                    </a>
+                    <p
+                      className="MuiTypography-root undefined Footer-footerText-193 Footer-clickable-197 MuiTypography-body2"
+                      onClick={[Function]}
+                    >
+                      Puheluiden hinnat »
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="Box-box-209 Box-pageSection-211"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container"
+          >
+            <div
+              className="MuiGrid-root Footer-middle-192 Footer-clickable-197 MuiGrid-item MuiGrid-grid-xs-12"
+              onClick={[Function]}
+            >
+              <h3
+                className="MuiTypography-root undefined Footer-footerText-193 MuiTypography-h3"
+              >
+                Kotona
+              </h3>
+              <p
+                className="MuiTypography-root Text-softy-328 Footer-footerText-193 MuiTypography-body1"
+              >
+                Innostu ideoista ja jaa omasi
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          className="Box-box-209 Box-pageSectionLarge-213"
+        >
+          <div
+            className="MuiGrid-root Footer-bottomContainer-199 MuiGrid-container MuiGrid-justify-xs-space-between"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-item"
+            >
+              <p
+                className="MuiTypography-root undefined Footer-footerText-193 Footer-marginBottomMedium-195 MuiTypography-body2"
+              >
+                © SATO Oyj   Y-tunnus: 0201470-5
+              </p>
+            </div>
+            <div
+              className="MuiGrid-root Footer-socialContainer-200 MuiGrid-item"
+            >
+              <a
+                href="https://www.instagram.com/satokoti/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <svg
+                  aria-hidden="true"
+                  className="MuiSvgIcon-root Footer-footerText-193 Footer-marginRightMedium-194"
+                  focusable="false"
+                  role="presentation"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M19.91 22.283H4.09a2.373 2.373 0 0 1-2.373-2.374V4.09A2.373 2.373 0 0 1 4.09 1.717h15.82a2.372 2.372 0 0 1 2.373 2.373v15.82a2.373 2.373 0 0 1-2.373 2.373zM12 8.045a3.954 3.954 0 1 0 0 7.91 3.956 3.956 0 0 0 0-7.91zm7.91-3.164a.791.791 0 0 0-.792-.79h-2.372a.79.79 0 0 0-.791.79v2.373a.79.79 0 0 0 .791.791h2.372a.791.791 0 0 0 .792-.791V4.881zm0 5.536h-1.79A6.34 6.34 0 0 1 18.327 12a6.327 6.327 0 1 1-12.655 0c0-.546.078-1.075.208-1.582H4.09v8.702c0 .436.354.79.792.79h14.236a.791.791 0 0 0 .792-.79v-8.702z"
+                  />
+                </svg>
+              </a>
+              <a
+                href="https://twitter.com/satokoti"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <svg
+                  aria-hidden="true"
+                  className="MuiSvgIcon-root Footer-footerText-193 Footer-marginRightMedium-194"
+                  focusable="false"
+                  role="presentation"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M22.224 5.757a8.486 8.486 0 0 1-2.41.65 4.156 4.156 0 0 0 1.845-2.284 8.486 8.486 0 0 1-2.664 1.002 4.222 4.222 0 0 0-3.062-1.304c-2.317 0-4.195 1.849-4.195 4.13 0 .323.037.638.108.94A11.972 11.972 0 0 1 3.2 4.578a4.058 4.058 0 0 0-.569 2.076c0 1.433.74 2.697 1.867 3.437a4.23 4.23 0 0 1-1.9-.516v.052c0 2 1.445 3.67 3.364 4.05a4.262 4.262 0 0 1-1.894.07c.534 1.64 2.083 2.835 3.919 2.868a8.503 8.503 0 0 1-5.21 1.768c-.34 0-.673-.02-1.001-.058a12.01 12.01 0 0 0 6.43 1.855c7.717 0 11.937-6.292 11.937-11.75 0-.179-.004-.357-.012-.534a8.459 8.459 0 0 0 2.093-2.138"
+                  />
+                </svg>
+              </a>
+              <a
+                href="https://fi-fi.facebook.com/SATO"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <svg
+                  aria-hidden="true"
+                  className="MuiSvgIcon-root Footer-footerText-193 Footer-marginRightMedium-194"
+                  focusable="false"
+                  role="presentation"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M20.935 1.957H3.065c-.612 0-1.108.496-1.108 1.108v17.87c0 .612.496 1.108 1.108 1.108h9.62v-7.778h-2.617v-3.032h2.618V8.998c0-2.595 1.584-4.008 3.899-4.008 1.108 0 2.061.083 2.339.12V7.82h-1.605c-1.259 0-1.503.599-1.503 1.477v1.935h3.002l-.39 3.032h-2.612v7.778h5.119c.612 0 1.108-.496 1.108-1.108V3.065c0-.612-.496-1.108-1.108-1.108"
+                  />
+                </svg>
+              </a>
+              <a
+                href="https://www.linkedin.com/company/sato-oyj"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <svg
+                  aria-hidden="true"
+                  className="MuiSvgIcon-root Footer-footerText-193"
+                  focusable="false"
+                  role="presentation"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M4.346 2.139c1.336 0 2.42 1.063 2.42 2.374 0 1.31-1.084 2.374-2.42 2.374-1.341 0-2.423-1.063-2.423-2.374 0-1.31 1.082-2.374 2.423-2.374zM2.254 21.86V8.687h4.181v13.174h-4.18zm6.8-13.174h4.004v1.801h.057c.558-1.035 1.92-2.128 3.952-2.128 4.228 0 5.01 2.728 5.01 6.276v7.225H17.9v-6.406c0-1.528-.027-3.493-2.17-3.493-2.173 0-2.505 1.665-2.505 3.383v6.516H9.055V8.687z"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </footer>
+  </div>
+</div>
+`;

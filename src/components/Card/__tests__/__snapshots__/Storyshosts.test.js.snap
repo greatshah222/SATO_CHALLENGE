@@ -1,0 +1,242 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Card Card with Grid inside 1`] = `
+<div>
+  <div
+    className="MuiPaper-root MuiCard-root makeStyles-root-182 MuiPaper-elevation1 MuiPaper-rounded"
+    style={
+      Object {
+        "background": "#efefef",
+      }
+    }
+  >
+    <div
+      className="MuiCardContent-root CardContent-content-217 CardContent-smallContent-219"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+        >
+          <h6
+            className="MuiTypography-root undefined MuiTypography-h6"
+          >
+            Grid item xs = 6
+          </h6>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+        >
+          <h6
+            className="MuiTypography-root undefined MuiTypography-h6"
+          >
+            Grid item xs = 6
+          </h6>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Card Card with image and content 1`] = `
+<div>
+  <div
+    className="MuiPaper-root MuiCard-root makeStyles-root-447 MuiPaper-elevation1 MuiPaper-rounded"
+    style={
+      Object {
+        "background": "#efefef",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="CardImageMedia-aspect169-481"
+    >
+      <div
+        className="CardImageMedia-picture-484"
+        style={
+          Object {
+            "backgroundImage": "url(/oulu-peltola.webp)",
+          }
+        }
+      />
+      <div
+        className="CardImageMedia-title-485 CardImageMedia-bigTitle-486"
+      />
+    </div>
+    <div
+      className="MuiCardContent-root CardContent-content-488 CardContent-smallContent-490"
+    >
+      <p
+        className="MuiTypography-root undefined MuiTypography-body2"
+      >
+        Text in card content
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Card Card with mouse events 1`] = `
+<div>
+  <div
+    className="MuiPaper-root MuiCard-root makeStyles-root-933 makeStyles-mouseEvents-936 MuiPaper-elevation1 MuiPaper-rounded"
+    style={
+      Object {
+        "background": "#efefef",
+        "width": "200px",
+      }
+    }
+  >
+    <div
+      className="MuiCardContent-root CardContent-content-968"
+    >
+      <h6
+        className="MuiTypography-root undefined MuiTypography-h6 MuiTypography-colorPrimary"
+      >
+        Small title
+      </h6>
+      <p
+        className="MuiTypography-root undefined MuiTypography-body2"
+      >
+        Text Text Text Text Text
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Card Card with squared corners 1`] = `
+<div>
+  <div
+    className="MuiPaper-root MuiCard-root makeStyles-root-615 makeStyles-square-616 MuiPaper-elevation1 MuiPaper-rounded"
+    style={
+      Object {
+        "background": "#efefef",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="CardImageMedia-aspect169-649"
+    >
+      <div
+        className="CardImageMedia-picture-652"
+        style={
+          Object {
+            "backgroundImage": "url(/oulu-peltola.webp)",
+          }
+        }
+      />
+      <div
+        className="CardImageMedia-title-653 CardImageMedia-bigTitle-654"
+      />
+    </div>
+    <div
+      className="MuiCardContent-root CardContent-content-656 CardContent-smallContent-658"
+    >
+      <p
+        className="MuiTypography-root undefined MuiTypography-body2"
+      >
+        Text in card content
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Card Card withe cardMedia 1`] = `
+<div>
+  <div
+    className="MuiPaper-root MuiCard-root makeStyles-root-1195 MuiPaper-elevation1 MuiPaper-rounded"
+    style={
+      Object {
+        "background": "#efefef",
+        "width": "600px",
+      }
+    }
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container"
+      style={
+        Object {
+          "backgroundImage": "url(/oulu-peltola.webp)",
+          "backgroundPosition": "50%",
+          "backgroundRepeat": "no-repeat",
+          "backgroundSize": "cover",
+          "height": "140px",
+        }
+      }
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        style={
+          Object {
+            "position": "relative",
+          }
+        }
+      >
+        <h3
+          className="MuiTypography-root undefined MuiTypography-h3"
+          style={
+            Object {
+              "position": "absolute",
+              "textAlign": "center",
+              "top": "50%",
+              "transform": "translateY(-50%)",
+              "width": "100%",
+            }
+          }
+        >
+          Media Header
+        </h3>
+      </div>
+    </div>
+    <div
+      className="MuiCardContent-root CardContent-content-1375"
+    >
+      <h6
+        className="MuiTypography-root undefined MuiTypography-h6"
+      >
+        title
+      </h6>
+      <p
+        className="MuiTypography-root undefined MuiTypography-body1"
+      >
+        Media to include any other media provided by MUI CardMedia
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Card Small card 1`] = `
+<div>
+  <div
+    className="MuiPaper-root MuiCard-root makeStyles-root-777 makeStyles-smallCard-779 MuiPaper-elevation1 MuiPaper-rounded"
+    style={
+      Object {
+        "background": "#efefef",
+        "width": "200px",
+      }
+    }
+  >
+    <div
+      className="MuiCardContent-root CardContent-content-812"
+    >
+      <h6
+        className="MuiTypography-root undefined MuiTypography-h6 MuiTypography-colorPrimary"
+      >
+        Small title
+      </h6>
+      <p
+        className="MuiTypography-root undefined MuiTypography-body2"
+      >
+        low radius, square on mobile
+      </p>
+    </div>
+  </div>
+</div>
+`;

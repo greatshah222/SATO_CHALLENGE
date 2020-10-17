@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Alert error 1`] = `
+<div>
+  <div
+    className="MuiPaper-root Alert-info-400 Alert-error-402 MuiPaper-elevation0 MuiPaper-rounded"
+  >
+    <div>
+      <p
+        className="MuiTypography-root undefined MuiTypography-body1 MuiTypography-colorError"
+      >
+        This is a error
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Alert long text 1`] = `
+<div>
+  <div
+    className="MuiPaper-root Alert-info-562 MuiPaper-elevation0 MuiPaper-rounded"
+  >
+    <div
+      className="Alert-icon-563"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root MuiSvgIcon-colorPrimary"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12 0c6.627 0 12 5.373 12 12s-5.373 12-12 12S0 18.627 0 12 5.373 0 12 0zm0 1.5C6.201 1.5 1.5 6.201 1.5 12S6.201 22.5 12 22.5 22.5 17.799 22.5 12 17.799 1.5 12 1.5zm-1.354 5.163c0-.37.133-.688.4-.954.267-.267.585-.4.954-.4.37 0 .687.133.954.4.267.266.4.584.4.954s-.133.687-.4.954c-.267.267-.585.4-.954.4-.37 0-.687-.133-.954-.4a1.303 1.303 0 0 1-.4-.954zm.27 3.151h2.167v8.667h-2.166V9.814z"
+        />
+      </svg>
+    </div>
+    <div>
+      <p
+        className="MuiTypography-root undefined MuiTypography-body1"
+      >
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.
+        </p>
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Alert with icon 1`] = `
+<div>
+  <div
+    className="MuiPaper-root Alert-info-88 MuiPaper-elevation0 MuiPaper-rounded"
+  >
+    <div
+      className="Alert-icon-89"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root MuiSvgIcon-colorPrimary"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12 0c6.627 0 12 5.373 12 12s-5.373 12-12 12S0 18.627 0 12 5.373 0 12 0zm0 1.5C6.201 1.5 1.5 6.201 1.5 12S6.201 22.5 12 22.5 22.5 17.799 22.5 12 17.799 1.5 12 1.5zm-1.354 5.163c0-.37.133-.688.4-.954.267-.267.585-.4.954-.4.37 0 .687.133.954.4.267.266.4.584.4.954s-.133.687-.4.954c-.267.267-.585.4-.954.4-.37 0-.687-.133-.954-.4a1.303 1.303 0 0 1-.4-.954zm.27 3.151h2.167v8.667h-2.166V9.814z"
+        />
+      </svg>
+    </div>
+    <div>
+      <p
+        className="MuiTypography-root undefined MuiTypography-body1"
+      >
+        This is an alert
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Alert without icon 1`] = `
+<div>
+  <div
+    className="MuiPaper-root Alert-info-250 MuiPaper-elevation0 MuiPaper-rounded"
+  >
+    <div>
+      <p
+        className="MuiTypography-root undefined MuiTypography-body1"
+      >
+        This is an alert
+      </p>
+    </div>
+  </div>
+</div>
+`;

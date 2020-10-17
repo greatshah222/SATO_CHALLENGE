@@ -1,0 +1,12 @@
+global:
+  type: 'size'
+  category: 'line-height'
+props:
+  lineHeightEven:
+    value: '1em'
+  lineHeightMini:
+    value: '1.1em'
+  lineHeightSmall:
+    value: '1.2em'
+  lineHeightNormal:
+    value: '1.5em'

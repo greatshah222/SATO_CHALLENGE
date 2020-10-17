@@ -1,0 +1,37 @@
+global:
+  type: 'size'
+  category: 'spacing'
+props:
+  spacingLetter:
+    value: '0'
+  spacingLetterSmall:
+    value: '0.0125em'
+  spacingLetterGenerous:
+    value: '0.02em'
+  spacingSmall:
+    value: '0.5rem'
+    comment: 'Desktop: 9px, mobile: 8px'
+  spacingMedium:
+    value: '1rem'
+    comment: 'Desktop: 18px, mobile: 16px'
+  spacingLarge:
+    value: '1.5rem'
+    comment: 'Desktop: 27px, mobile: 23px'
+  spacingXl:
+    value: '2rem'
+    comment: 'Desktop: 36px, mobile: 32px'
+  spacing2Xl:
+    value: '2.5rem'
+    comment: 'Desktop: 45px, mobile: 40px'
+  spacing3Xl:
+    value: '3rem'
+    comment: 'Desktop: 54px, mobile: 48px'
+  spacing4Xl:
+    value: '3.5rem'
+    comment: 'Desktop: 63px, mobile: 56px'
+  spacing5Xl:
+    value: '4rem'
+    comment: 'Desktop: 72px, mobile: 64px'
+  spacingGargantual:
+    value: '5rem'
+    comment: 'Desktop: 90px, mobile: 80px'

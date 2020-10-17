@@ -1,0 +1,16 @@
+global:
+  type: 'time'
+  category: 'time'
+props:
+  fastestTime:
+    value: 100
+  fastTime:
+    value: 150
+  moderateTime:
+    value: 300
+  moderateSlowTime:
+    value: 350
+  slowTime:
+    value: 500
+  slowestTime:
+    value: 700

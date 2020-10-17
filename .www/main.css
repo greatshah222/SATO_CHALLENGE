@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* Desktop: 45px, mobile: 40px */
+/* Desktop: 9px, mobile: 8px */
+/* Desktop: 54px, mobile: 48px */
+/* Desktop: 63px, mobile: 56px */
+/* Desktop: 72px, mobile: 64px */
+/* Desktop: 90px, mobile: 80px */
+/* Desktop: 36px, mobile: 32px */
+/* Desktop: 27px, mobile: 23px */
+/* Desktop: 18px, mobile: 16px */
+/* aamu */
+/* aamu-ultradark */
+/* päivä-ultralight */
+/* orangeTheme light */
+/* ilta */
+/* cyanTheme default */
+/* orangeTheme dark */
+/* päivä-ultradark */
+/* aamu-ultralight */
+/* ilta-ultralight */
+/* pinkTheme dark */
+/* cyanTheme light */
+/* ilta */
+/* orangeTheme default */
+/* purpleTheme dark */
+/* yö */
+/* aamu light */
+/* aamu-dark */
+/* purpleTheme light */
+/* päivä */
+/* pinkTheme default */
+/* ilta-ultralight */
+/* cyanTheme dark */
+/* pinkTheme light */
+/* ilta-ultralight */
+/* päivä-light */
+/* purpleTheme default */
+body {
+  padding: 1rem;
+  font-family: sans-serif; }

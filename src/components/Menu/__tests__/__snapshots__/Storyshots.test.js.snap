@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Menu default 1`] = `
+<div
+  style={
+    Object {
+      "padding": "40px",
+    }
+  }
+>
+  <div>
+    <div
+      className="Menu-root-56"
+    >
+      <button
+        aria-haspopup="true"
+        className="MuiButtonBase-root MuiButton-root makeStyles-root-60 MuiButton-text MenuButton-root-58"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Profile
+           
+          <svg
+            aria-hidden="true"
+            className="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12.007 13.236l4.066-4.066a.75.75 0 0 1 1.06 1.06l-4.773 4.774a.5.5 0 0 1-.707 0L6.88 10.231a.75.75 0 1 1 1.06-1.06l4.067 4.065z"
+            />
+          </svg>
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots CardContent Content with Grid inside 1`] = `
+<div>
+  <div
+    className="MuiPaper-root MuiCard-root makeStyles-root-182 MuiPaper-elevation1 MuiPaper-rounded"
+    style={
+      Object {
+        "background": "#efefef",
+      }
+    }
+  >
+    <div
+      className="MuiCardContent-root CardContent-content-217"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+        >
+          <h6
+            className="MuiTypography-root undefined MuiTypography-h6"
+          >
+            Grid item xs = 6
+          </h6>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+        >
+          <h6
+            className="MuiTypography-root undefined MuiTypography-h6"
+          >
+            Grid item xs = 6
+          </h6>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots CardContent Content with centered content 1`] = `
+<div>
+  <div
+    className="MuiPaper-root MuiCard-root makeStyles-root-597 MuiPaper-elevation1 MuiPaper-rounded"
+    style={
+      Object {
+        "background": "#efefef",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="MuiCardContent-root CardContent-content-632 CardContent-container-633"
+    >
+      <h6
+        className="MuiTypography-root undefined MuiTypography-h6 MuiTypography-colorPrimary"
+      >
+        Title
+      </h6>
+      <p
+        className="MuiTypography-root undefined MuiTypography-body2"
+      >
+        Content in the center, normal margins
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots CardContent Small content margins 1`] = `
+<div>
+  <div
+    className="MuiPaper-root MuiCard-root makeStyles-root-441 MuiPaper-elevation1 MuiPaper-rounded"
+    style={
+      Object {
+        "background": "#efefef",
+        "width": "200px",
+      }
+    }
+  >
+    <div
+      className="MuiCardContent-root CardContent-content-476 CardContent-smallContent-478"
+    >
+      <h6
+        className="MuiTypography-root undefined MuiTypography-h6 MuiTypography-colorPrimary"
+      >
+        Small title
+      </h6>
+      <p
+        className="MuiTypography-root undefined MuiTypography-body2"
+      >
+        Small margin
+      </p>
+    </div>
+  </div>
+</div>
+`;

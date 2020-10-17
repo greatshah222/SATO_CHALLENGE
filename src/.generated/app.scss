@@ -1,0 +1,149 @@
+
+$border-radius: 27px;
+$border-radius-full: 50px;
+$border-radius-medium: 16px;
+$border-radius-low: 8px;
+$border-radius-none: 0px;
+$border-color-black-medium: rgba(51,51,51,0.50);
+$border-color-black-light: rgba(51,51,51,0.30);
+$border-color-black-ultra-light: rgba(51,51,51,0.20);
+/* Desktop: 45px, mobile: 40px */
+$spacing2-xl: 2.5rem;
+/* Desktop: 9px, mobile: 8px */
+$spacing-small: 0.5rem;
+/* Desktop: 54px, mobile: 48px */
+$spacing3-xl: 3rem;
+/* Desktop: 63px, mobile: 56px */
+$spacing4-xl: 3.5rem;
+/* Desktop: 72px, mobile: 64px */
+$spacing5-xl: 4rem;
+$spacing-letter: 0;
+/* Desktop: 90px, mobile: 80px */
+$spacing-gargantual: 5rem;
+/* Desktop: 36px, mobile: 32px */
+$spacing-xl: 2rem;
+/* Desktop: 27px, mobile: 23px */
+$spacing-large: 1.5rem;
+/* Desktop: 18px, mobile: 16px */
+$spacing-medium: 1rem;
+$spacing-letter-generous: 0.02em;
+$spacing-letter-small: 0.0125em;
+$font-size1: 0.75rem;
+$font-size2: 0.88rem;
+$font-size3: 1rem;
+$font-size4: 1.125rem;
+$font-size5: 1.25rem;
+$font-size6: 1.5rem;
+$font-size7: 1.75rem;
+$font-size8: 2rem;
+$font-size9: 2.25rem;
+$font-size10: 2.625rem;
+$font-size11: 3rem;
+$font-size12: 3.375rem;
+$font-size13: 3.75rem;
+$font-size14: 4.25rem;
+$font-size15: 4.75rem;
+$font-size16: 5.25rem;
+$font-size17: 5.75rem;
+$button-min-width: 120px;
+$icon-button-width: 56px;
+$button-height: 56px;
+$sizing-icon: 24px;
+$sizing-icon-large: 40px;
+$sizing-icon-extra-large: 80px;
+$switch-icon: 36px;
+$sizing-icon-medium: 32px;
+$font-telefon-web-black: "Telefon Web Black", "Roboto", "Helvetica", "Arial", sans-serif;
+$font-telefon-web: "Telefon Web", "Roboto", "Helvetica", "Arial", sans-serif;
+$font-baskerville: "Baskerville", "Roboto", "Helvetica", "Arial", sans-serif;
+$font-lato: "Lato-Regular", "Roboto", "Helvetica", "Arial", sans-serif;
+$line-height-even: 1em;
+$line-height-mini: 1.1em;
+$line-height-small: 1.2em;
+$line-height-normal: 1.5em;
+$mobile-extra-small-max-width: 575.98;
+$mobile-max-width: 1023.98;
+$desktop-min-width: 1024;
+$desktop-max-width: 1500;
+$fastest-time: 100;
+$fast-time: 150;
+$moderate-time: 300;
+$moderate-slow-time: 350;
+$slow-time: 500;
+$slowest-time: 700;
+$shadow-low: 0 2px 6px 0 rgba(0,0,0,0.06);
+$shadow-medium: 0 4px 12px 0 rgba(0, 0, 0, 0.07);
+$shadow-high: 0 2px 46px 0 rgba(0,0,0,0.03);
+$shadow-ultra-high: 0 16px 16px 0 rgba(0,0,0,0.1);
+$performance: ease;
+$joyful: ease-in-out;
+/* aamu */
+$color-morning: #f29318;
+/* aamu-ultradark */
+$color-morning-ultra-dark: #c77300;
+$color-night-light: #f0e9f3;
+/* päivä-ultralight */
+$color-day-ultra-light: #f2fbfc;
+/* orangeTheme light */
+$color-orange-light: #fab946;
+/* ilta */
+$color-evening: #f1667c;
+$color-black-ultra-light: #f5f5f5;
+/* cyanTheme default */
+$color-cyan: #00aaba;
+$color-white: #ffffff;
+$text-black-medium: #999999;
+/* orangeTheme dark */
+$color-orange-dark: #ff910f;
+$error: #b00020;
+/* päivä-ultradark */
+$color-day-ultra-dark: #008493;
+/* aamu-ultralight */
+$color-morning-ultra-light: #fffaf3;
+$color-night-dark: #865596;
+$text-grey: #707070;
+$color-night-ultra-dark: #6c3b7c;
+$error-light: #fbf2f4;
+$color-day-dark: #009ead;
+/* ilta-ultralight */
+$color-evening-ultra-light: #fef7f8;
+/* pinkTheme dark */
+$color-pink-dark: #ea4664;
+/* cyanTheme light */
+$color-cyan-light: #00cdc8;
+/* ilta */
+$color-evening-light: #fde9ec;
+$color-black-medium: #999999;
+/* orangeTheme default */
+$color-orange: #f29318;
+$text-black: #333333;
+/* purpleTheme dark */
+$color-purple-dark: #8c50aa;
+/* yö */
+$color-night: #9f6eaf;
+/* aamu light */
+$color-morning-light: #fef1dc;
+/* aamu-dark */
+$color-morning-dark: #e18d01;
+/* purpleTheme light */
+$color-purple-light: #b487c3;
+/* päivä */
+$color-day: #00b7c6;
+/* pinkTheme default */
+$color-pink: #e64d69;
+$color-black-light: #eaeaea;
+/* ilta-ultralight */
+$color-evening-dark: #d84d63;
+/* cyanTheme dark */
+$color-cyan-dark: #0087aa;
+$color-black: #333333;
+$text-white: #ffffff;
+/* pinkTheme light */
+$color-pink-light: #ff8791;
+/* ilta-ultralight */
+$color-evening-ultra-dark: #be3349;
+/* päivä-light */
+$color-day-light: #d8f4f6;
+/* purpleTheme default */
+$color-purple: #8a58a1;
+$color-night-ultra-light: #faf8fb;

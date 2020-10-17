@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StickyCard renders correctly 1`] = `
+<StickyCard
+  classes={
+    Object {
+      "animContainer": "StickyCard-animContainer-1",
+      "animContainerNormal": "StickyCard-animContainerNormal-2",
+      "animContainerSticky": "StickyCard-animContainerSticky-3",
+      "content": "StickyCard-content-4",
+    }
+  }
+  innerZ={2000}
+/>
+`;

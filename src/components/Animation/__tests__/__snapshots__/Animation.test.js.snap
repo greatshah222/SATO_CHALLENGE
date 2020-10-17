@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Animation rise 1`] = `
+<div>
+  <div
+    className="Animation-rise-87 Animation-parent-88"
+  >
+    <div
+      className="MuiPaper-root MuiCard-root makeStyles-root-89 MuiPaper-elevation1 MuiPaper-rounded"
+      style={
+        Object {
+          "background": "#efefef",
+          "width": "400px",
+        }
+      }
+    >
+      <div
+        className="CardImageMedia-aspect169-123"
+      >
+        <div
+          className="CardImageMedia-picture-126"
+          style={
+            Object {
+              "backgroundImage": "url(/oulu-peltola.webp)",
+            }
+          }
+        />
+        <div
+          className="CardImageMedia-title-127 CardImageMedia-bigTitle-128"
+        />
+      </div>
+      <div
+        className="MuiCardContent-root CardContent-content-130 CardContent-smallContent-132"
+      >
+        <p
+          className="MuiTypography-root undefined MuiTypography-body2"
+        >
+          Text in card content
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

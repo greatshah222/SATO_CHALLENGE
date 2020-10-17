@@ -1,0 +1,38 @@
+global:
+  type: 'size'
+  category: 'font-size'
+props:
+  fontSize1:
+    value: '0.75rem'
+  fontSize2:
+    value: '0.88rem'
+  fontSize3:
+    value: '1rem'
+  fontSize4:
+    value: '1.125rem'
+  fontSize5:
+    value: '1.25rem'
+  fontSize6:
+    value: '1.5rem'
+  fontSize7:
+    value: '1.75rem'
+  fontSize8:
+    value: '2rem'
+  fontSize9:
+    value: '2.25rem'
+  fontSize10:
+    value: '2.625rem'
+  fontSize11:
+    value: '3rem'
+  fontSize12:
+    value: '3.375rem'
+  fontSize13:
+    value: '3.75rem'
+  fontSize14:
+    value: '4.25rem'
+  fontSize15:
+    value: '4.75rem'
+  fontSize16:
+    value: '5.25rem'
+  fontSize17:
+    value: '5.75rem'

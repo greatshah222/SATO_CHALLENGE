@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots InputLabel error 1`] = `
+<div>
+  <label
+    className="MuiFormLabel-root MuiInputLabel-root InputLabel-root-64 MuiInputLabel-animated Mui-error Mui-error"
+  >
+    Standard label
+  </label>
+</div>
+`;
+
+exports[`Storyshots InputLabel standard 1`] = `
+<div>
+  <label
+    className="MuiFormLabel-root MuiInputLabel-root InputLabel-root-22 MuiInputLabel-animated"
+  >
+    Standard label
+  </label>
+</div>
+`;

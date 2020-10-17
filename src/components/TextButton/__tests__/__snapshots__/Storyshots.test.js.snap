@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots TextButton Bold 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiButton-root makeStyles-root-243 MuiButton-text TextButton-textButton-241"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiButton-label"
+    >
+      <p
+        className="MuiTypography-root undefined Text-bold-290 TextButton-textButtonText-242 MuiTypography-body1"
+      >
+        Text button with bold text
+      </p>
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots TextButton Default 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiButton-root makeStyles-root-83 MuiButton-text TextButton-textButton-81"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiButton-label"
+    >
+      <p
+        className="MuiTypography-root undefined TextButton-textButtonText-82 MuiTypography-body1"
+      >
+        Text button
+      </p>
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots TextButton With color 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiButton-root makeStyles-root-403 MuiButton-text TextButton-textButton-401"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiButton-label"
+    >
+      <p
+        className="MuiTypography-root undefined Text-bold-450 TextButton-textButtonText-402 MuiTypography-body1 MuiTypography-colorPrimary"
+      >
+        Text button with primary color
+      </p>
+    </span>
+  </button>
+</div>
+`;

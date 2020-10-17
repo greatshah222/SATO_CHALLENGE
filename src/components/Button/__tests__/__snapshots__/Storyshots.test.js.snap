@@ -1,0 +1,414 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Button angular full width 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiButton-root makeStyles-root-664 makeStyles-contained-667 MuiButton-contained makeStyles-angular-665 MuiButton-containedPrimary MuiButton-fullWidth"
+    disabled={false}
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiButton-label"
+    >
+      Button
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button contained 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiButton-root makeStyles-root-118 makeStyles-contained-121 MuiButton-contained MuiButton-containedPrimary"
+    disabled={false}
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiButton-label"
+    >
+      Button
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button disabled 1`] = `
+<div>
+  <div>
+    <div
+      style={
+        Object {
+          "marginBottom": "32px",
+        }
+      }
+    >
+      <button
+        className="MuiButtonBase-root MuiButton-root makeStyles-root-508 MuiButton-text MuiButton-textPrimary Mui-disabled Mui-disabled"
+        disabled={true}
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={-1}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Button
+        </span>
+      </button>
+    </div>
+    <div
+      style={
+        Object {
+          "marginBottom": "32px",
+        }
+      }
+    >
+      <button
+        className="MuiButtonBase-root MuiButton-root makeStyles-root-508 makeStyles-outlined-512 MuiButton-outlined MuiButton-outlinedPrimary Mui-disabled Mui-disabled"
+        disabled={true}
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={-1}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Button
+        </span>
+      </button>
+    </div>
+    <div
+      style={
+        Object {
+          "marginBottom": "32px",
+        }
+      }
+    >
+      <button
+        className="MuiButtonBase-root MuiButton-root makeStyles-root-508 makeStyles-contained-511 MuiButton-contained MuiButton-containedPrimary Mui-disabled Mui-disabled"
+        disabled={true}
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={-1}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Button
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Button large 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiButton-root makeStyles-root-430 makeStyles-outlined-434 MuiButton-outlined MuiButton-outlinedPrimary MuiButton-outlinedSizeLarge MuiButton-sizeLarge"
+    disabled={false}
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiButton-label"
+    >
+      Button
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button no variant 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiButton-root makeStyles-root-274 MuiButton-text MuiButton-textPrimary"
+    disabled={false}
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiButton-label"
+    >
+      Button
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button outlined 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiButton-root makeStyles-root-196 makeStyles-outlined-200 MuiButton-outlined MuiButton-outlinedPrimary"
+    disabled={false}
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiButton-label"
+    >
+      Button
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button playground 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiButton-root makeStyles-root-844 makeStyles-contained-847 MuiButton-contained MuiButton-containedPrimary"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiButton-label"
+    >
+      Button
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button small 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiButton-root makeStyles-root-352 makeStyles-outlined-356 MuiButton-outlined MuiButton-outlinedPrimary MuiButton-outlinedSizeSmall MuiButton-sizeSmall"
+    disabled={false}
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiButton-label"
+    >
+      Button
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button text 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiButton-root makeStyles-root-40 makeStyles-text-42 MuiButton-text MuiButton-textPrimary"
+    disabled={false}
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiButton-label"
+    >
+      Button
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button text in two rows 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "width": "120px",
+      }
+    }
+  >
+    <button
+      className="MuiButtonBase-root MuiButton-root makeStyles-root-586 makeStyles-outlined-590 MuiButton-outlined MuiButton-outlinedPrimary"
+      disabled={false}
+      onBlur={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiButton-label"
+      >
+        Button overflow
+      </span>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Button with icon 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiButton-root makeStyles-root-754 makeStyles-contained-757 MuiButton-contained MuiButton-containedPrimary"
+    disabled={false}
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiButton-label"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style={
+          Object {
+            "paddingRight": "0.5rem",
+          }
+        }
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12.75 11.25h7.5a.75.75 0 1 1 0 1.5h-7.5v7.5a.75.75 0 1 1-1.5 0v-7.5h-7.5a.75.75 0 1 1 0-1.5h7.5v-7.5a.75.75 0 1 1 1.5 0v7.5z"
+        />
+      </svg>
+      <span
+        style={
+          Object {
+            "paddingTop": "2px",
+          }
+        }
+      >
+        Button
+      </span>
+    </span>
+  </button>
+</div>
+`;

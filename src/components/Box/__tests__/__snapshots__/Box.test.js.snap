@@ -1,0 +1,343 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Box no padding 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "background": "orange",
+        "height": "200px",
+        "width": "100%",
+      }
+    }
+  />
+  <section
+    className="PageContent-container-1 PageContent-containerPadding-6"
+  >
+    <div
+      className="Box-box-8"
+    >
+      <div
+        style={
+          Object {
+            "background": "white",
+            "borderRadius": "8px",
+            "height": "100px",
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "width": "50%",
+          }
+        }
+      >
+        section
+      </div>
+    </div>
+    <div
+      className="Box-box-8"
+    >
+      <div
+        style={
+          Object {
+            "background": "white",
+            "borderRadius": "8px",
+            "height": "100px",
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "width": "50%",
+          }
+        }
+      >
+        section
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Storyshots Box page section 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "background": "orange",
+        "height": "200px",
+        "width": "100%",
+      }
+    }
+  />
+  <section
+    className="PageContent-container-22 PageContent-containerPadding-27"
+  >
+    <div
+      className="Box-box-29 Box-pageSection-31"
+    >
+      <div
+        style={
+          Object {
+            "background": "white",
+            "borderRadius": "8px",
+            "height": "100px",
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "width": "50%",
+          }
+        }
+      >
+        section
+      </div>
+    </div>
+    <div
+      className="Box-box-29 Box-pageSection-31"
+    >
+      <div
+        style={
+          Object {
+            "background": "white",
+            "borderRadius": "8px",
+            "height": "100px",
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "width": "50%",
+          }
+        }
+      >
+        section
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Storyshots Box page section extra small 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "background": "orange",
+        "height": "200px",
+        "width": "100%",
+      }
+    }
+  />
+  <section
+    className="PageContent-container-85 PageContent-containerPadding-90"
+  >
+    <div
+      className="Box-box-92 Box-pageSectionXSmall-100"
+    >
+      <div
+        style={
+          Object {
+            "background": "white",
+            "borderRadius": "8px",
+            "height": "100px",
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "width": "50%",
+          }
+        }
+      >
+        section
+      </div>
+    </div>
+    <div
+      className="Box-box-92 Box-pageSectionXSmall-100"
+    >
+      <div
+        style={
+          Object {
+            "background": "white",
+            "borderRadius": "8px",
+            "height": "100px",
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "width": "50%",
+          }
+        }
+      >
+        section
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Storyshots Box page section large 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "background": "orange",
+        "height": "200px",
+        "width": "100%",
+      }
+    }
+  />
+  <section
+    className="PageContent-container-43 PageContent-containerPadding-48"
+  >
+    <div
+      className="Box-box-50 Box-pageSectionLarge-54"
+    >
+      <div
+        style={
+          Object {
+            "background": "white",
+            "borderRadius": "8px",
+            "height": "100px",
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "width": "50%",
+          }
+        }
+      >
+        section
+      </div>
+    </div>
+    <div
+      className="Box-box-50 Box-pageSectionLarge-54"
+    >
+      <div
+        style={
+          Object {
+            "background": "white",
+            "borderRadius": "8px",
+            "height": "100px",
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "width": "50%",
+          }
+        }
+      >
+        section
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Storyshots Box page section lifted 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "background": "orange",
+        "height": "200px",
+        "width": "100%",
+      }
+    }
+  />
+  <section
+    className="PageContent-container-106"
+  >
+    <div
+      className="Box-box-113 Box-pageSection-115 Box-negativeTopMargin-125"
+    >
+      <div
+        style={
+          Object {
+            "background": "white",
+            "borderRadius": "8px",
+            "height": "100px",
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "width": "50%",
+          }
+        }
+      >
+        section
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Storyshots Box page section lifted even more 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "background": "orange",
+        "height": "400px",
+        "width": "100%",
+      }
+    }
+  />
+  <section
+    className="PageContent-container-127"
+  >
+    <div
+      className="Box-box-134 Box-pageSection-136 Box-largeNegativeTopMargin-147"
+    >
+      <div
+        style={
+          Object {
+            "background": "white",
+            "borderRadius": "8px",
+            "height": "250px",
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "width": "50%",
+          }
+        }
+      >
+        section
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Storyshots Box page section small 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "background": "orange",
+        "height": "200px",
+        "width": "100%",
+      }
+    }
+  />
+  <section
+    className="PageContent-container-64 PageContent-containerPadding-69"
+  >
+    <div
+      className="Box-box-71 Box-pageSectionSmall-81"
+    >
+      <div
+        style={
+          Object {
+            "background": "white",
+            "borderRadius": "8px",
+            "height": "100px",
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "width": "50%",
+          }
+        }
+      >
+        section
+      </div>
+    </div>
+    <div
+      className="Box-box-71 Box-pageSectionSmall-81"
+    >
+      <div
+        style={
+          Object {
+            "background": "white",
+            "borderRadius": "8px",
+            "height": "100px",
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "width": "50%",
+          }
+        }
+      >
+        section
+      </div>
+    </div>
+  </section>
+</div>
+`;

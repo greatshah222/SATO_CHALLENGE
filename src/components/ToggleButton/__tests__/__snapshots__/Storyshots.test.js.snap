@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots ToggleButton not selected 1`] = `
+<div>
+  <button
+    aria-pressed={false}
+    className="MuiButtonBase-root MuiToggleButton-root makeStyles-root-12"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+    value="1"
+  >
+    <span
+      className="MuiToggleButton-label"
+    >
+      I am not selected
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots ToggleButton selected 1`] = `
+<div>
+  <button
+    aria-pressed={true}
+    className="MuiButtonBase-root MuiToggleButton-root makeStyles-root-34 Mui-selected makeStyles-selected-35"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+    value="2"
+  >
+    <span
+      className="MuiToggleButton-label"
+    >
+      I am selected
+    </span>
+  </button>
+</div>
+`;

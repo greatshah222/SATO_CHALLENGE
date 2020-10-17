@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Quote default 1`] = `
+<div>
+  <blockquote
+    className="Quote-quote-41"
+  >
+    <p
+      className="MuiTypography-root Text-softyL-43 MuiTypography-body1"
+    >
+      "Pienessäkin hommassa voi olla paljon hommaa"
+      <br />
+      T: aikamme suurin ajattelija
+    </p>
+  </blockquote>
+</div>
+`;

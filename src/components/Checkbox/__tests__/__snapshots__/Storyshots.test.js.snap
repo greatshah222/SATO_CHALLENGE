@@ -1,0 +1,175 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Checkbox default 1`] = `
+<div>
+  <div
+    className="MuiFormControl-root"
+  >
+    <label
+      className="MuiFormControlLabel-root makeStyles-labelRoot-81"
+    >
+      <span
+        aria-disabled={false}
+        className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-99 MuiCheckbox-root makeStyles-root-79 MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={null}
+      >
+        <span
+          className="MuiIconButton-label"
+        >
+          <input
+            className="PrivateSwitchBase-input-102"
+            data-indeterminate={false}
+            disabled={false}
+            onChange={[Function]}
+            type="checkbox"
+          />
+          <svg
+            aria-hidden="true"
+            className="MuiSvgIcon-root MuiSvgIcon-colorPrimary"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M8 1.5A6.5 6.5 0 0 0 1.5 8v8A6.5 6.5 0 0 0 8 22.5h8a6.5 6.5 0 0 0 6.5-6.5V8A6.5 6.5 0 0 0 16 1.5H8zM8 0h8a8 8 0 0 1 8 8v8a8 8 0 0 1-8 8H8a8 8 0 0 1-8-8V8a8 8 0 0 1 8-8z"
+            />
+          </svg>
+        </span>
+      </span>
+      <span
+        className="MuiTypography-root MuiFormControlLabel-label makeStyles-label-82 MuiTypography-body1"
+      />
+    </label>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Checkbox with error 1`] = `
+<div>
+  <div
+    className="MuiFormControl-root"
+  >
+    <label
+      className="MuiFormControlLabel-root makeStyles-labelRoot-403"
+    >
+      <span
+        aria-disabled={false}
+        className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-421 MuiCheckbox-root makeStyles-root-401 undefined MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={null}
+      >
+        <span
+          className="MuiIconButton-label"
+        >
+          <input
+            className="PrivateSwitchBase-input-424"
+            data-indeterminate={false}
+            disabled={false}
+            onChange={[Function]}
+            type="checkbox"
+          />
+          <svg
+            aria-hidden="true"
+            className="MuiSvgIcon-root MuiSvgIcon-colorError"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M8 1.5A6.5 6.5 0 0 0 1.5 8v8A6.5 6.5 0 0 0 8 22.5h8a6.5 6.5 0 0 0 6.5-6.5V8A6.5 6.5 0 0 0 16 1.5H8zM8 0h8a8 8 0 0 1 8 8v8a8 8 0 0 1-8 8H8a8 8 0 0 1-8-8V8a8 8 0 0 1 8-8z"
+            />
+          </svg>
+        </span>
+      </span>
+      <span
+        className="MuiTypography-root MuiFormControlLabel-label makeStyles-label-404 MuiTypography-body1"
+      >
+        Check me!
+      </span>
+    </label>
+    <p
+      className="MuiFormHelperText-root FormHelperText-helperText-479 FormHelperText-error-480 Mui-error"
+    >
+      Error
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Checkbox with label 1`] = `
+<div>
+  <div
+    className="MuiFormControl-root"
+  >
+    <label
+      className="MuiFormControlLabel-root makeStyles-labelRoot-237"
+    >
+      <span
+        aria-disabled={false}
+        className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-255 MuiCheckbox-root makeStyles-root-235 MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={null}
+      >
+        <span
+          className="MuiIconButton-label"
+        >
+          <input
+            className="PrivateSwitchBase-input-258"
+            data-indeterminate={false}
+            disabled={false}
+            onChange={[Function]}
+            type="checkbox"
+          />
+          <svg
+            aria-hidden="true"
+            className="MuiSvgIcon-root MuiSvgIcon-colorPrimary"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M8 1.5A6.5 6.5 0 0 0 1.5 8v8A6.5 6.5 0 0 0 8 22.5h8a6.5 6.5 0 0 0 6.5-6.5V8A6.5 6.5 0 0 0 16 1.5H8zM8 0h8a8 8 0 0 1 8 8v8a8 8 0 0 1-8 8H8a8 8 0 0 1-8-8V8a8 8 0 0 1 8-8z"
+            />
+          </svg>
+        </span>
+      </span>
+      <span
+        className="MuiTypography-root MuiFormControlLabel-label makeStyles-label-238 MuiTypography-body1"
+      >
+        Check me!
+      </span>
+    </label>
+  </div>
+</div>
+`;

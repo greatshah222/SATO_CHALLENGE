@@ -1,0 +1,311 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots SubViewTopNav left and right item 1`] = `
+<div>
+  <section
+    className="PageContent-container-511 SubViewTopNav-navigation-509"
+  >
+    <div
+      className="MuiGrid-root SubViewTopNav-container-508 MuiGrid-container"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      >
+        <div
+          className="SubViewTopNavItem-item-621"
+          style={
+            Object {
+              "cursor": "pointer",
+            }
+          }
+        >
+          <svg
+            aria-hidden="true"
+            className="MuiSvgIcon-root SubViewTopNavItem-marginRightSmall-624 SubViewTopNavItem-centerSelf-623"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M13.412 12.003l5.297-5.296a1 1 0 1 0-1.414-1.414l-5.297 5.295-5.294-5.295a1 1 0 1 0-1.415 1.414l5.295 5.295-5.295 5.293a1 1 0 0 0 1.415 1.414l5.294-5.292 5.291 5.292a1 1 0 0 0 1.415-1.414l-5.292-5.292z"
+            />
+          </svg>
+          <p
+            className="MuiTypography-root Text-label-642 SubViewTopNavItem-navText-622 MuiTypography-body1"
+          >
+            Cancel
+          </p>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-xs-center MuiGrid-grid-xs-4"
+      />
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      >
+        <div
+          className="SubViewTopNav-alignEnd-510"
+        >
+          <div
+            className="SubViewTopNavItem-item-621"
+            style={
+              Object {
+                "cursor": "pointer",
+              }
+            }
+          >
+            <p
+              className="MuiTypography-root Text-label-642 SubViewTopNavItem-navText-622 MuiTypography-body1"
+            >
+              Info
+            </p>
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root SubViewTopNavItem-marginLeftSmall-625 SubViewTopNavItem-centerSelf-623"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 0c6.627 0 12 5.373 12 12s-5.373 12-12 12S0 18.627 0 12 5.373 0 12 0zm0 1.5C6.201 1.5 1.5 6.201 1.5 12S6.201 22.5 12 22.5 22.5 17.799 22.5 12 17.799 1.5 12 1.5zm-1.354 5.163c0-.37.133-.688.4-.954.267-.267.585-.4.954-.4.37 0 .687.133.954.4.267.266.4.584.4.954s-.133.687-.4.954c-.267.267-.585.4-.954.4-.37 0-.687-.133-.954-.4a1.303 1.303 0 0 1-.4-.954zm.27 3.151h2.167v8.667h-2.166V9.814z"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Storyshots SubViewTopNav left item 1`] = `
+<div>
+  <section
+    className="PageContent-container-173 SubViewTopNav-navigation-171"
+  >
+    <div
+      className="MuiGrid-root SubViewTopNav-container-170 MuiGrid-container"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      >
+        <div
+          className="SubViewTopNavItem-item-283"
+          style={
+            Object {
+              "cursor": "pointer",
+            }
+          }
+        >
+          <svg
+            aria-hidden="true"
+            className="MuiSvgIcon-root SubViewTopNavItem-marginRightSmall-286 SubViewTopNavItem-centerSelf-285"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M13.412 12.003l5.297-5.296a1 1 0 1 0-1.414-1.414l-5.297 5.295-5.294-5.295a1 1 0 1 0-1.415 1.414l5.295 5.295-5.295 5.293a1 1 0 0 0 1.415 1.414l5.294-5.292 5.291 5.292a1 1 0 0 0 1.415-1.414l-5.292-5.292z"
+            />
+          </svg>
+          <p
+            className="MuiTypography-root Text-label-304 SubViewTopNavItem-navText-284 MuiTypography-body1"
+          >
+            Cancel
+          </p>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-xs-center MuiGrid-grid-xs-4"
+      />
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      >
+        <div
+          className="SubViewTopNav-alignEnd-172"
+        />
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Storyshots SubViewTopNav left, right and center item 1`] = `
+<div>
+  <section
+    className="PageContent-container-849 SubViewTopNav-navigation-847"
+  >
+    <div
+      className="MuiGrid-root SubViewTopNav-container-846 MuiGrid-container"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      >
+        <div
+          className="SubViewTopNavItem-item-959"
+          style={
+            Object {
+              "cursor": "pointer",
+            }
+          }
+        >
+          <svg
+            aria-hidden="true"
+            className="MuiSvgIcon-root SubViewTopNavItem-marginRightSmall-962 SubViewTopNavItem-centerSelf-961"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M13.412 12.003l5.297-5.296a1 1 0 1 0-1.414-1.414l-5.297 5.295-5.294-5.295a1 1 0 1 0-1.415 1.414l5.295 5.295-5.295 5.293a1 1 0 0 0 1.415 1.414l5.294-5.292 5.291 5.292a1 1 0 0 0 1.415-1.414l-5.292-5.292z"
+            />
+          </svg>
+          <p
+            className="MuiTypography-root Text-label-980 SubViewTopNavItem-navText-960 MuiTypography-body1"
+          >
+            Cancel
+          </p>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-xs-center MuiGrid-grid-xs-4"
+      >
+        <h6
+          className="MuiTypography-root undefined MuiTypography-h6"
+        >
+          Title
+        </h6>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      >
+        <div
+          className="SubViewTopNav-alignEnd-848"
+        >
+          <div
+            className="SubViewTopNavItem-item-959"
+          >
+            <p
+              className="MuiTypography-root Text-label-980 SubViewTopNavItem-navText-960 MuiTypography-body1 MuiTypography-colorPrimary"
+            >
+              Info
+            </p>
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root SubViewTopNavItem-marginLeftSmall-963 SubViewTopNavItem-centerSelf-961 MuiSvgIcon-colorPrimary"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 0c6.627 0 12 5.373 12 12s-5.373 12-12 12S0 18.627 0 12 5.373 0 12 0zm0 1.5C6.201 1.5 1.5 6.201 1.5 12S6.201 22.5 12 22.5 22.5 17.799 22.5 12 17.799 1.5 12 1.5zm-1.354 5.163c0-.37.133-.688.4-.954.267-.267.585-.4.954-.4.37 0 .687.133.954.4.267.266.4.584.4.954s-.133.687-.4.954c-.267.267-.585.4-.954.4-.37 0-.687-.133-.954-.4a1.303 1.303 0 0 1-.4-.954zm.27 3.151h2.167v8.667h-2.166V9.814z"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Storyshots SubViewTopNav logo 1`] = `
+<div>
+  <section
+    className="PageContent-container-1187 SubViewTopNav-navigation-1185"
+  >
+    <div
+      className="MuiGrid-root SubViewTopNav-container-1184 MuiGrid-container"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      >
+        <div
+          className="SubViewTopNavItem-item-1297"
+          style={
+            Object {
+              "cursor": "pointer",
+            }
+          }
+        >
+          <svg
+            aria-hidden="true"
+            className="MuiSvgIcon-root SubViewTopNavItem-marginRightSmall-1300 SubViewTopNavItem-centerSelf-1299"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M13.412 12.003l5.297-5.296a1 1 0 1 0-1.414-1.414l-5.297 5.295-5.294-5.295a1 1 0 1 0-1.415 1.414l5.295 5.295-5.295 5.293a1 1 0 0 0 1.415 1.414l5.294-5.292 5.291 5.292a1 1 0 0 0 1.415-1.414l-5.292-5.292z"
+            />
+          </svg>
+          <p
+            className="MuiTypography-root Text-label-1318 SubViewTopNavItem-navText-1298 MuiTypography-body1"
+          >
+            Cancel
+          </p>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-xs-center MuiGrid-grid-xs-4"
+      >
+        <svg
+          id="Layer_1"
+          style={
+            Object {
+              "height": "24px",
+            }
+          }
+          viewBox="230.8 272.4 626.2 175.3"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <style>
+            .st5{fill:#f29318}
+          </style>
+          <path
+            className="st5"
+            d="M487.6 300.4h-36.7c-30.5 0-55.1 24.7-55.1 55.1v36.8c0 30.5 24.7 55.2 55.1 55.2h40.9v-36.9h-48.2c-6.1 0-11.1-5-11.1-11.1v-51.4c0-6.1 5-11.1 11.1-11.1H495c6.1 0 11.1 5 11.1 11.1v99.2h36.8v-91.9c-.2-30.3-24.8-55-55.3-55m213.3 36.7v-35.2H593.8v-29.2H557v119.6c0 30.5 24.7 55.2 55.2 55.2h36.7c24 0 44.4-15.4 52-36.8h-96c-6.1 0-11.1-5-11.1-11.1v-62.5h107.1zm100.7-36.7h-36.7c-30.5 0-55.2 24.7-55.2 55.1v36.8c0 30.5 24.7 55.2 55.2 55.2h36.7c30.4 0 55.1-24.7 55.1-55.2v-36.8c0-30.4-24.6-55.1-55.1-55.1m-44 110.2c-6.1 0-11.1-5-11.1-11.1v-51.4c0-6.1 5-11.1 11.1-11.1H809c6.1 0 11.1 5 11.1 11.1v51.5c0 6.1-5 11.1-11.1 11.1h-51.4v-.1zM328.2 300.4h-42c-30.5 0-55.1 24.7-55.1 55.1 0 23.9 16.6 43.8 38.9 49v-56.3c0-6.1 5-11.1 11.1-11.1h99.1c-7.6-21.4-28-36.7-52-36.7"
+          />
+          <path
+            className="st5"
+            d="M285.4 447.4h42c30.5 0 55.1-24.7 55.1-55.1 0-23.9-16.6-43.8-38.9-49v56.3c0 6.1-5 11.1-11.1 11.1h-99.1c7.6 21.4 27.9 36.7 52 36.7"
+          />
+        </svg>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      >
+        <div
+          className="SubViewTopNav-alignEnd-1186"
+        >
+          <div
+            className="SubViewTopNavItem-item-1297"
+            style={
+              Object {
+                "cursor": "pointer",
+              }
+            }
+          >
+            <p
+              className="MuiTypography-root Text-label-1318 SubViewTopNavItem-navText-1298 MuiTypography-body1"
+            >
+              Info
+            </p>
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root SubViewTopNavItem-marginLeftSmall-1301 SubViewTopNavItem-centerSelf-1299"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 0c6.627 0 12 5.373 12 12s-5.373 12-12 12S0 18.627 0 12 5.373 0 12 0zm0 1.5C6.201 1.5 1.5 6.201 1.5 12S6.201 22.5 12 22.5 22.5 17.799 22.5 12 17.799 1.5 12 1.5zm-1.354 5.163c0-.37.133-.688.4-.954.267-.267.585-.4.954-.4.37 0 .687.133.954.4.267.266.4.584.4.954s-.133.687-.4.954c-.267.267-.585.4-.954.4-.37 0-.687-.133-.954-.4a1.303 1.303 0 0 1-.4-.954zm.27 3.151h2.167v8.667h-2.166V9.814z"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;

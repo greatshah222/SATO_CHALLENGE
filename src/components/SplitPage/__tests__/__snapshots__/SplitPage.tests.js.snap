@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots SplitPage default 1`] = `
+<div>
+  <div
+    className="MuiGrid-root SplitPage-container-200 MuiGrid-container"
+  >
+    <div
+      className="MuiGrid-root SplitPage-bg-201 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6"
+    >
+      <div
+        className="MuiGrid-root SplitPage-contentContainer-202 MuiGrid-container"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-11"
+        >
+          <div
+            className="Box-box-307 Box-pageSectionSmall-317"
+          >
+            <h3
+              className="MuiTypography-root undefined MuiTypography-h3 MuiTypography-colorPrimary"
+            >
+              Kiitos hakemuksestasi
+            </h3>
+          </div>
+          <div
+            className="Box-box-307 Box-pageSectionXSmall-315"
+          >
+            <p
+              className="MuiTypography-root undefined MuiTypography-body1"
+            >
+              Myyntiedustajamme on sinuun yhteydessä puhelimitse tai sähköpostitse kun toiveitasi vastaavia koteja on saatavilla.
+            </p>
+          </div>
+          <div
+            className="Box-box-307 Box-pageSectionSmall-317"
+          >
+            <p
+              className="MuiTypography-root undefined MuiTypography-body1"
+            >
+              Hakemuksestasi on lähetetty kooste sähköpostitse osoitteeseen david@hasselhoff.com.
+               
+            </p>
+          </div>
+          <div
+            className="Box-box-307"
+          >
+            <button
+              className="MuiButtonBase-root MuiButton-root makeStyles-root-360 makeStyles-contained-363 MuiButton-contained MuiButton-containedPrimary"
+              disabled={false}
+              onBlur={[Function]}
+              onDragLeave={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              tabIndex={0}
+              type="button"
+            >
+              <span
+                className="MuiButton-label"
+              >
+                Siirry etusivulle
+              </span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root SplitPage-image-203 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6"
+    >
+      <img
+        alt="Header"
+        loading="lazy"
+        src="/hero-image-application-success.jpg"
+      />
+    </div>
+  </div>
+</div>
+`;

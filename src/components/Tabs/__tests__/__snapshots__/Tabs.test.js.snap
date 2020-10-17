@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tabs renders correctly 1`] = `
+<Tabs
+  classes={
+    Object {
+      "icon": "Tabs-icon-1",
+    }
+  }
+/>
+`;

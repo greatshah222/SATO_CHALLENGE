@@ -1,0 +1,469 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots PhaseButton checked 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root PhaseButton-root-163"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiTypography-root undefined PhaseButton-phase-164 PhaseButton-disabledPhase-169 MuiTypography-button"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M10.769 16.623l8.386-12.378a1 1 0 1 1 1.655 1.122l-8.984 13.262a1 1 0 0 1-1.442.229l-7.08-5.507a1 1 0 1 1 1.228-1.579l6.237 4.851z"
+        />
+      </svg>
+    </span>
+    <span
+      className="MuiTypography-root undefined PhaseButton-disabledLabel-170 MuiTypography-button"
+    >
+      Asuntotoiveeni
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots PhaseButton checked disabled 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root PhaseButton-root-511 Mui-disabled"
+    disabled={true}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={-1}
+    type="button"
+  >
+    <span
+      className="MuiTypography-root undefined PhaseButton-phase-512 PhaseButton-disabledPhase-517 MuiTypography-button"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M10.769 16.623l8.386-12.378a1 1 0 1 1 1.655 1.122l-8.984 13.262a1 1 0 0 1-1.442.229l-7.08-5.507a1 1 0 1 1 1.228-1.579l6.237 4.851z"
+        />
+      </svg>
+    </span>
+    <span
+      className="MuiTypography-root undefined PhaseButton-disabledLabel-518 MuiTypography-button"
+    >
+      Asuntotoiveeni
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots PhaseButton default 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root PhaseButton-root-51"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiTypography-root undefined PhaseButton-phase-52 MuiTypography-button"
+    >
+      2
+    </span>
+    <span
+      className="MuiTypography-root undefined MuiTypography-button"
+    >
+      Asuntotoiveeni
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots PhaseButton disabled 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root PhaseButton-root-399 Mui-disabled"
+    disabled={true}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={-1}
+    type="button"
+  >
+    <span
+      className="MuiTypography-root undefined PhaseButton-phase-400 PhaseButton-disabledPhase-405 MuiTypography-button"
+    >
+      2
+    </span>
+    <span
+      className="MuiTypography-root undefined PhaseButton-disabledLabel-406 MuiTypography-button"
+    >
+      Asuntotoiveeni
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots PhaseButton edit 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root PhaseButton-root-287"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiTypography-root undefined PhaseButton-phase-288 MuiTypography-button"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M3.202 14.69L17.36.528c.634-.634 1.731-.634 2.365 0l3.738 3.738c.316.316.49.736.49 1.182 0 .446-.174.866-.49 1.183l-2.323 2.324a2.597 2.597 0 0 1-.054.053L9.311 20.787a.704.704 0 0 1-.286.182L1.09 23.892a.673.673 0 0 1-.28.056.762.762 0 0 1-.713-1.026l2.943-7.984a.732.732 0 0 1 .162-.247zM19.49 8.448l-3.944-3.944-10.73 10.723 3.947 3.946L19.49 8.447zM3.979 21.202l3.404-1.252-.045-.046-1.626-1.626-1.673-1.667-1.25 3.396.594.599.597.596zm18.405-15.65a.153.153 0 0 0 .042-.105.133.133 0 0 0-.036-.098l-3.733-3.74c-.059-.056-.16-.057-.213-.004l-1.821 1.82 3.943 3.944 1.818-1.817zM15.955 8.04a.765.765 0 0 1 0 1.078L9.31 15.763a.757.757 0 0 1-.539.224.757.757 0 0 1-.539-.224.765.765 0 0 1 0-1.078l6.645-6.645a.765.765 0 0 1 1.078 0z"
+        />
+      </svg>
+    </span>
+    <span
+      className="MuiTypography-root undefined MuiTypography-button"
+    >
+      Asuntotoiveeni
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots PhaseButton playground 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root PhaseButton-root-1295"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiTypography-root undefined PhaseButton-phase-1296 MuiTypography-button"
+    >
+      3
+    </span>
+    <span
+      className="MuiTypography-root undefined MuiTypography-button"
+    >
+      Asuntotoiveeni
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots PhaseButton pure vertical 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root PhaseButton-root-623 PhaseButton-vertical-625"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiTypography-root undefined PhaseButton-phase-624 PhaseButton-pureVertical-626 MuiTypography-button"
+    >
+      2/4
+    </span>
+    <span
+      className="MuiTypography-root undefined MuiTypography-button"
+    >
+      Asuntotoiveeni
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots PhaseButton vertical 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root PhaseButton-root-723 PhaseButton-vertical-725"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiTypography-root undefined PhaseButton-phase-724 PhaseButton-verticalPhase-727 MuiTypography-button"
+    >
+      2/4
+    </span>
+    <h5
+      className="MuiTypography-root undefined PhaseButton-verticalLabel-728 MuiTypography-h5"
+    >
+      Asuntotoiveeni
+    </h5>
+  </button>
+</div>
+`;
+
+exports[`Storyshots PhaseButton vertical checked 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root PhaseButton-root-835 PhaseButton-vertical-837"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiTypography-root undefined PhaseButton-phase-836 PhaseButton-disabledPhase-841 PhaseButton-verticalPhase-839 MuiTypography-button"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M10.769 16.623l8.386-12.378a1 1 0 1 1 1.655 1.122l-8.984 13.262a1 1 0 0 1-1.442.229l-7.08-5.507a1 1 0 1 1 1.228-1.579l6.237 4.851z"
+        />
+      </svg>
+    </span>
+    <h5
+      className="MuiTypography-root undefined PhaseButton-verticalLabel-840 PhaseButton-disabledLabel-842 MuiTypography-h5"
+    >
+      Asuntotoiveeni
+    </h5>
+  </button>
+</div>
+`;
+
+exports[`Storyshots PhaseButton vertical checked disabled 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root PhaseButton-root-1183 PhaseButton-vertical-1185 Mui-disabled"
+    disabled={true}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={-1}
+    type="button"
+  >
+    <span
+      className="MuiTypography-root undefined PhaseButton-phase-1184 PhaseButton-disabledPhase-1189 PhaseButton-verticalPhase-1187 MuiTypography-button"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M10.769 16.623l8.386-12.378a1 1 0 1 1 1.655 1.122l-8.984 13.262a1 1 0 0 1-1.442.229l-7.08-5.507a1 1 0 1 1 1.228-1.579l6.237 4.851z"
+        />
+      </svg>
+    </span>
+    <h5
+      className="MuiTypography-root undefined PhaseButton-verticalLabel-1188 PhaseButton-disabledLabel-1190 MuiTypography-h5"
+    >
+      Asuntotoiveeni
+    </h5>
+  </button>
+</div>
+`;
+
+exports[`Storyshots PhaseButton vertical disabled 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root PhaseButton-root-1071 PhaseButton-vertical-1073 Mui-disabled"
+    disabled={true}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={-1}
+    type="button"
+  >
+    <span
+      className="MuiTypography-root undefined PhaseButton-phase-1072 PhaseButton-disabledPhase-1077 PhaseButton-verticalPhase-1075 MuiTypography-button"
+    >
+      2/4
+    </span>
+    <h5
+      className="MuiTypography-root undefined PhaseButton-verticalLabel-1076 PhaseButton-disabledLabel-1078 MuiTypography-h5"
+    >
+      Asuntotoiveeni
+    </h5>
+  </button>
+</div>
+`;
+
+exports[`Storyshots PhaseButton vertical edit 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root PhaseButton-root-959 PhaseButton-vertical-961"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiTypography-root undefined PhaseButton-phase-960 PhaseButton-verticalPhase-963 MuiTypography-button"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M3.202 14.69L17.36.528c.634-.634 1.731-.634 2.365 0l3.738 3.738c.316.316.49.736.49 1.182 0 .446-.174.866-.49 1.183l-2.323 2.324a2.597 2.597 0 0 1-.054.053L9.311 20.787a.704.704 0 0 1-.286.182L1.09 23.892a.673.673 0 0 1-.28.056.762.762 0 0 1-.713-1.026l2.943-7.984a.732.732 0 0 1 .162-.247zM19.49 8.448l-3.944-3.944-10.73 10.723 3.947 3.946L19.49 8.447zM3.979 21.202l3.404-1.252-.045-.046-1.626-1.626-1.673-1.667-1.25 3.396.594.599.597.596zm18.405-15.65a.153.153 0 0 0 .042-.105.133.133 0 0 0-.036-.098l-3.733-3.74c-.059-.056-.16-.057-.213-.004l-1.821 1.82 3.943 3.944 1.818-1.817zM15.955 8.04a.765.765 0 0 1 0 1.078L9.31 15.763a.757.757 0 0 1-.539.224.757.757 0 0 1-.539-.224.765.765 0 0 1 0-1.078l6.645-6.645a.765.765 0 0 1 1.078 0z"
+        />
+      </svg>
+    </span>
+    <h5
+      className="MuiTypography-root undefined PhaseButton-verticalLabel-964 MuiTypography-h5"
+    >
+      Asuntotoiveeni
+    </h5>
+  </button>
+</div>
+`;

@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots TopRowLink playground 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "alignItems": "stretch",
+        "backgroundColor": "white",
+        "display": "flex",
+        "height": "64px",
+      }
+    }
+  >
+    <div
+      className="TopRowLink-container-53"
+    >
+      <div
+        className="TopRowLink-activeLink-52"
+      />
+      <div
+        className="MuiTypography-root undefined TopRowLink-item-54 MuiTypography-body1"
+      >
+        <a
+          className="MuiTypography-root MuiLink-root MuiLink-underlineHover TopRowLink-link-55 MuiTypography-colorPrimary"
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+        >
+          Etusivu
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;

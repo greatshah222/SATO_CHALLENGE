@@ -1,0 +1,12 @@
+global:
+  type: 'box-shadow'
+  category: 'box-shadow'
+props:
+  shadowLow:
+    value: '0 2px 6px 0 rgba(0,0,0,0.06)'
+  shadowMedium:
+    value: '0 4px 12px 0 rgba(0, 0, 0, 0.07)'
+  shadowHigh:
+    value: '0 2px 46px 0 rgba(0,0,0,0.03)'
+  shadowUltraHigh:
+    value: '0 16px 16px 0 rgba(0,0,0,0.1)'

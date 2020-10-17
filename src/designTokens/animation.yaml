@@ -1,0 +1,8 @@
+global:
+  type: 'easing'
+  category: 'animation'
+props:
+  performance:
+    value: 'ease'
+  joyful:
+    value: 'ease-in-out'

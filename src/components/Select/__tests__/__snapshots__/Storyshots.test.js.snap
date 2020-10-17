@@ -1,0 +1,214 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Select with floating label 1`] = `
+<div>
+  <div
+    className="MuiFormControl-root MuiTextField-root MuiFormControl-marginDense"
+    style={
+      Object {
+        "width": "200px",
+      }
+    }
+  >
+    <label
+      className="MuiFormLabel-root MuiInputLabel-root makeStyles-inputLabelRoot-462 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-marginDense MuiInputLabel-outlined"
+      data-shrink={false}
+    >
+      Feature
+    </label>
+    <div
+      className="MuiInputBase-root MuiOutlinedInput-root makeStyles-root-454 Select-select-451 MuiInputBase-formControl MuiInputBase-marginDense MuiOutlinedInput-marginDense"
+      onClick={[Function]}
+    >
+      <div
+        aria-haspopup="listbox"
+        aria-labelledby=" "
+        className="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input Select-input-453 MuiInputBase-inputMarginDense MuiOutlinedInput-inputMarginDense makeStyles-inputMarginDense-464"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        <span
+          dangerouslySetInnerHTML={
+            Object {
+              "__html": "&#8203;",
+            }
+          }
+        />
+      </div>
+      <input
+        autoFocus={false}
+        onAnimationStart={[Function]}
+        type="hidden"
+        value=""
+      />
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root Select-chevronDownIcon-452"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12.007 13.236l4.066-4.066a.75.75 0 0 1 1.06 1.06l-4.773 4.774a.5.5 0 0 1-.707 0L6.88 10.231a.75.75 0 1 1 1.06-1.06l4.067 4.065z"
+        />
+      </svg>
+      <fieldset
+        aria-hidden={true}
+        className="PrivateNotchedOutline-root-553 MuiOutlinedInput-notchedOutline makeStyles-notchedOutline-456"
+      >
+        <legend
+          className="PrivateNotchedOutline-legendLabelled-555"
+        >
+          <span>
+            Feature
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Select with multi selection 1`] = `
+<div>
+  <div
+    className="MuiFormControl-root MuiTextField-root MuiFormControl-marginDense"
+  >
+    <div
+      className="MuiInputBase-root MuiOutlinedInput-root makeStyles-root-262 Select-select-259 MuiInputBase-formControl MuiInputBase-marginDense MuiOutlinedInput-marginDense"
+      onClick={[Function]}
+    >
+      <div
+        aria-haspopup="listbox"
+        aria-labelledby=" "
+        className="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input Select-input-261 MuiInputBase-inputMarginDense MuiOutlinedInput-inputMarginDense makeStyles-inputMarginDense-272"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        Hissi, Sauna
+      </div>
+      <input
+        autoFocus={false}
+        onAnimationStart={[Function]}
+        type="hidden"
+        value="foo,baz"
+      />
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root Select-chevronDownIcon-260"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12.007 13.236l4.066-4.066a.75.75 0 0 1 1.06 1.06l-4.773 4.774a.5.5 0 0 1-.707 0L6.88 10.231a.75.75 0 1 1 1.06-1.06l4.067 4.065z"
+        />
+      </svg>
+      <fieldset
+        aria-hidden={true}
+        className="PrivateNotchedOutline-root-341 MuiOutlinedInput-notchedOutline makeStyles-notchedOutline-264"
+        style={
+          Object {
+            "paddingLeft": 8,
+          }
+        }
+      >
+        <legend
+          className="PrivateNotchedOutline-legend-342"
+          style={
+            Object {
+              "width": 0.01,
+            }
+          }
+        >
+          <span
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Select with single selection 1`] = `
+<div>
+  <div
+    className="MuiFormControl-root MuiTextField-root MuiFormControl-marginDense"
+  >
+    <div
+      className="MuiInputBase-root MuiOutlinedInput-root makeStyles-root-90 Select-select-87 MuiInputBase-formControl MuiInputBase-marginDense MuiOutlinedInput-marginDense"
+      onClick={[Function]}
+    >
+      <div
+        aria-haspopup="listbox"
+        aria-labelledby=" "
+        className="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input Select-input-89 MuiInputBase-inputMarginDense MuiOutlinedInput-inputMarginDense makeStyles-inputMarginDense-100"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        Parveke
+      </div>
+      <input
+        autoFocus={false}
+        onAnimationStart={[Function]}
+        type="hidden"
+        value="bar"
+      />
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root Select-chevronDownIcon-88"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12.007 13.236l4.066-4.066a.75.75 0 0 1 1.06 1.06l-4.773 4.774a.5.5 0 0 1-.707 0L6.88 10.231a.75.75 0 1 1 1.06-1.06l4.067 4.065z"
+        />
+      </svg>
+      <fieldset
+        aria-hidden={true}
+        className="PrivateNotchedOutline-root-169 MuiOutlinedInput-notchedOutline makeStyles-notchedOutline-92"
+        style={
+          Object {
+            "paddingLeft": 8,
+          }
+        }
+      >
+        <legend
+          className="PrivateNotchedOutline-legend-170"
+          style={
+            Object {
+              "width": 0.01,
+            }
+          }
+        >
+          <span
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+</div>
+`;

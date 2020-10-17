@@ -1,0 +1,1666 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots DesktopBar empty search results 1`] = `
+<div>
+  <header
+    className="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic makeStyles-root-1021 MuiAppBar-colorPrimary MuiPaper-elevation4"
+  >
+    <div
+      className="MuiToolbar-root MuiToolbar-regular makeStyles-toolbar-1025 makeStyles-linkBar-1026 MuiToolbar-gutters"
+    >
+      <div
+        className="TopRowLink-container-1086 makeStyles-link-1022"
+      >
+        <div
+          className="TopRowLink-activeLink-1085"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-1087 MuiTypography-body1"
+        >
+          <a
+            className="TopRowLink-link-1088"
+            href="/"
+          >
+            Etusivu
+          </a>
+        </div>
+      </div>
+      <div
+        className="TopRowLink-container-1086 makeStyles-link-1022"
+      >
+        <div
+          className="TopRowLink-top-1084"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-1087 MuiTypography-body1"
+        >
+          <a
+            className="MuiTypography-root MuiLink-root MuiLink-underlineHover TopRowLink-link-1088 MuiTypography-colorPrimary"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            Sijoittajille
+          </a>
+        </div>
+      </div>
+      <div
+        className="TopRowLink-container-1086 makeStyles-link-1022"
+      >
+        <div
+          className="TopRowLink-top-1084"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-1087 MuiTypography-body1"
+        >
+          <a
+            className="MuiTypography-root MuiLink-root MuiLink-underlineHover TopRowLink-link-1088 MuiTypography-colorPrimary"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            Medialle
+          </a>
+        </div>
+      </div>
+      <div
+        className="TopRowLink-container-1086 makeStyles-link-1022"
+      >
+        <div
+          className="TopRowLink-top-1084"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-1087 MuiTypography-body1"
+        >
+          <a
+            className="MuiTypography-root MuiLink-root MuiLink-underlineHover TopRowLink-link-1088 MuiTypography-colorPrimary"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            SATO yrityksenä
+          </a>
+        </div>
+      </div>
+      <div
+        className="makeStyles-grow-1023"
+      />
+      <div
+        className="TopRowLink-container-1086"
+      >
+        <div
+          className="TopRowLink-top-1084"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-1087 MuiTypography-body1"
+        >
+          <a
+            className="MuiTypography-root MuiLink-root MuiLink-underlineHover TopRowLink-link-1088 MuiTypography-colorPrimary"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            In English
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiToolbar-root MuiToolbar-regular makeStyles-toolbar-1025 makeStyles-btnBar-1027 MuiToolbar-gutters"
+    >
+      <div
+        className="makeStyles-logoContainer-1028"
+        onClick={[Function]}
+      >
+        <svg
+          className="makeStyles-logo-1029"
+          id="Layer_1"
+          viewBox="230.8 272.4 626.2 175.3"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <style>
+            .st5{fill:#f29318}
+          </style>
+          <path
+            className="st5"
+            d="M487.6 300.4h-36.7c-30.5 0-55.1 24.7-55.1 55.1v36.8c0 30.5 24.7 55.2 55.1 55.2h40.9v-36.9h-48.2c-6.1 0-11.1-5-11.1-11.1v-51.4c0-6.1 5-11.1 11.1-11.1H495c6.1 0 11.1 5 11.1 11.1v99.2h36.8v-91.9c-.2-30.3-24.8-55-55.3-55m213.3 36.7v-35.2H593.8v-29.2H557v119.6c0 30.5 24.7 55.2 55.2 55.2h36.7c24 0 44.4-15.4 52-36.8h-96c-6.1 0-11.1-5-11.1-11.1v-62.5h107.1zm100.7-36.7h-36.7c-30.5 0-55.2 24.7-55.2 55.1v36.8c0 30.5 24.7 55.2 55.2 55.2h36.7c30.4 0 55.1-24.7 55.1-55.2v-36.8c0-30.4-24.6-55.1-55.1-55.1m-44 110.2c-6.1 0-11.1-5-11.1-11.1v-51.4c0-6.1 5-11.1 11.1-11.1H809c6.1 0 11.1 5 11.1 11.1v51.5c0 6.1-5 11.1-11.1 11.1h-51.4v-.1zM328.2 300.4h-42c-30.5 0-55.1 24.7-55.1 55.1 0 23.9 16.6 43.8 38.9 49v-56.3c0-6.1 5-11.1 11.1-11.1h99.1c-7.6-21.4-28-36.7-52-36.7"
+          />
+          <path
+            className="st5"
+            d="M285.4 447.4h42c30.5 0 55.1-24.7 55.1-55.1 0-23.9-16.6-43.8-38.9-49v56.3c0 6.1-5 11.1-11.1 11.1h-99.1c7.6 21.4 27.9 36.7 52 36.7"
+          />
+        </svg>
+      </div>
+      <div
+        className="makeStyles-grow-1023"
+      />
+      <div
+        className="makeStyles-container-1033"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root makeStyles-root-1134 MuiButton-text makeStyles-button-1030 MuiButton-colorInherit MuiButton-textSizeSmall MuiButton-sizeSmall"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-label"
+          >
+            Löydä koti
+          </span>
+        </button>
+        <div
+          className="makeStyles-activeButton-1035"
+        />
+      </div>
+      <div
+        className="makeStyles-container-1033"
+      >
+        <div
+          className="Menu-root-1173"
+        >
+          <button
+            aria-haspopup="true"
+            className="MuiButtonBase-root MuiButton-root makeStyles-root-1134 MuiButton-text makeStyles-button-1030 makeStyles-smallerRightMargin-1040 MenuButton-root-1175 MuiButton-colorInherit MuiButton-textSizeSmall MuiButton-sizeSmall"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <span
+              className="MuiButton-label"
+            >
+              Tietoa asumisesta
+               
+              <svg
+                aria-hidden="true"
+                className="MuiSvgIcon-root makeStyles-chevron-1039"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12.007 13.236l4.066-4.066a.75.75 0 0 1 1.06 1.06l-4.773 4.774a.5.5 0 0 1-.707 0L6.88 10.231a.75.75 0 1 1 1.06-1.06l4.067 4.065z"
+                />
+              </svg>
+            </span>
+          </button>
+        </div>
+        <div
+          className="makeStyles-activeButton-1035 makeStyles-marginRightXl-1041"
+        />
+      </div>
+      <div
+        className="makeStyles-container-1033"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root makeStyles-root-1134 MuiButton-text makeStyles-button-1030 MuiButton-colorInherit MuiButton-textSizeSmall MuiButton-sizeSmall"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-label"
+          >
+            Ota yhteyttä
+          </span>
+        </button>
+        <div
+          className="makeStyles-bottom-1034"
+        />
+      </div>
+      <div
+        className="makeStyles-separator-1032"
+      />
+      <div
+        className="makeStyles-container-1033"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root makeStyles-root-1134 makeStyles-outlined-1138 MuiButton-outlined makeStyles-loginButton-1031 MuiButton-outlinedSizeSmall MuiButton-sizeSmall"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-label"
+          >
+            Kirjaudu
+             
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M14.693 12.954a.505.505 0 0 1 .488-.086c2.785.977 3.716 2.396 3.819 5.798a.573.573 0 0 1-.205.461c-4.592 3.761-9.916 3.832-14.58.196a.572.572 0 0 1-.215-.46c.056-3.54 1.022-5.038 3.899-6.02a.505.505 0 0 1 .476.082c1.127.883 2.101 1.264 3.168 1.264 1.045 0 2.158-.43 3.15-1.235zm-3.152 2.534c-1.18 0-2.26-.378-3.422-1.2-2.063.724-2.706 1.687-2.787 4.206 3.98 2.85 8.41 2.792 12.333-.161-.115-2.4-.729-3.307-2.71-4.021-1.067.764-2.261 1.176-3.414 1.176zm4.184-8.877c0 2.915-1.929 5.597-4.225 5.597-2.296 0-4.225-2.682-4.225-5.597C7.275 3.917 9.05 2 11.5 2c2.451 0 4.225 1.917 4.225 4.611zm-1.206.023c0-1.984-1.243-3.328-3.019-3.328-1.775 0-3.019 1.345-3.019 3.328 0 2.243 1.457 4.268 3.02 4.268 1.562 0 3.018-2.025 3.018-4.268z"
+              />
+            </svg>
+          </span>
+        </button>
+      </div>
+      <div
+        className="makeStyles-container-1033"
+      >
+        <button
+          className="MuiButtonBase-root MuiIconButton-root makeStyles-root-1189 makeStyles-outlined-1190 makeStyles-sizeSmall-1194 makeStyles-search-1024 makeStyles-loginButton-1031"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M9.537 13.45a5.5 5.5 0 1 1 .835.835l-.462-.373-.373-.463zM3.22 19.54a.75.75 0 0 0 1.06 1.061l5.15-5.15a7 7 0 1 0-1.06-1.06l-5.15 5.15z"
+              />
+            </svg>
+          </span>
+          <span
+            className="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </header>
+</div>
+`;
+
+exports[`Storyshots DesktopBar logged in 1`] = `
+<div>
+  <header
+    className="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic makeStyles-root-611 MuiAppBar-colorPrimary MuiPaper-elevation4"
+  >
+    <div
+      className="MuiToolbar-root MuiToolbar-regular makeStyles-toolbar-615 makeStyles-linkBar-616 MuiToolbar-gutters"
+    >
+      <div
+        className="TopRowLink-container-676 makeStyles-link-612"
+      >
+        <div
+          className="TopRowLink-activeLink-675"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-677 MuiTypography-body1"
+        >
+          <a
+            className="TopRowLink-link-678"
+            href="/"
+          >
+            Etusivu
+          </a>
+        </div>
+      </div>
+      <div
+        className="TopRowLink-container-676 makeStyles-link-612"
+      >
+        <div
+          className="TopRowLink-top-674"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-677 MuiTypography-body1"
+        >
+          <a
+            className="MuiTypography-root MuiLink-root MuiLink-underlineHover TopRowLink-link-678 MuiTypography-colorPrimary"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            Sijoittajille
+          </a>
+        </div>
+      </div>
+      <div
+        className="TopRowLink-container-676 makeStyles-link-612"
+      >
+        <div
+          className="TopRowLink-top-674"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-677 MuiTypography-body1"
+        >
+          <a
+            className="MuiTypography-root MuiLink-root MuiLink-underlineHover TopRowLink-link-678 MuiTypography-colorPrimary"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            Medialle
+          </a>
+        </div>
+      </div>
+      <div
+        className="TopRowLink-container-676 makeStyles-link-612"
+      >
+        <div
+          className="TopRowLink-top-674"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-677 MuiTypography-body1"
+        >
+          <a
+            className="MuiTypography-root MuiLink-root MuiLink-underlineHover TopRowLink-link-678 MuiTypography-colorPrimary"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            SATO yrityksenä
+          </a>
+        </div>
+      </div>
+      <div
+        className="makeStyles-grow-613"
+      />
+      <div
+        className="TopRowLink-container-676"
+      >
+        <div
+          className="TopRowLink-top-674"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-677 MuiTypography-body1"
+        >
+          <a
+            className="MuiTypography-root MuiLink-root MuiLink-underlineHover TopRowLink-link-678 MuiTypography-colorPrimary"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            In English
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiToolbar-root MuiToolbar-regular makeStyles-toolbar-615 makeStyles-btnBar-617 MuiToolbar-gutters"
+    >
+      <div
+        className="makeStyles-logoContainer-618"
+        onClick={[Function]}
+      >
+        <svg
+          className="makeStyles-logo-619"
+          id="Layer_1"
+          viewBox="230.8 272.4 626.2 175.3"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <style>
+            .st5{fill:#f29318}
+          </style>
+          <path
+            className="st5"
+            d="M487.6 300.4h-36.7c-30.5 0-55.1 24.7-55.1 55.1v36.8c0 30.5 24.7 55.2 55.1 55.2h40.9v-36.9h-48.2c-6.1 0-11.1-5-11.1-11.1v-51.4c0-6.1 5-11.1 11.1-11.1H495c6.1 0 11.1 5 11.1 11.1v99.2h36.8v-91.9c-.2-30.3-24.8-55-55.3-55m213.3 36.7v-35.2H593.8v-29.2H557v119.6c0 30.5 24.7 55.2 55.2 55.2h36.7c24 0 44.4-15.4 52-36.8h-96c-6.1 0-11.1-5-11.1-11.1v-62.5h107.1zm100.7-36.7h-36.7c-30.5 0-55.2 24.7-55.2 55.1v36.8c0 30.5 24.7 55.2 55.2 55.2h36.7c30.4 0 55.1-24.7 55.1-55.2v-36.8c0-30.4-24.6-55.1-55.1-55.1m-44 110.2c-6.1 0-11.1-5-11.1-11.1v-51.4c0-6.1 5-11.1 11.1-11.1H809c6.1 0 11.1 5 11.1 11.1v51.5c0 6.1-5 11.1-11.1 11.1h-51.4v-.1zM328.2 300.4h-42c-30.5 0-55.1 24.7-55.1 55.1 0 23.9 16.6 43.8 38.9 49v-56.3c0-6.1 5-11.1 11.1-11.1h99.1c-7.6-21.4-28-36.7-52-36.7"
+          />
+          <path
+            className="st5"
+            d="M285.4 447.4h42c30.5 0 55.1-24.7 55.1-55.1 0-23.9-16.6-43.8-38.9-49v56.3c0 6.1-5 11.1-11.1 11.1h-99.1c7.6 21.4 27.9 36.7 52 36.7"
+          />
+        </svg>
+      </div>
+      <div
+        className="makeStyles-grow-613"
+      />
+      <div
+        className="makeStyles-container-623"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root makeStyles-root-724 MuiButton-text makeStyles-button-620 MuiButton-colorInherit MuiButton-textSizeSmall MuiButton-sizeSmall"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-label"
+          >
+            Löydä koti
+          </span>
+        </button>
+        <div
+          className="makeStyles-activeButton-625"
+        />
+      </div>
+      <div
+        className="makeStyles-container-623"
+      >
+        <div
+          className="Menu-root-763"
+        >
+          <button
+            aria-haspopup="true"
+            className="MuiButtonBase-root MuiButton-root makeStyles-root-724 MuiButton-text makeStyles-button-620 makeStyles-smallerRightMargin-630 MenuButton-root-765 MuiButton-colorInherit MuiButton-textSizeSmall MuiButton-sizeSmall"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <span
+              className="MuiButton-label"
+            >
+              Tietoa asumisesta
+               
+              <svg
+                aria-hidden="true"
+                className="MuiSvgIcon-root makeStyles-chevron-629"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12.007 13.236l4.066-4.066a.75.75 0 0 1 1.06 1.06l-4.773 4.774a.5.5 0 0 1-.707 0L6.88 10.231a.75.75 0 1 1 1.06-1.06l4.067 4.065z"
+                />
+              </svg>
+            </span>
+          </button>
+        </div>
+        <div
+          className="makeStyles-activeButton-625 makeStyles-marginRightXl-631"
+        />
+      </div>
+      <div
+        className="makeStyles-container-623"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root makeStyles-root-724 MuiButton-text makeStyles-button-620 MuiButton-colorInherit MuiButton-textSizeSmall MuiButton-sizeSmall"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-label"
+          >
+            Ota yhteyttä
+          </span>
+        </button>
+        <div
+          className="makeStyles-bottom-624"
+        />
+      </div>
+      <div
+        className="makeStyles-separator-622"
+      />
+      <div
+        className="makeStyles-container-623"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root makeStyles-root-724 makeStyles-outlined-728 MuiButton-outlined MuiButton-outlinedPrimary MuiButton-outlinedSizeSmall MuiButton-sizeSmall"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-label"
+          >
+            Omasato
+             
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M14.693 12.954a.505.505 0 0 1 .488-.086c2.785.977 3.716 2.396 3.819 5.798a.573.573 0 0 1-.205.461c-4.592 3.761-9.916 3.832-14.58.196a.572.572 0 0 1-.215-.46c.056-3.54 1.022-5.038 3.899-6.02a.505.505 0 0 1 .476.082c1.127.883 2.101 1.264 3.168 1.264 1.045 0 2.158-.43 3.15-1.235zm1.032-6.343c0 2.915-1.929 5.597-4.225 5.597-2.296 0-4.225-2.682-4.225-5.597C7.275 3.917 9.05 2 11.5 2c2.451 0 4.225 1.917 4.225 4.611z"
+              />
+            </svg>
+          </span>
+        </button>
+      </div>
+      <div
+        className="makeStyles-container-623"
+      >
+        <button
+          className="MuiButtonBase-root MuiIconButton-root makeStyles-root-779 makeStyles-outlined-780 makeStyles-sizeSmall-784 makeStyles-search-614 makeStyles-loginButton-621"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M9.537 13.45a5.5 5.5 0 1 1 .835.835l-.462-.373-.373-.463zM3.22 19.54a.75.75 0 0 0 1.06 1.061l5.15-5.15a7 7 0 1 0-1.06-1.06l-5.15 5.15z"
+              />
+            </svg>
+          </span>
+          <span
+            className="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </header>
+</div>
+`;
+
+exports[`Storyshots DesktopBar playground 1`] = `
+<div>
+  <header
+    className="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic makeStyles-root-1841 MuiAppBar-colorPrimary MuiPaper-elevation4"
+  >
+    <div
+      className="MuiToolbar-root MuiToolbar-regular makeStyles-toolbar-1845 makeStyles-linkBar-1846 MuiToolbar-gutters"
+    >
+      <div
+        className="TopRowLink-container-1906 makeStyles-link-1842"
+      >
+        <div
+          className="TopRowLink-activeLink-1905"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-1907 MuiTypography-body1"
+        >
+          <a
+            className="TopRowLink-link-1908"
+            href="/"
+          >
+            Etusivu
+          </a>
+        </div>
+      </div>
+      <div
+        className="TopRowLink-container-1906 makeStyles-link-1842"
+      >
+        <div
+          className="TopRowLink-top-1904"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-1907 MuiTypography-body1"
+        >
+          <a
+            className="MuiTypography-root MuiLink-root MuiLink-underlineHover TopRowLink-link-1908 MuiTypography-colorPrimary"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            Sijoittajille
+          </a>
+        </div>
+      </div>
+      <div
+        className="TopRowLink-container-1906 makeStyles-link-1842"
+      >
+        <div
+          className="TopRowLink-top-1904"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-1907 MuiTypography-body1"
+        >
+          <a
+            className="MuiTypography-root MuiLink-root MuiLink-underlineHover TopRowLink-link-1908 MuiTypography-colorPrimary"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            Medialle
+          </a>
+        </div>
+      </div>
+      <div
+        className="TopRowLink-container-1906 makeStyles-link-1842"
+      >
+        <div
+          className="TopRowLink-top-1904"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-1907 MuiTypography-body1"
+        >
+          <a
+            className="MuiTypography-root MuiLink-root MuiLink-underlineHover TopRowLink-link-1908 MuiTypography-colorPrimary"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            SATO yrityksenä
+          </a>
+        </div>
+      </div>
+      <div
+        className="makeStyles-grow-1843"
+      />
+      <div
+        className="TopRowLink-container-1906"
+      >
+        <div
+          className="TopRowLink-top-1904"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-1907 MuiTypography-body1"
+        >
+          <a
+            className="MuiTypography-root MuiLink-root MuiLink-underlineHover TopRowLink-link-1908 MuiTypography-colorPrimary"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            In English
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiToolbar-root MuiToolbar-regular makeStyles-toolbar-1845 makeStyles-btnBar-1847 MuiToolbar-gutters"
+    >
+      <div
+        className="makeStyles-logoContainer-1848"
+        onClick={[Function]}
+      >
+        <svg
+          className="makeStyles-logo-1849"
+          id="Layer_1"
+          viewBox="230.8 272.4 626.2 175.3"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <style>
+            .st5{fill:#f29318}
+          </style>
+          <path
+            className="st5"
+            d="M487.6 300.4h-36.7c-30.5 0-55.1 24.7-55.1 55.1v36.8c0 30.5 24.7 55.2 55.1 55.2h40.9v-36.9h-48.2c-6.1 0-11.1-5-11.1-11.1v-51.4c0-6.1 5-11.1 11.1-11.1H495c6.1 0 11.1 5 11.1 11.1v99.2h36.8v-91.9c-.2-30.3-24.8-55-55.3-55m213.3 36.7v-35.2H593.8v-29.2H557v119.6c0 30.5 24.7 55.2 55.2 55.2h36.7c24 0 44.4-15.4 52-36.8h-96c-6.1 0-11.1-5-11.1-11.1v-62.5h107.1zm100.7-36.7h-36.7c-30.5 0-55.2 24.7-55.2 55.1v36.8c0 30.5 24.7 55.2 55.2 55.2h36.7c30.4 0 55.1-24.7 55.1-55.2v-36.8c0-30.4-24.6-55.1-55.1-55.1m-44 110.2c-6.1 0-11.1-5-11.1-11.1v-51.4c0-6.1 5-11.1 11.1-11.1H809c6.1 0 11.1 5 11.1 11.1v51.5c0 6.1-5 11.1-11.1 11.1h-51.4v-.1zM328.2 300.4h-42c-30.5 0-55.1 24.7-55.1 55.1 0 23.9 16.6 43.8 38.9 49v-56.3c0-6.1 5-11.1 11.1-11.1h99.1c-7.6-21.4-28-36.7-52-36.7"
+          />
+          <path
+            className="st5"
+            d="M285.4 447.4h42c30.5 0 55.1-24.7 55.1-55.1 0-23.9-16.6-43.8-38.9-49v56.3c0 6.1-5 11.1-11.1 11.1h-99.1c7.6 21.4 27.9 36.7 52 36.7"
+          />
+        </svg>
+      </div>
+      <div
+        className="makeStyles-grow-1843"
+      />
+      <div
+        className="makeStyles-container-1853"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root makeStyles-root-1954 MuiButton-text makeStyles-button-1850 MuiButton-colorInherit MuiButton-textSizeSmall MuiButton-sizeSmall"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-label"
+          >
+            Löydä koti
+          </span>
+        </button>
+        <div
+          className="makeStyles-activeButton-1855"
+        />
+      </div>
+      <div
+        className="makeStyles-container-1853"
+      >
+        <div
+          className="Menu-root-1993"
+        >
+          <button
+            aria-haspopup="true"
+            className="MuiButtonBase-root MuiButton-root makeStyles-root-1954 MuiButton-text makeStyles-button-1850 makeStyles-smallerRightMargin-1860 MenuButton-root-1995 MuiButton-colorInherit MuiButton-textSizeSmall MuiButton-sizeSmall"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <span
+              className="MuiButton-label"
+            >
+              Tietoa asumisesta
+               
+              <svg
+                aria-hidden="true"
+                className="MuiSvgIcon-root makeStyles-chevron-1859"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12.007 13.236l4.066-4.066a.75.75 0 0 1 1.06 1.06l-4.773 4.774a.5.5 0 0 1-.707 0L6.88 10.231a.75.75 0 1 1 1.06-1.06l4.067 4.065z"
+                />
+              </svg>
+            </span>
+          </button>
+        </div>
+        <div
+          className="makeStyles-activeButton-1855 makeStyles-marginRightXl-1861"
+        />
+      </div>
+      <div
+        className="makeStyles-container-1853"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root makeStyles-root-1954 MuiButton-text makeStyles-button-1850 MuiButton-colorInherit MuiButton-textSizeSmall MuiButton-sizeSmall"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-label"
+          >
+            Ota yhteyttä
+          </span>
+        </button>
+        <div
+          className="makeStyles-bottom-1854"
+        />
+      </div>
+      <div
+        className="makeStyles-separator-1852"
+      />
+      <div
+        className="makeStyles-container-1853"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root makeStyles-root-1954 makeStyles-outlined-1958 MuiButton-outlined makeStyles-loginButton-1851 MuiButton-outlinedSizeSmall MuiButton-sizeSmall"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-label"
+          >
+            Kirjaudu
+             
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M14.693 12.954a.505.505 0 0 1 .488-.086c2.785.977 3.716 2.396 3.819 5.798a.573.573 0 0 1-.205.461c-4.592 3.761-9.916 3.832-14.58.196a.572.572 0 0 1-.215-.46c.056-3.54 1.022-5.038 3.899-6.02a.505.505 0 0 1 .476.082c1.127.883 2.101 1.264 3.168 1.264 1.045 0 2.158-.43 3.15-1.235zm-3.152 2.534c-1.18 0-2.26-.378-3.422-1.2-2.063.724-2.706 1.687-2.787 4.206 3.98 2.85 8.41 2.792 12.333-.161-.115-2.4-.729-3.307-2.71-4.021-1.067.764-2.261 1.176-3.414 1.176zm4.184-8.877c0 2.915-1.929 5.597-4.225 5.597-2.296 0-4.225-2.682-4.225-5.597C7.275 3.917 9.05 2 11.5 2c2.451 0 4.225 1.917 4.225 4.611zm-1.206.023c0-1.984-1.243-3.328-3.019-3.328-1.775 0-3.019 1.345-3.019 3.328 0 2.243 1.457 4.268 3.02 4.268 1.562 0 3.018-2.025 3.018-4.268z"
+              />
+            </svg>
+          </span>
+        </button>
+      </div>
+      <div
+        className="makeStyles-container-1853"
+      >
+        <button
+          className="MuiButtonBase-root MuiIconButton-root makeStyles-root-2009 makeStyles-outlined-2010 makeStyles-sizeSmall-2014 makeStyles-search-1844 makeStyles-loginButton-1851"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M9.537 13.45a5.5 5.5 0 1 1 .835.835l-.462-.373-.373-.463zM3.22 19.54a.75.75 0 0 0 1.06 1.061l5.15-5.15a7 7 0 1 0-1.06-1.06l-5.15 5.15z"
+              />
+            </svg>
+          </span>
+          <span
+            className="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </header>
+</div>
+`;
+
+exports[`Storyshots DesktopBar unsigned 1`] = `
+<div>
+  <header
+    className="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic makeStyles-root-201 MuiAppBar-colorPrimary MuiPaper-elevation4"
+  >
+    <div
+      className="MuiToolbar-root MuiToolbar-regular makeStyles-toolbar-205 makeStyles-linkBar-206 MuiToolbar-gutters"
+    >
+      <div
+        className="TopRowLink-container-266 makeStyles-link-202"
+      >
+        <div
+          className="TopRowLink-activeLink-265"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-267 MuiTypography-body1"
+        >
+          <a
+            className="TopRowLink-link-268"
+            href="/"
+          >
+            Etusivu
+          </a>
+        </div>
+      </div>
+      <div
+        className="TopRowLink-container-266 makeStyles-link-202"
+      >
+        <div
+          className="TopRowLink-top-264"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-267 MuiTypography-body1"
+        >
+          <a
+            className="MuiTypography-root MuiLink-root MuiLink-underlineHover TopRowLink-link-268 MuiTypography-colorPrimary"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            Sijoittajille
+          </a>
+        </div>
+      </div>
+      <div
+        className="TopRowLink-container-266 makeStyles-link-202"
+      >
+        <div
+          className="TopRowLink-top-264"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-267 MuiTypography-body1"
+        >
+          <a
+            className="MuiTypography-root MuiLink-root MuiLink-underlineHover TopRowLink-link-268 MuiTypography-colorPrimary"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            Medialle
+          </a>
+        </div>
+      </div>
+      <div
+        className="TopRowLink-container-266 makeStyles-link-202"
+      >
+        <div
+          className="TopRowLink-top-264"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-267 MuiTypography-body1"
+        >
+          <a
+            className="MuiTypography-root MuiLink-root MuiLink-underlineHover TopRowLink-link-268 MuiTypography-colorPrimary"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            SATO yrityksenä
+          </a>
+        </div>
+      </div>
+      <div
+        className="makeStyles-grow-203"
+      />
+      <div
+        className="TopRowLink-container-266"
+      >
+        <div
+          className="TopRowLink-top-264"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-267 MuiTypography-body1"
+        >
+          <a
+            className="MuiTypography-root MuiLink-root MuiLink-underlineHover TopRowLink-link-268 MuiTypography-colorPrimary"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            In English
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiToolbar-root MuiToolbar-regular makeStyles-toolbar-205 makeStyles-btnBar-207 MuiToolbar-gutters"
+    >
+      <div
+        className="makeStyles-logoContainer-208"
+        onClick={[Function]}
+      >
+        <svg
+          className="makeStyles-logo-209"
+          id="Layer_1"
+          viewBox="230.8 272.4 626.2 175.3"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <style>
+            .st5{fill:#f29318}
+          </style>
+          <path
+            className="st5"
+            d="M487.6 300.4h-36.7c-30.5 0-55.1 24.7-55.1 55.1v36.8c0 30.5 24.7 55.2 55.1 55.2h40.9v-36.9h-48.2c-6.1 0-11.1-5-11.1-11.1v-51.4c0-6.1 5-11.1 11.1-11.1H495c6.1 0 11.1 5 11.1 11.1v99.2h36.8v-91.9c-.2-30.3-24.8-55-55.3-55m213.3 36.7v-35.2H593.8v-29.2H557v119.6c0 30.5 24.7 55.2 55.2 55.2h36.7c24 0 44.4-15.4 52-36.8h-96c-6.1 0-11.1-5-11.1-11.1v-62.5h107.1zm100.7-36.7h-36.7c-30.5 0-55.2 24.7-55.2 55.1v36.8c0 30.5 24.7 55.2 55.2 55.2h36.7c30.4 0 55.1-24.7 55.1-55.2v-36.8c0-30.4-24.6-55.1-55.1-55.1m-44 110.2c-6.1 0-11.1-5-11.1-11.1v-51.4c0-6.1 5-11.1 11.1-11.1H809c6.1 0 11.1 5 11.1 11.1v51.5c0 6.1-5 11.1-11.1 11.1h-51.4v-.1zM328.2 300.4h-42c-30.5 0-55.1 24.7-55.1 55.1 0 23.9 16.6 43.8 38.9 49v-56.3c0-6.1 5-11.1 11.1-11.1h99.1c-7.6-21.4-28-36.7-52-36.7"
+          />
+          <path
+            className="st5"
+            d="M285.4 447.4h42c30.5 0 55.1-24.7 55.1-55.1 0-23.9-16.6-43.8-38.9-49v56.3c0 6.1-5 11.1-11.1 11.1h-99.1c7.6 21.4 27.9 36.7 52 36.7"
+          />
+        </svg>
+      </div>
+      <div
+        className="makeStyles-grow-203"
+      />
+      <div
+        className="makeStyles-container-213"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root makeStyles-root-314 MuiButton-text makeStyles-button-210 MuiButton-colorInherit MuiButton-textSizeSmall MuiButton-sizeSmall"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-label"
+          >
+            Löydä koti
+          </span>
+        </button>
+        <div
+          className="makeStyles-activeButton-215"
+        />
+      </div>
+      <div
+        className="makeStyles-container-213"
+      >
+        <div
+          className="Menu-root-353"
+        >
+          <button
+            aria-haspopup="true"
+            className="MuiButtonBase-root MuiButton-root makeStyles-root-314 MuiButton-text makeStyles-button-210 makeStyles-smallerRightMargin-220 MenuButton-root-355 MuiButton-colorInherit MuiButton-textSizeSmall MuiButton-sizeSmall"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <span
+              className="MuiButton-label"
+            >
+              Tietoa asumisesta
+               
+              <svg
+                aria-hidden="true"
+                className="MuiSvgIcon-root makeStyles-chevron-219"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12.007 13.236l4.066-4.066a.75.75 0 0 1 1.06 1.06l-4.773 4.774a.5.5 0 0 1-.707 0L6.88 10.231a.75.75 0 1 1 1.06-1.06l4.067 4.065z"
+                />
+              </svg>
+            </span>
+          </button>
+        </div>
+        <div
+          className="makeStyles-activeButton-215 makeStyles-marginRightXl-221"
+        />
+      </div>
+      <div
+        className="makeStyles-container-213"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root makeStyles-root-314 MuiButton-text makeStyles-button-210 MuiButton-colorInherit MuiButton-textSizeSmall MuiButton-sizeSmall"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-label"
+          >
+            Ota yhteyttä
+          </span>
+        </button>
+        <div
+          className="makeStyles-bottom-214"
+        />
+      </div>
+      <div
+        className="makeStyles-separator-212"
+      />
+      <div
+        className="makeStyles-container-213"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root makeStyles-root-314 makeStyles-outlined-318 MuiButton-outlined makeStyles-loginButton-211 MuiButton-outlinedSizeSmall MuiButton-sizeSmall"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-label"
+          >
+            Kirjaudu
+             
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M14.693 12.954a.505.505 0 0 1 .488-.086c2.785.977 3.716 2.396 3.819 5.798a.573.573 0 0 1-.205.461c-4.592 3.761-9.916 3.832-14.58.196a.572.572 0 0 1-.215-.46c.056-3.54 1.022-5.038 3.899-6.02a.505.505 0 0 1 .476.082c1.127.883 2.101 1.264 3.168 1.264 1.045 0 2.158-.43 3.15-1.235zm-3.152 2.534c-1.18 0-2.26-.378-3.422-1.2-2.063.724-2.706 1.687-2.787 4.206 3.98 2.85 8.41 2.792 12.333-.161-.115-2.4-.729-3.307-2.71-4.021-1.067.764-2.261 1.176-3.414 1.176zm4.184-8.877c0 2.915-1.929 5.597-4.225 5.597-2.296 0-4.225-2.682-4.225-5.597C7.275 3.917 9.05 2 11.5 2c2.451 0 4.225 1.917 4.225 4.611zm-1.206.023c0-1.984-1.243-3.328-3.019-3.328-1.775 0-3.019 1.345-3.019 3.328 0 2.243 1.457 4.268 3.02 4.268 1.562 0 3.018-2.025 3.018-4.268z"
+              />
+            </svg>
+          </span>
+        </button>
+      </div>
+      <div
+        className="makeStyles-container-213"
+      >
+        <button
+          className="MuiButtonBase-root MuiIconButton-root makeStyles-root-369 makeStyles-outlined-370 makeStyles-sizeSmall-374 makeStyles-search-204 makeStyles-loginButton-211"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M9.537 13.45a5.5 5.5 0 1 1 .835.835l-.462-.373-.373-.463zM3.22 19.54a.75.75 0 0 0 1.06 1.061l5.15-5.15a7 7 0 1 0-1.06-1.06l-5.15 5.15z"
+              />
+            </svg>
+          </span>
+          <span
+            className="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </header>
+</div>
+`;
+
+exports[`Storyshots DesktopBar with search results 1`] = `
+<div>
+  <header
+    className="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic makeStyles-root-1431 MuiAppBar-colorPrimary MuiPaper-elevation4"
+  >
+    <div
+      className="MuiToolbar-root MuiToolbar-regular makeStyles-toolbar-1435 makeStyles-linkBar-1436 MuiToolbar-gutters"
+    >
+      <div
+        className="TopRowLink-container-1496 makeStyles-link-1432"
+      >
+        <div
+          className="TopRowLink-activeLink-1495"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-1497 MuiTypography-body1"
+        >
+          <a
+            className="TopRowLink-link-1498"
+            href="/"
+          >
+            Etusivu
+          </a>
+        </div>
+      </div>
+      <div
+        className="TopRowLink-container-1496 makeStyles-link-1432"
+      >
+        <div
+          className="TopRowLink-top-1494"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-1497 MuiTypography-body1"
+        >
+          <a
+            className="MuiTypography-root MuiLink-root MuiLink-underlineHover TopRowLink-link-1498 MuiTypography-colorPrimary"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            Sijoittajille
+          </a>
+        </div>
+      </div>
+      <div
+        className="TopRowLink-container-1496 makeStyles-link-1432"
+      >
+        <div
+          className="TopRowLink-top-1494"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-1497 MuiTypography-body1"
+        >
+          <a
+            className="MuiTypography-root MuiLink-root MuiLink-underlineHover TopRowLink-link-1498 MuiTypography-colorPrimary"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            Medialle
+          </a>
+        </div>
+      </div>
+      <div
+        className="TopRowLink-container-1496 makeStyles-link-1432"
+      >
+        <div
+          className="TopRowLink-top-1494"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-1497 MuiTypography-body1"
+        >
+          <a
+            className="MuiTypography-root MuiLink-root MuiLink-underlineHover TopRowLink-link-1498 MuiTypography-colorPrimary"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            SATO yrityksenä
+          </a>
+        </div>
+      </div>
+      <div
+        className="makeStyles-grow-1433"
+      />
+      <div
+        className="TopRowLink-container-1496"
+      >
+        <div
+          className="TopRowLink-top-1494"
+        />
+        <div
+          className="MuiTypography-root undefined TopRowLink-item-1497 MuiTypography-body1"
+        >
+          <a
+            className="MuiTypography-root MuiLink-root MuiLink-underlineHover TopRowLink-link-1498 MuiTypography-colorPrimary"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            In English
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiToolbar-root MuiToolbar-regular makeStyles-toolbar-1435 makeStyles-btnBar-1437 MuiToolbar-gutters"
+    >
+      <div
+        className="makeStyles-logoContainer-1438"
+        onClick={[Function]}
+      >
+        <svg
+          className="makeStyles-logo-1439"
+          id="Layer_1"
+          viewBox="230.8 272.4 626.2 175.3"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <style>
+            .st5{fill:#f29318}
+          </style>
+          <path
+            className="st5"
+            d="M487.6 300.4h-36.7c-30.5 0-55.1 24.7-55.1 55.1v36.8c0 30.5 24.7 55.2 55.1 55.2h40.9v-36.9h-48.2c-6.1 0-11.1-5-11.1-11.1v-51.4c0-6.1 5-11.1 11.1-11.1H495c6.1 0 11.1 5 11.1 11.1v99.2h36.8v-91.9c-.2-30.3-24.8-55-55.3-55m213.3 36.7v-35.2H593.8v-29.2H557v119.6c0 30.5 24.7 55.2 55.2 55.2h36.7c24 0 44.4-15.4 52-36.8h-96c-6.1 0-11.1-5-11.1-11.1v-62.5h107.1zm100.7-36.7h-36.7c-30.5 0-55.2 24.7-55.2 55.1v36.8c0 30.5 24.7 55.2 55.2 55.2h36.7c30.4 0 55.1-24.7 55.1-55.2v-36.8c0-30.4-24.6-55.1-55.1-55.1m-44 110.2c-6.1 0-11.1-5-11.1-11.1v-51.4c0-6.1 5-11.1 11.1-11.1H809c6.1 0 11.1 5 11.1 11.1v51.5c0 6.1-5 11.1-11.1 11.1h-51.4v-.1zM328.2 300.4h-42c-30.5 0-55.1 24.7-55.1 55.1 0 23.9 16.6 43.8 38.9 49v-56.3c0-6.1 5-11.1 11.1-11.1h99.1c-7.6-21.4-28-36.7-52-36.7"
+          />
+          <path
+            className="st5"
+            d="M285.4 447.4h42c30.5 0 55.1-24.7 55.1-55.1 0-23.9-16.6-43.8-38.9-49v56.3c0 6.1-5 11.1-11.1 11.1h-99.1c7.6 21.4 27.9 36.7 52 36.7"
+          />
+        </svg>
+      </div>
+      <div
+        className="makeStyles-grow-1433"
+      />
+      <div
+        className="makeStyles-container-1443"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root makeStyles-root-1544 MuiButton-text makeStyles-button-1440 MuiButton-colorInherit MuiButton-textSizeSmall MuiButton-sizeSmall"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-label"
+          >
+            Löydä koti
+          </span>
+        </button>
+        <div
+          className="makeStyles-activeButton-1445"
+        />
+      </div>
+      <div
+        className="makeStyles-container-1443"
+      >
+        <div
+          className="Menu-root-1583"
+        >
+          <button
+            aria-haspopup="true"
+            className="MuiButtonBase-root MuiButton-root makeStyles-root-1544 MuiButton-text makeStyles-button-1440 makeStyles-smallerRightMargin-1450 MenuButton-root-1585 MuiButton-colorInherit MuiButton-textSizeSmall MuiButton-sizeSmall"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <span
+              className="MuiButton-label"
+            >
+              Tietoa asumisesta
+               
+              <svg
+                aria-hidden="true"
+                className="MuiSvgIcon-root makeStyles-chevron-1449"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12.007 13.236l4.066-4.066a.75.75 0 0 1 1.06 1.06l-4.773 4.774a.5.5 0 0 1-.707 0L6.88 10.231a.75.75 0 1 1 1.06-1.06l4.067 4.065z"
+                />
+              </svg>
+            </span>
+          </button>
+        </div>
+        <div
+          className="makeStyles-activeButton-1445 makeStyles-marginRightXl-1451"
+        />
+      </div>
+      <div
+        className="makeStyles-container-1443"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root makeStyles-root-1544 MuiButton-text makeStyles-button-1440 MuiButton-colorInherit MuiButton-textSizeSmall MuiButton-sizeSmall"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-label"
+          >
+            Ota yhteyttä
+          </span>
+        </button>
+        <div
+          className="makeStyles-bottom-1444"
+        />
+      </div>
+      <div
+        className="makeStyles-separator-1442"
+      />
+      <div
+        className="makeStyles-container-1443"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root makeStyles-root-1544 makeStyles-outlined-1548 MuiButton-outlined makeStyles-loginButton-1441 MuiButton-outlinedSizeSmall MuiButton-sizeSmall"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-label"
+          >
+            Kirjaudu
+             
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M14.693 12.954a.505.505 0 0 1 .488-.086c2.785.977 3.716 2.396 3.819 5.798a.573.573 0 0 1-.205.461c-4.592 3.761-9.916 3.832-14.58.196a.572.572 0 0 1-.215-.46c.056-3.54 1.022-5.038 3.899-6.02a.505.505 0 0 1 .476.082c1.127.883 2.101 1.264 3.168 1.264 1.045 0 2.158-.43 3.15-1.235zm-3.152 2.534c-1.18 0-2.26-.378-3.422-1.2-2.063.724-2.706 1.687-2.787 4.206 3.98 2.85 8.41 2.792 12.333-.161-.115-2.4-.729-3.307-2.71-4.021-1.067.764-2.261 1.176-3.414 1.176zm4.184-8.877c0 2.915-1.929 5.597-4.225 5.597-2.296 0-4.225-2.682-4.225-5.597C7.275 3.917 9.05 2 11.5 2c2.451 0 4.225 1.917 4.225 4.611zm-1.206.023c0-1.984-1.243-3.328-3.019-3.328-1.775 0-3.019 1.345-3.019 3.328 0 2.243 1.457 4.268 3.02 4.268 1.562 0 3.018-2.025 3.018-4.268z"
+              />
+            </svg>
+          </span>
+        </button>
+      </div>
+      <div
+        className="makeStyles-container-1443"
+      >
+        <button
+          className="MuiButtonBase-root MuiIconButton-root makeStyles-root-1599 makeStyles-outlined-1600 makeStyles-sizeSmall-1604 makeStyles-search-1434 makeStyles-loginButton-1441"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M9.537 13.45a5.5 5.5 0 1 1 .835.835l-.462-.373-.373-.463zM3.22 19.54a.75.75 0 0 0 1.06 1.061l5.15-5.15a7 7 0 1 0-1.06-1.06l-5.15 5.15z"
+              />
+            </svg>
+          </span>
+          <span
+            className="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </header>
+</div>
+`;

@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CallToActionBar renders correctly 1`] = `
+<WithStyles(ForwardRef(Snackbar))
+  ContentProps={
+    Object {
+      "classes": Object {
+        "root": "makeStyles-content-2",
+      },
+    }
+  }
+  className="makeStyles-snackbar-1"
+  open={true}
+/>
+`;

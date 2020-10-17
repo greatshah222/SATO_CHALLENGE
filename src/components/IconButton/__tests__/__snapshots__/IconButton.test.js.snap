@@ -1,0 +1,368 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots IconButton color 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiIconButton-root makeStyles-root-255 makeStyles-primary-257"
+    disabled={false}
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiIconButton-label"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M14.693 12.954a.505.505 0 0 1 .488-.086c2.785.977 3.716 2.396 3.819 5.798a.573.573 0 0 1-.205.461c-4.592 3.761-9.916 3.832-14.58.196a.572.572 0 0 1-.215-.46c.056-3.54 1.022-5.038 3.899-6.02a.505.505 0 0 1 .476.082c1.127.883 2.101 1.264 3.168 1.264 1.045 0 2.158-.43 3.15-1.235zm1.032-6.343c0 2.915-1.929 5.597-4.225 5.597-2.296 0-4.225-2.682-4.225-5.597C7.275 3.917 9.05 2 11.5 2c2.451 0 4.225 1.917 4.225 4.611z"
+        />
+      </svg>
+    </span>
+    <span
+      className="MuiTouchRipple-root"
+    />
+  </button>
+</div>
+`;
+
+exports[`Storyshots IconButton disabled 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiIconButton-root makeStyles-root-329 Mui-disabled Mui-disabled"
+    disabled={true}
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={-1}
+    type="button"
+  >
+    <span
+      className="MuiIconButton-label"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M14.693 12.954a.505.505 0 0 1 .488-.086c2.785.977 3.716 2.396 3.819 5.798a.573.573 0 0 1-.205.461c-4.592 3.761-9.916 3.832-14.58.196a.572.572 0 0 1-.215-.46c.056-3.54 1.022-5.038 3.899-6.02a.505.505 0 0 1 .476.082c1.127.883 2.101 1.264 3.168 1.264 1.045 0 2.158-.43 3.15-1.235zm1.032-6.343c0 2.915-1.929 5.597-4.225 5.597-2.296 0-4.225-2.682-4.225-5.597C7.275 3.917 9.05 2 11.5 2c2.451 0 4.225 1.917 4.225 4.611z"
+        />
+      </svg>
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots IconButton no background color, no hover 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiIconButton-root makeStyles-root-541 makeStyles-noBG-548"
+    disabled={false}
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiIconButton-label"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M14.693 12.954a.505.505 0 0 1 .488-.086c2.785.977 3.716 2.396 3.819 5.798a.573.573 0 0 1-.205.461c-4.592 3.761-9.916 3.832-14.58.196a.572.572 0 0 1-.215-.46c.056-3.54 1.022-5.038 3.899-6.02a.505.505 0 0 1 .476.082c1.127.883 2.101 1.264 3.168 1.264 1.045 0 2.158-.43 3.15-1.235zm1.032-6.343c0 2.915-1.929 5.597-4.225 5.597-2.296 0-4.225-2.682-4.225-5.597C7.275 3.917 9.05 2 11.5 2c2.451 0 4.225 1.917 4.225 4.611z"
+        />
+      </svg>
+    </span>
+    <span
+      className="MuiTouchRipple-root"
+    />
+  </button>
+</div>
+`;
+
+exports[`Storyshots IconButton outlined 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiIconButton-root makeStyles-root-107 makeStyles-outlined-108"
+    disabled={false}
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiIconButton-label"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M14.693 12.954a.505.505 0 0 1 .488-.086c2.785.977 3.716 2.396 3.819 5.798a.573.573 0 0 1-.205.461c-4.592 3.761-9.916 3.832-14.58.196a.572.572 0 0 1-.215-.46c.056-3.54 1.022-5.038 3.899-6.02a.505.505 0 0 1 .476.082c1.127.883 2.101 1.264 3.168 1.264 1.045 0 2.158-.43 3.15-1.235zm1.032-6.343c0 2.915-1.929 5.597-4.225 5.597-2.296 0-4.225-2.682-4.225-5.597C7.275 3.917 9.05 2 11.5 2c2.451 0 4.225 1.917 4.225 4.611z"
+        />
+      </svg>
+    </span>
+    <span
+      className="MuiTouchRipple-root"
+    />
+  </button>
+</div>
+`;
+
+exports[`Storyshots IconButton playground 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiIconButton-root makeStyles-root-615 makeStyles-outlined-616 makeStyles-primary-617 makeStyles-outlinedPrimary-618"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiIconButton-label"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M14.693 12.954a.505.505 0 0 1 .488-.086c2.785.977 3.716 2.396 3.819 5.798a.573.573 0 0 1-.205.461c-4.592 3.761-9.916 3.832-14.58.196a.572.572 0 0 1-.215-.46c.056-3.54 1.022-5.038 3.899-6.02a.505.505 0 0 1 .476.082c1.127.883 2.101 1.264 3.168 1.264 1.045 0 2.158-.43 3.15-1.235zm1.032-6.343c0 2.915-1.929 5.597-4.225 5.597-2.296 0-4.225-2.682-4.225-5.597C7.275 3.917 9.05 2 11.5 2c2.451 0 4.225 1.917 4.225 4.611z"
+        />
+      </svg>
+    </span>
+    <span
+      className="MuiTouchRipple-root"
+    />
+  </button>
+</div>
+`;
+
+exports[`Storyshots IconButton small 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiIconButton-root makeStyles-root-393 makeStyles-sizeSmall-398"
+    disabled={false}
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiIconButton-label"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M14.693 12.954a.505.505 0 0 1 .488-.086c2.785.977 3.716 2.396 3.819 5.798a.573.573 0 0 1-.205.461c-4.592 3.761-9.916 3.832-14.58.196a.572.572 0 0 1-.215-.46c.056-3.54 1.022-5.038 3.899-6.02a.505.505 0 0 1 .476.082c1.127.883 2.101 1.264 3.168 1.264 1.045 0 2.158-.43 3.15-1.235zm1.032-6.343c0 2.915-1.929 5.597-4.225 5.597-2.296 0-4.225-2.682-4.225-5.597C7.275 3.917 9.05 2 11.5 2c2.451 0 4.225 1.917 4.225 4.611z"
+        />
+      </svg>
+    </span>
+    <span
+      className="MuiTouchRipple-root"
+    />
+  </button>
+</div>
+`;
+
+exports[`Storyshots IconButton toolbar 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiIconButton-root makeStyles-root-181 makeStyles-toolbar-185"
+    disabled={false}
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiIconButton-label"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M14.693 12.954a.505.505 0 0 1 .488-.086c2.785.977 3.716 2.396 3.819 5.798a.573.573 0 0 1-.205.461c-4.592 3.761-9.916 3.832-14.58.196a.572.572 0 0 1-.215-.46c.056-3.54 1.022-5.038 3.899-6.02a.505.505 0 0 1 .476.082c1.127.883 2.101 1.264 3.168 1.264 1.045 0 2.158-.43 3.15-1.235zm1.032-6.343c0 2.915-1.929 5.597-4.225 5.597-2.296 0-4.225-2.682-4.225-5.597C7.275 3.917 9.05 2 11.5 2c2.451 0 4.225 1.917 4.225 4.611z"
+        />
+      </svg>
+    </span>
+    <span
+      className="MuiTouchRipple-root"
+    />
+  </button>
+</div>
+`;
+
+exports[`Storyshots IconButton with no props 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiIconButton-root makeStyles-root-33"
+    disabled={false}
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiIconButton-label"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M14.693 12.954a.505.505 0 0 1 .488-.086c2.785.977 3.716 2.396 3.819 5.798a.573.573 0 0 1-.205.461c-4.592 3.761-9.916 3.832-14.58.196a.572.572 0 0 1-.215-.46c.056-3.54 1.022-5.038 3.899-6.02a.505.505 0 0 1 .476.082c1.127.883 2.101 1.264 3.168 1.264 1.045 0 2.158-.43 3.15-1.235zm1.032-6.343c0 2.915-1.929 5.597-4.225 5.597-2.296 0-4.225-2.682-4.225-5.597C7.275 3.917 9.05 2 11.5 2c2.451 0 4.225 1.917 4.225 4.611z"
+        />
+      </svg>
+    </span>
+    <span
+      className="MuiTouchRipple-root"
+    />
+  </button>
+</div>
+`;
+
+exports[`Storyshots IconButton x-small 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiIconButton-root makeStyles-root-467 makeStyles-sizeXSmall-473"
+    disabled={false}
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiIconButton-label"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M14.693 12.954a.505.505 0 0 1 .488-.086c2.785.977 3.716 2.396 3.819 5.798a.573.573 0 0 1-.205.461c-4.592 3.761-9.916 3.832-14.58.196a.572.572 0 0 1-.215-.46c.056-3.54 1.022-5.038 3.899-6.02a.505.505 0 0 1 .476.082c1.127.883 2.101 1.264 3.168 1.264 1.045 0 2.158-.43 3.15-1.235zm1.032-6.343c0 2.915-1.929 5.597-4.225 5.597-2.296 0-4.225-2.682-4.225-5.597C7.275 3.917 9.05 2 11.5 2c2.451 0 4.225 1.917 4.225 4.611z"
+        />
+      </svg>
+    </span>
+    <span
+      className="MuiTouchRipple-root"
+    />
+  </button>
+</div>
+`;

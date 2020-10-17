@@ -1,0 +1,14 @@
+global:
+  type: 'size'
+  category: 'border-radius'
+props:
+  borderRadius:
+    value: '27px'
+  borderRadiusFull:
+    value: '50px'
+  borderRadiusMedium:
+    value: '16px'
+  borderRadiusLow:
+    value: '8px'
+  borderRadiusNone:
+    value: '0px'

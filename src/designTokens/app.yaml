@@ -1,0 +1,213 @@
+imports:
+  - ./aliases.yaml
+  - ./border.yaml
+  - ./borderColor.yaml
+  - ./spacing.yaml
+  - ./font.yaml
+  - ./sizing.yaml
+  - ./fontFamily.yaml
+  - ./lineHeight.yaml
+  - ./mediaQuery.yaml
+  - ./time.yaml
+  - ./shadow.yaml
+  - ./animation.yaml
+props:
+  colorMorning:
+    value: '{!yellow}'
+    category: 'background-color'
+    type: 'color'
+    comment: 'aamu'
+  colorMorningLight:
+    value: '{!yellow-light}'
+    category: 'background-color'
+    type: 'color'
+    comment: 'aamu light'
+  colorMorningUltraLight:
+    value: '{!yellow-ultralight}'
+    category: 'background-color'
+    type: 'color'
+    comment: 'aamu-ultralight'
+  colorMorningDark:
+    value: '{!yellow-dark}'
+    category: 'background-color'
+    type: 'color'
+    comment: 'aamu-dark'
+  colorMorningUltraDark:
+    value: '{!yellow-ultradark}'
+    category: 'background-color'
+    type: 'color'
+    comment: 'aamu-ultradark'
+  colorDay:
+    value: '{!blue}'
+    category: 'background-color'
+    type: 'color'
+    comment: 'päivä'
+  colorDayLight:
+    value: '{!blue-light}'
+    category: 'background-color'
+    type: 'color'
+    comment: 'päivä-light'
+  colorDayUltraLight:
+    value: '{!blue-ultralight}'
+    category: 'background-color'
+    type: 'color'
+    comment: 'päivä-ultralight'
+  colorDayDark:
+    value: '{!blue-dark}'
+    category: 'background-color'
+    type: 'color'
+  colorDayUltraDark:
+    value: '{!blue-ultradark}'
+    category: 'background-color'
+    type: 'color'
+    comment: 'päivä-ultradark'
+  colorEvening:
+    value: '{!red}'
+    category: 'background-color'
+    type: 'color'
+    comment: 'ilta'
+  colorEveningLight:
+    value: '{!red-light}'
+    category: 'background-color'
+    type: 'color'
+    comment: 'ilta'
+  colorEveningUltraLight:
+    value: '{!red-ultralight}'
+    category: 'background-color'
+    type: 'color'
+    comment: 'ilta-ultralight'
+  colorEveningDark:
+    value: '{!red-dark}'
+    category: 'background-color'
+    type: 'color'
+    comment: 'ilta-ultralight'
+  colorEveningUltraDark:
+    value: '{!red-ultradark}'
+    category: 'background-color'
+    type: 'color'
+    comment: 'ilta-ultralight'
+  colorNight:
+    value: '{!purple}'
+    category: 'background-color'
+    type: 'color'
+    comment: 'yö'
+  colorNightLight:
+    value: '{!purple-light}'
+    category: 'background-color'
+    type: 'color'
+  colorNightUltraLight:
+    value: '{!purple-ultralight}'
+    category: 'background-color'
+    type: 'color'
+  colorNightDark:
+    value: '{!purple-dark}'
+    category: 'background-color'
+    type: 'color'
+  colorNightUltraDark:
+    value: '{!purple-ultradark}'
+    category: 'background-color'
+    type: 'color'
+  colorWhite:
+    value: '{!white}'
+    category: 'background-color'
+    type: 'color'
+  colorBlack:
+    value: '{!black}'
+    category: 'background-color'
+    type: 'color'
+  colorBlackMedium:
+    value: '{!black-medium}'
+    category: 'background-color'
+    type: 'color'
+  colorBlackLight:
+    value: '{!black-light}'
+    category: 'background-color'
+    type: 'color'
+  colorBlackUltraLight:
+    value: '{!black-ultralight}'
+    category: 'background-color'
+    type: 'color'
+  textWhite:
+    type: 'color'
+    category: 'text-color'
+    value: '{!white}'
+  textBlack:
+    type: 'color'
+    category: 'text-color'
+    value: '{!black}'
+  textBlackMedium:
+    type: 'color'
+    category: 'text-color'
+    value: '{!black-medium}'
+  textGrey:
+    type: 'color'
+    category: 'text-color'
+    value: '{!grey}'
+  error:
+    value: '{!error}'
+    type: 'color'
+    category: 'background-color'
+  errorLight:
+    value: '{!error-light}'
+    type: 'color'
+    category: 'background-color'
+  colorOrange:
+    value: '{!orange-default}'
+    type: 'color'
+    category: 'background-color'
+    comment: 'orangeTheme default'
+  colorOrangeDark:
+    value: '{!orange-dark}'
+    type: 'color'
+    category: 'background-color'
+    comment: 'orangeTheme dark'
+  colorOrangeLight:
+    value: '{!orange-light}'
+    type: 'color'
+    category: 'background-color'
+    comment: 'orangeTheme light'
+  colorPink:
+    value: '{!pink-default}'
+    type: 'color'
+    category: 'background-color'
+    comment: 'pinkTheme default'
+  colorPinkDark:
+    value: '{!pink-dark}'
+    type: 'color'
+    category: 'background-color'
+    comment: 'pinkTheme dark'
+  colorPinkLight:
+    value: '{!pink-light}'
+    type: 'color'
+    category: 'background-color'
+    comment: 'pinkTheme light'
+  colorCyan:
+    value: '{!cyan-default}'
+    type: 'color'
+    category: 'background-color'
+    comment: 'cyanTheme default'
+  colorCyanDark:
+    value: '{!cyan-dark}'
+    type: 'color'
+    category: 'background-color'
+    comment: 'cyanTheme dark'
+  colorCyanLight:
+    value: '{!cyan-light}'
+    type: 'color'
+    category: 'background-color'
+    comment: 'cyanTheme light'
+  colorPurple:
+    value: '{!purple2-default}'
+    type: 'color'
+    category: 'background-color'
+    comment: 'purpleTheme default'
+  colorPurpleDark:
+    value: '{!purple2-dark}'
+    type: 'color'
+    category: 'background-color'
+    comment: 'purpleTheme dark'
+  colorPurpleLight:
+    value: '{!purple2-light}'
+    type: 'color'
+    category: 'background-color'
+    comment: 'purpleTheme light'

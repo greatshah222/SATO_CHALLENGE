@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots CardMedia Media component in card 1`] = `
+<div>
+  <div
+    className="MuiPaper-root MuiCard-root makeStyles-root-38 MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <img
+      alt="House"
+      className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img"
+      height="140"
+      src="/oulu-peltola.webp"
+      style={
+        Object {
+          "height": "140px",
+          "margin": "0 auto",
+          "width": "auto",
+        }
+      }
+      title="My House"
+    />
+  </div>
+</div>
+`;

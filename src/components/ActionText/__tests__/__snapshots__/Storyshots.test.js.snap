@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots ActionText normal 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiButton-root MuiButton-text ActionText-text-41"
+    disabled={false}
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiButton-label"
+    >
+      Click me!
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots ActionText with icon 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root MuiButton-root MuiButton-text ActionText-text-133"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiButton-label"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M13.236 11.993L9.17 7.927a.75.75 0 0 1 1.06-1.06l4.774 4.773a.5.5 0 0 1 0 .707l-4.773 4.773a.75.75 0 1 1-1.06-1.06l4.065-4.067z"
+        />
+      </svg>
+       Click me!
+    </span>
+  </button>
+</div>
+`;

@@ -1,0 +1,322 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots SearchResultsList List 1`] = `
+<div>
+  <ul
+    className="MuiList-root MuiList-padding"
+  >
+    <li
+      className="MuiListItem-root SearchResultsList-captionItem-170 MuiListItem-gutters"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemText-root"
+      >
+        <span
+          className="MuiTypography-root SearchResultsList-captionText-171 MuiTypography-caption"
+        >
+          faq
+        </span>
+      </div>
+    </li>
+    <li
+      className="MuiListItem-root SearchResultsList-listItemLink-174 MuiListItem-gutters"
+      disabled={false}
+      onClick={[Function]}
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-item"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <div
+            className="MuiListItemText-root"
+          >
+            <span
+              className="MuiTypography-root MuiListItemText-primary MuiTypography-body2"
+            >
+              Miten haen SATOn vuokra-asuntoa?
+            </span>
+          </div>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <div
+            className="MuiListItemText-root"
+          >
+            <p
+              className="MuiTypography-root undefined SearchResultsList-subtitleText-175 MuiTypography-body1"
+            >
+              Aliotsikko tälle kentälle
+            </p>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="MuiListItem-root SearchResultsList-listItemLink-174 MuiListItem-gutters"
+      disabled={false}
+      onClick={[Function]}
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-item"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <div
+            className="MuiListItemText-root"
+          >
+            <span
+              className="MuiTypography-root MuiListItemText-primary MuiTypography-body2"
+            >
+              Minkälaisia vuokra-asuntoja SATOlla on?
+            </span>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="MuiListItem-root SearchResultsList-listItemLink-174 MuiListItem-gutters"
+      disabled={false}
+      onClick={[Function]}
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-item"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <div
+            className="MuiListItemText-root"
+          >
+            <span
+              className="MuiTypography-root MuiListItemText-primary MuiTypography-body2"
+            >
+              Missä SATOlla on uusia vuokra-asuntoja?
+            </span>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="MuiListItem-root SearchResultsList-listItemLink-174 MuiListItem-gutters"
+      disabled={false}
+      onClick={[Function]}
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-item"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <div
+            className="MuiListItemText-root"
+          >
+            <span
+              className="MuiTypography-root MuiListItemText-primary MuiTypography-body2"
+            >
+              Minkä suuruinen vuokravakuus SATOlla on?
+            </span>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="MuiListItem-root SearchResultsList-listItemLink-174 MuiListItem-gutters"
+      disabled={false}
+      onClick={[Function]}
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-item"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <div
+            className="MuiListItemText-root"
+          >
+            <span
+              className="MuiTypography-root MuiListItemText-primary MuiTypography-body2"
+            >
+              Selaa vuokra-asuntoja ja kerro meille toiveesi
+            </span>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="MuiListItem-root SearchResultsList-listItemLink-174 MuiListItem-gutters"
+      disabled={false}
+      onClick={[Function]}
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-item"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <div
+            className="MuiListItemText-root"
+          >
+            <span
+              className="MuiTypography-root MuiListItemText-primary MuiTypography-body2"
+            >
+              Selaa vuokra-asuntoja ja kerro meille toiveesi taas
+            </span>
+          </div>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <div
+            className="MuiListItemText-root"
+          >
+            <p
+              className="MuiTypography-root undefined SearchResultsList-subtitleText-175 MuiTypography-body1"
+            >
+              Jotain jännää lisätietoa
+            </p>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="MuiListItem-root SearchResultsList-listItemLink-174 MuiListItem-gutters"
+      disabled={false}
+      onClick={[Function]}
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-item"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <div
+            className="MuiListItemText-root"
+          >
+            <span
+              className="MuiTypography-root MuiListItemText-primary MuiTypography-body2"
+            >
+              Mistä asunnon vuokra koostuu ja mitä teen, jos minulla on maksuvaikeuksia?
+            </span>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="MuiListItem-root SearchResultsList-captionItem-170 MuiListItem-gutters"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemText-root"
+      >
+        <span
+          className="MuiTypography-root SearchResultsList-captionText-171 MuiTypography-caption"
+        >
+          satoSubPage
+        </span>
+      </div>
+    </li>
+    <li
+      className="MuiListItem-root SearchResultsList-listItemLink-174 MuiListItem-gutters"
+      disabled={false}
+      onClick={[Function]}
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-item"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <div
+            className="MuiListItemText-root"
+          >
+            <span
+              className="MuiTypography-root MuiListItemText-primary MuiTypography-body2"
+            >
+              Löydämme asiakkaalle kodin
+            </span>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="MuiListItem-root SearchResultsList-captionItem-170 MuiListItem-gutters"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemText-root"
+      >
+        <span
+          className="MuiTypography-root SearchResultsList-captionText-171 MuiTypography-caption"
+        >
+          faqSubPage
+        </span>
+      </div>
+    </li>
+    <li
+      className="MuiListItem-root SearchResultsList-listItemLink-174 MuiListItem-gutters"
+      disabled={false}
+      onClick={[Function]}
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-item"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <div
+            className="MuiListItemText-root"
+          >
+            <span
+              className="MuiTypography-root MuiListItemText-primary MuiTypography-body2"
+            >
+              Kodin vuokraaminen
+            </span>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="MuiListItem-root SearchResultsList-captionItem-170 MuiListItem-gutters"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemText-root"
+      >
+        <span
+          className="MuiTypography-root SearchResultsList-captionText-171 MuiTypography-caption"
+        >
+          cityPage
+        </span>
+      </div>
+    </li>
+    <li
+      className="MuiListItem-root SearchResultsList-listItemLink-174 MuiListItem-gutters"
+      disabled={false}
+      onClick={[Function]}
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-item"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <div
+            className="MuiListItemText-root"
+          >
+            <span
+              className="MuiTypography-root MuiListItemText-primary MuiTypography-body2"
+            >
+              Vuokra-asunto Tampereelta – Suomen vetovoimaisimmasta kaupungista
+            </span>
+          </div>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+`;

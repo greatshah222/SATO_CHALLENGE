@@ -1,0 +1,201 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Text Body 1 Link text 1`] = `
+<div>
+  <p
+    className="MuiTypography-root undefined Text-link-1451 MuiTypography-body1"
+  >
+    Lorem Ipsum
+  </p>
+</div>
+`;
+
+exports[`Storyshots Text Body 1 Text 1`] = `
+<div>
+  <p
+    className="MuiTypography-root undefined MuiTypography-body1"
+  >
+    Lorem Ipsum
+  </p>
+</div>
+`;
+
+exports[`Storyshots Text Body 2 Text 1`] = `
+<div>
+  <p
+    className="MuiTypography-root undefined MuiTypography-body2"
+  >
+    Lorem Ipsum
+  </p>
+</div>
+`;
+
+exports[`Storyshots Text Button 1`] = `
+<div>
+  <span
+    className="MuiTypography-root undefined MuiTypography-button"
+  >
+    Lorem Ipsum
+  </span>
+</div>
+`;
+
+exports[`Storyshots Text Button menu item 1`] = `
+<div>
+  <p
+    className="MuiTypography-root Text-buttonMenuItem-1525 MuiTypography-body1"
+  >
+    Lorem Ipsum
+  </p>
+</div>
+`;
+
+exports[`Storyshots Text Caption 1`] = `
+<div>
+  <span
+    className="MuiTypography-root undefined MuiTypography-caption"
+  >
+    Lorem Ipsum
+  </span>
+</div>
+`;
+
+exports[`Storyshots Text Heading text 1 1`] = `
+<div>
+  <h1
+    className="MuiTypography-root undefined MuiTypography-h1"
+  >
+    Lorem Ipsum
+  </h1>
+</div>
+`;
+
+exports[`Storyshots Text Heading text 2 1`] = `
+<div>
+  <h2
+    className="MuiTypography-root undefined MuiTypography-h2"
+  >
+    Lorem Ipsum
+  </h2>
+</div>
+`;
+
+exports[`Storyshots Text Heading text 3 1`] = `
+<div>
+  <h3
+    className="MuiTypography-root undefined MuiTypography-h3"
+  >
+    Lorem Ipsum
+  </h3>
+</div>
+`;
+
+exports[`Storyshots Text Heading text 4 1`] = `
+<div>
+  <h4
+    className="MuiTypography-root undefined MuiTypography-h4"
+  >
+    Lorem Ipsum
+  </h4>
+</div>
+`;
+
+exports[`Storyshots Text Heading text 5 1`] = `
+<div>
+  <h5
+    className="MuiTypography-root undefined MuiTypography-h5"
+  >
+    Lorem Ipsum
+  </h5>
+</div>
+`;
+
+exports[`Storyshots Text Heading text 6 1`] = `
+<div>
+  <h6
+    className="MuiTypography-root undefined MuiTypography-h6"
+  >
+    Lorem Ipsum
+  </h6>
+</div>
+`;
+
+exports[`Storyshots Text Label 1`] = `
+<div>
+  <p
+    className="MuiTypography-root Text-label-980 MuiTypography-body1"
+  >
+    Lorem Ipsum
+  </p>
+</div>
+`;
+
+exports[`Storyshots Text Label small 1`] = `
+<div>
+  <p
+    className="MuiTypography-root Text-labelSmall-1059 MuiTypography-body1"
+  >
+    Lorem Ipsum
+  </p>
+</div>
+`;
+
+exports[`Storyshots Text Softy 1`] = `
+<div>
+  <p
+    className="MuiTypography-root Text-softy-1132 MuiTypography-body1"
+  >
+    Lorem Ipsum
+  </p>
+</div>
+`;
+
+exports[`Storyshots Text Softy L 1`] = `
+<div>
+  <p
+    className="MuiTypography-root Text-softyL-1211 MuiTypography-body1"
+  >
+    Lorem Ipsum
+  </p>
+</div>
+`;
+
+exports[`Storyshots Text Softy XL 1`] = `
+<div>
+  <p
+    className="MuiTypography-root Text-softyXL-1290 MuiTypography-body1"
+  >
+    Lorem Ipsum
+  </p>
+</div>
+`;
+
+exports[`Storyshots Text Softy XL grey 1`] = `
+<div>
+  <p
+    className="MuiTypography-root Text-softyXL-1368 Text-colorGrey-1372 MuiTypography-body1"
+  >
+    Lorem Ipsum
+  </p>
+</div>
+`;
+
+exports[`Storyshots Text Sub title 1 1`] = `
+<div>
+  <h6
+    className="MuiTypography-root undefined MuiTypography-subtitle1"
+  >
+    Lorem Ipsum
+  </h6>
+</div>
+`;
+
+exports[`Storyshots Text Sub title 2 1`] = `
+<div>
+  <h6
+    className="MuiTypography-root undefined MuiTypography-subtitle2"
+  >
+    Lorem Ipsum
+  </h6>
+</div>
+`;

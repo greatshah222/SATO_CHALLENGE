@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Dialog Alert 1`] = `
+<div>
+  <div>
+    <button
+      className="MuiButtonBase-root MuiButton-root makeStyles-root-96 makeStyles-outlined-100 MuiButton-outlined"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiButton-label"
+      >
+        <p
+          className="MuiTypography-root undefined MuiTypography-body1"
+        >
+          open dialog
+        </p>
+      </span>
+    </button>
+  </div>
+</div>
+`;

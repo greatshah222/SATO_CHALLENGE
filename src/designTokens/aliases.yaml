@@ -1,0 +1,89 @@
+aliases:
+  white:
+    value: '#ffffff'
+  black:
+    value: '#333333'
+  black-medium:
+    value: '#999999'
+  black-light:
+    value: '#eaeaea'
+  black-ultralight:
+    value: '#f5f5f5'
+  grey:
+    value: '#707070'
+  red:
+    value: '#f1667c'
+  red-light:
+    value: '#fde9ec'
+  red-ultralight:
+    value: '#fef7f8'
+  red-dark:
+    value: '#d84d63'
+  red-ultradark:
+    value: '#be3349'
+  orange-red:
+    value: '#ffe06a'
+  blue:
+    value: '#00b7c6'
+  blue-light:
+    value: '#d8f4f6'
+  blue-ultralight:
+    value: '#f2fbfc'
+  blue-dark:
+    value: '#009ead'
+  blue-ultradark:
+    value: '#008493'
+  light-green:
+    value: '#cadb44'
+  yellow:
+    value: '#f29318'
+  yellow-light:
+    value: '#fef1dc'
+  yellow-ultralight:
+    value: '#fffaf3'
+  yellow-dark:
+    value: '#e18d01'
+  yellow-ultradark:
+    value: '#c77300'
+  purple:
+    value: '#9f6eaf'
+  purple-light:
+    value: '#f0e9f3'
+  purple-ultralight:
+    value: '#faf8fb'
+  purple-dark:
+    value: '#865596'
+  purple-ultradark:
+    value: '#6c3b7c'
+  yellow-purple:
+    value: '#ffcd67'
+  dark:
+    value: '#333333'
+  error:
+    value: '#b00020'
+  error-light:
+    value: '#fbf2f4'
+  orange-light:
+    value: '#fab946'
+  orange-dark:
+    value: '#ff910f'
+  orange-default:
+    value: '#f29318'
+  pink-light:
+    value: '#ff8791'
+  pink-dark:
+    value: '#ea4664'
+  pink-default:
+    value: '#e64d69'
+  purple2-light:
+    value: '#b487c3'
+  purple2-dark:
+    value: '#8c50aa'
+  purple2-default:
+    value: '#8a58a1'
+  cyan-light:
+    value: '#00cdc8'
+  cyan-dark:
+    value: '#0087aa'
+  cyan-default:
+    value: '#00aaba'

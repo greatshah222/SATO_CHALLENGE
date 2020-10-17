@@ -1,0 +1,210 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MobileMenu renders correctly 1`] = `
+<div>
+  <WithStyles(MenuPane)
+    animate={false}
+    backLabel=""
+    content={
+      Object {
+        "id": "root",
+        "items": Array [
+          Object {
+            "active": true,
+            "handler": [Function],
+            "id": 1,
+            "label": "Löydä koti",
+            "variant": "button",
+          },
+          Object {
+            "active": true,
+            "handler": [Function],
+            "id": 2,
+            "items": Array [
+              Object {
+                "handler": [Function],
+                "id": 6,
+                "items": Array [
+                  Object {
+                    "handler": [Function],
+                    "id": 9,
+                    "items": Array [],
+                    "label": "Kodin etsiminen",
+                    "variant": "buttonMenuItem",
+                  },
+                ],
+                "label": "Usein kysyttyä",
+                "variant": "buttonMenuItem",
+              },
+              Object {
+                "active": true,
+                "handler": [Function],
+                "id": 7,
+                "label": "Ajankohtaista",
+                "variant": "buttonMenuItem",
+              },
+              Object {
+                "handler": [Function],
+                "id": 8,
+                "label": "Kotona",
+                "variant": "buttonMenuItem",
+              },
+            ],
+            "label": "Tietoa asumisesta",
+            "variant": "button",
+          },
+          Object {
+            "handler": [Function],
+            "id": 4,
+            "label": "Ota yhteyttä",
+            "variant": "button",
+          },
+          Object {
+            "active": true,
+            "label": "Etusivu",
+            "route": "/",
+          },
+          Object {
+            "handler": [Function],
+            "label": "Sijoittajille",
+            "type": "smallOnMobile",
+          },
+          Object {
+            "executeHandler": true,
+            "handler": [Function],
+            "id": 10,
+            "items": Array [
+              Object {
+                "handler": [Function],
+                "label": "Mediapankki",
+                "variant": "buttonMenuItem",
+              },
+              Object {
+                "handler": [Function],
+                "label": "Etsitkö asiantuntijaa?",
+                "variant": "buttonMenuItem",
+              },
+            ],
+            "label": "Medialle",
+            "small": true,
+            "type": "smallOnMobile",
+          },
+          Object {
+            "handler": [Function],
+            "label": "SATO yrityksenä",
+            "type": "smallOnMobile",
+          },
+          Object {
+            "handler": [Function],
+            "label": "In English",
+          },
+        ],
+      }
+    }
+    currentItem={
+      Object {
+        "id": "root",
+        "items": Array [
+          Object {
+            "active": true,
+            "handler": [Function],
+            "id": 1,
+            "label": "Löydä koti",
+            "variant": "button",
+          },
+          Object {
+            "active": true,
+            "handler": [Function],
+            "id": 2,
+            "items": Array [
+              Object {
+                "handler": [Function],
+                "id": 6,
+                "items": Array [
+                  Object {
+                    "handler": [Function],
+                    "id": 9,
+                    "items": Array [],
+                    "label": "Kodin etsiminen",
+                    "variant": "buttonMenuItem",
+                  },
+                ],
+                "label": "Usein kysyttyä",
+                "variant": "buttonMenuItem",
+              },
+              Object {
+                "active": true,
+                "handler": [Function],
+                "id": 7,
+                "label": "Ajankohtaista",
+                "variant": "buttonMenuItem",
+              },
+              Object {
+                "handler": [Function],
+                "id": 8,
+                "label": "Kotona",
+                "variant": "buttonMenuItem",
+              },
+            ],
+            "label": "Tietoa asumisesta",
+            "variant": "button",
+          },
+          Object {
+            "handler": [Function],
+            "id": 4,
+            "label": "Ota yhteyttä",
+            "variant": "button",
+          },
+          Object {
+            "active": true,
+            "label": "Etusivu",
+            "route": "/",
+          },
+          Object {
+            "handler": [Function],
+            "label": "Sijoittajille",
+            "type": "smallOnMobile",
+          },
+          Object {
+            "executeHandler": true,
+            "handler": [Function],
+            "id": 10,
+            "items": Array [
+              Object {
+                "handler": [Function],
+                "label": "Mediapankki",
+                "variant": "buttonMenuItem",
+              },
+              Object {
+                "handler": [Function],
+                "label": "Etsitkö asiantuntijaa?",
+                "variant": "buttonMenuItem",
+              },
+            ],
+            "label": "Medialle",
+            "small": true,
+            "type": "smallOnMobile",
+          },
+          Object {
+            "handler": [Function],
+            "label": "SATO yrityksenä",
+            "type": "smallOnMobile",
+          },
+          Object {
+            "handler": [Function],
+            "label": "In English",
+          },
+        ],
+      }
+    }
+    defaultBackLabel=""
+    direction="left"
+    goBack={[Function]}
+    goToChild={[Function]}
+    hasParent={false}
+    key="root"
+    toggleMenu={[MockFunction]}
+    visible={true}
+  />
+</div>
+`;
