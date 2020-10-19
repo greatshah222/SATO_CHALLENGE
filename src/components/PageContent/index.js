@@ -35,7 +35,7 @@ const styles = (theme) => ({
     },
   },
   noBackground: {
-    backgroundColor: tokens.backgorundDemo,
+    backgroundColor: theme.palette.background.pageContent,
   },
 
   transparent: {

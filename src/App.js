@@ -25,6 +25,28 @@ import Pet from './icons/Pet';
 import NoSmoking from './icons/NoSmoking';
 
 function App() {
+  const content = `Vastoin yleistä uskomusta, Lorem Ipsum ei ole vain
+    sattumanvarainen teksti. Sillä on pitkät juuret klassisesta
+    latinalaisesta kirjallisuudesta vuonna 45 eKr alkaen, tehden siitä
+    yli 2000 vuotta vanhan. Richard McClintock, latinalainen
+    professori Hampden-Sydneyn yliopistossa Virginiassa, etsi yhden
+    vaikeaselkoisimmista latinalaisista sanoista, consectetur, Lorem
+    Ipsumin kappaleesta ja etsi lainauksia sanasta klassisessa
+    kirjallisuudessa löytäen varman lähteen. Lorem Ipsum tulee osista
+    1.10.32 ja 1.10.33 "de Finibus Bonorum et Malorum":ksesta (The
+    Extremes of Good and Evil), jonka teki Cicero vuonna 45 eKr. Tämä
+    kirja on tutkielma etiikasta, joka oli hyvin yleistä Renesanssin
+    aikana. Ensimmäinen Lorem Ipsumin rivi, "Lorem ipsum dolor sit
+    amet..", tulee rivistä joka on osassa 1.10.32.`;
+
+  const paragraphContent = [content, content];
+
+  const heading = `Lorem ipsum dolor, sit amet`;
+  const contentLess = `Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel
+  aspernatur quasi blanditiis tempore dolorem! Iure voluptatibus
+  dolorem explicabo dolor id? aspernatur quasi blanditiis tempore
+  dolorem! Iure voluptatibus dolorem explicabo dolor id?`;
+
   const links = [
     { label: 'Front Page', active: true },
     { label: 'Investors' },
@@ -54,6 +76,48 @@ function App() {
       label: 'OTA YHTEYTTÄ',
     },
   ];
+
+  const apartmentDetails = [
+    {
+      number: '39',
+      type: 'Studio',
+      buttonText: 'ASUNNOT',
+      logo: <ArrowRight />,
+    },
+    {
+      number: '83',
+      type: 'Shared Apartment',
+      buttonText: 'ASUNNOT',
+      logo: <ArrowRight />,
+    },
+    {
+      number: '23',
+      type: 'Family Apartment',
+      buttonText: 'ASUNNOT',
+      logo: <ArrowRight />,
+    },
+    {
+      number: '6',
+      type: '2 Bedroom',
+      buttonText: 'ASUNNOT',
+      logo: <ArrowRight />,
+    },
+    {
+      number: '4',
+      type: '4 Bedroom',
+      buttonText: 'ASUNNOT',
+      logo: <ArrowRight />,
+    },
+  ];
+
+  const customerBenefitDetails = [
+    { icon: <Benefit />, heading: heading, description: contentLess },
+    { icon: <Key />, heading: heading, description: contentLess },
+    { icon: <Broadband />, heading: heading, description: contentLess },
+    { icon: <Sauna />, heading: heading, description: contentLess },
+    { icon: <Pet />, heading: heading, description: contentLess },
+    { icon: <NoSmoking />, heading: heading, description: contentLess },
+  ];
   const accountBtnHandler = () => {};
   const SearchHandler = () => {};
   return (
@@ -76,10 +140,7 @@ function App() {
             </Text>
             <br />
             <Text variant='softyL' color={'textPrimary'}>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel
-              aspernatur quasi blanditiis tempore dolorem! Iure voluptatibus
-              dolorem explicabo dolor id? aspernatur quasi blanditiis tempore
-              dolorem! Iure voluptatibus dolorem explicabo dolor id?
+              {contentLess}
             </Text>
             <br />
             <Button variant={'contained'} color={'secondary'} size={'small'}>
@@ -89,85 +150,34 @@ function App() {
             <br />
             <br />
             <Text variant='label' color={'primary'}>
-              Lorem ipsum dolor, sit amet
+              {heading}
             </Text>
             <br />
-            <Text variant='body2'>
-              Lorem Ipsum on yksinkertaisesti testausteksti, jota tulostus- ja
-              ladontateollisuudet käyttävät. Lorem Ipsum on ollut teollisuuden
-              normaali testausteksti jo 1500-luvulta asti, jolloin tuntematon
-              tulostaja otti kaljuunan ja sekoitti sen tehdäkseen
-              esimerkkikirjan. Se ei ole selvinnyt vain viittä vuosisataa, mutta
-              myös loikan elektroniseen kirjoitukseen, jääden suurinpiirtein
-              muuntamattomana. Se tuli kuuluisuuteen 1960-luvulla kun
-              Letraset-paperiarkit, joissa oli Lorem Ipsum pätkiä, julkaistiin
-              ja vielä myöhemmin tietokoneen julkistusohjelmissa, kuten Aldus
-              PageMaker joissa oli versioita Lorem Ipsumista.
-            </Text>
-            <br />
-            <br />
+            {paragraphContent.map((el) => (
+              <>
+                <br />
 
-            <Text variant='body2'>
-              Lorem Ipsum on yksinkertaisesti testausteksti, jota tulostus- ja
-              ladontateollisuudet käyttävät. Lorem Ipsum on ollut teollisuuden
-              normaali testausteksti jo 1500-luvulta asti, jolloin tuntematon
-              tulostaja otti kaljuunan ja sekoitti sen tehdäkseen
-              esimerkkikirjan. Se ei ole selvinnyt vain viittä vuosisataa, mutta
-              myös loikan elektroniseen kirjoitukseen, jääden suurinpiirtein
-              muuntamattomana. Se tuli kuuluisuuteen 1960-luvulla kun
-              Letraset-paperiarkit, joissa oli Lorem Ipsum pätkiä, julkaistiin
-              ja vielä myöhemmin tietokoneen julkistusohjelmissa, kuten Aldus
-              PageMaker joissa oli versioita Lorem Ipsumista.
-            </Text>
+                <Text variant='body2'>{content}</Text>
+              </>
+            ))}
           </CallToActionArea>
         </Box>
       </PageContent>
       <ImageHeader src={BannerImage} alt='hib' />
       <PageContent contentFullWidthMobile>
-        <Box variant='pageSectionLarge' negativeTopMargin>
+        <Box variant='pageSectionLarge'>
           <CallToActionArea contentFullWidthMobile biggerPadding>
-            <Text variant='label' color={'primary'}>
-              Lorem ipsum dolor, sit amet
-            </Text>
-            <br />
-            <Text variant='body2'>
-              Vastoin yleistä uskomusta, Lorem Ipsum ei ole vain
-              sattumanvarainen teksti. Sillä on pitkät juuret klassisesta
-              latinalaisesta kirjallisuudesta vuonna 45 eKr alkaen, tehden siitä
-              yli 2000 vuotta vanhan. Richard McClintock, latinalainen
-              professori Hampden-Sydneyn yliopistossa Virginiassa, etsi yhden
-              vaikeaselkoisimmista latinalaisista sanoista, consectetur, Lorem
-              Ipsumin kappaleesta ja etsi lainauksia sanasta klassisessa
-              kirjallisuudessa löytäen varman lähteen. Lorem Ipsum tulee osista
-              1.10.32 ja 1.10.33 "de Finibus Bonorum et Malorum":ksesta (The
-              Extremes of Good and Evil), jonka teki Cicero vuonna 45 eKr. Tämä
-              kirja on tutkielma etiikasta, joka oli hyvin yleistä Renesanssin
-              aikana. Ensimmäinen Lorem Ipsumin rivi, "Lorem ipsum dolor sit
-              amet..", tulee rivistä joka on osassa 1.10.32.
-            </Text>
-            <br />
-            <br />
-            <Text variant='label' color={'primary'}>
-              Lorem ipsum dolor, sit amet
-            </Text>
-            <br />
-            <Text variant='body2'>
-              Vastoin yleistä uskomusta, Lorem Ipsum ei ole vain
-              sattumanvarainen teksti. Sillä on pitkät juuret klassisesta
-              latinalaisesta kirjallisuudesta vuonna 45 eKr alkaen, tehden siitä
-              yli 2000 vuotta vanhan. Richard McClintock, latinalainen
-              professori Hampden-Sydneyn yliopistossa Virginiassa, etsi yhden
-              vaikeaselkoisimmista latinalaisista sanoista, consectetur, Lorem
-              Ipsumin kappaleesta ja etsi lainauksia sanasta klassisessa
-              kirjallisuudessa löytäen varman lähteen. Lorem Ipsum tulee osista
-              1.10.32 ja 1.10.33 "de Finibus Bonorum et Malorum":ksesta (The
-              Extremes of Good and Evil), jonka teki Cicero vuonna 45 eKr. Tämä
-              kirja on tutkielma etiikasta, joka oli hyvin yleistä Renesanssin
-              aikana. Ensimmäinen Lorem Ipsumin rivi, "Lorem ipsum dolor sit
-              amet..", tulee rivistä joka on osassa 1.10.32.
-            </Text>{' '}
-            <br />
-            <br />
+            {paragraphContent.map((el) => (
+              <>
+                <br />
+                <Text variant='label' color={'primary'}>
+                  {heading}
+                </Text>
+
+                <br />
+                <Text variant='body2'>{content}</Text>
+              </>
+            ))}
           </CallToActionArea>
         </Box>
       </PageContent>
@@ -181,70 +191,21 @@ function App() {
       <PageContent contentFullWidthMobile transparent>
         <CardContent container>
           <Grid container spacing={10}>
-            <Grid item xs={4}>
-              <Text variant='h1' color={'secondary'}>
-                39{' '}
-              </Text>{' '}
-              <Text variant='softy' color={'textPrimary'}>
-                Studio
-              </Text>
-              <br />
-              <Button variant={'contained'} color={'primary'} size={'small'}>
-                ASUNNOT
-                <ArrowRight />
-              </Button>
-            </Grid>
-            <Grid item xs={4}>
-              <Text variant='h1' color={'secondary'}>
-                83{' '}
-              </Text>{' '}
-              <Text variant='softy' color={'textPrimary'}>
-                Shared Apartment
-              </Text>
-              <br />
-              <Button variant={'contained'} color={'primary'} size={'small'}>
-                ASUNNOT <ArrowRight />
-              </Button>
-            </Grid>
-            <Grid item xs={4}>
-              <Text variant='h1' color={'secondary'}>
-                23{' '}
-              </Text>{' '}
-              <Text variant='softy' color={'textPrimary'}>
-                Family Apartment
-              </Text>
-              <br />
-              <Button variant={'contained'} color={'primary'} size={'small'}>
-                KATSO <ArrowRight />
-              </Button>
-            </Grid>
-          </Grid>
-          <Grid container spacing={10}>
-            <Grid item xs={4}>
-              <Text variant='h1' color={'secondary'}>
-                6{' '}
-              </Text>{' '}
-              <Text variant='softy' color={'textPrimary'}>
-                4 bedroom
-              </Text>
-              <br />
-              <Button variant={'contained'} color={'primary'} size={'small'}>
-                ASUNNOT
-                <ArrowRight />
-              </Button>
-            </Grid>
-            <Grid item xs={4}>
-              <Text variant='h1' color={'secondary'}>
-                4{' '}
-              </Text>{' '}
-              <Text variant='softy' color={'textPrimary'}>
-                2 bedroom
-              </Text>
-              <br />
-              <Button variant={'contained'} color={'primary'} size={'small'}>
-                ASUNNOT <ArrowRight />
-              </Button>
-            </Grid>
+            {apartmentDetails.map((el) => (
+              <Grid item xs={4}>
+                <Text variant='h1' color={'secondary'}>
+                  {el.number}
+                </Text>{' '}
+                <Text variant='softy' color={'textPrimary'}>
+                  {el.type}
+                </Text>
+                <br />
+                <Button variant={'contained'} color={'primary'} size={'small'}>
+                  {el.buttonText}
+                  {el.logo}
+                </Button>
+              </Grid>
+            ))}
           </Grid>
         </CardContent>
       </PageContent>
@@ -262,11 +223,7 @@ function App() {
                 <Text variant='h6'>
                   {' '}
                   <Text variant='softy' color={'textPrimary'}>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                    Vel aspernatur quasi blanditiis tempore dolorem! Iure
-                    voluptatibus dolorem explicabo dolor id? aspernatur quasi
-                    blanditiis tempore dolorem! Iure voluptatibus dolorem
-                    explicabo dolor id?
+                    {contentLess}
                   </Text>
                   <br />
                   <Button
@@ -314,124 +271,28 @@ function App() {
       <PageContent contentFullWidthMobile transparent>
         <CardContent>
           <Grid container spacing={10}>
-            <Grid item xs={6}>
-              <Grid container spacing={10}>
-                <Grid item xs={2}>
-                  <Text variant='h4' color={'primary'}>
+            {customerBenefitDetails.map((el) => (
+              <Grid item xs={6}>
+                <Grid container spacing={10}>
+                  <Grid item xs={2}>
                     {' '}
-                    <Benefit />
-                  </Text>
-                </Grid>
-                <Grid item xs={10}>
-                  <Text variant='h6' color={'primary'}>
-                    Lorem ipsum dolor sit.
-                  </Text>
-                  <Text variant='body1' color={'textPrimary'}>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Numquam!
-                  </Text>
+                    <Text variant='h4' color={'primary'}>
+                      {' '}
+                      {el.icon}
+                    </Text>
+                  </Grid>
+                  <Grid item xs={10}>
+                    <Text variant='h6' color={'primary'}>
+                      {heading}
+                    </Text>
+                    <Text variant='body1' color={'textPrimary'}>
+                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                      Numquam!
+                    </Text>
+                  </Grid>
                 </Grid>
               </Grid>
-            </Grid>
-            <Grid item xs={6}>
-              <Grid container spacing={10}>
-                <Grid item xs={2}>
-                  <Text variant='h4' color={'primary'}>
-                    {' '}
-                    <Broadband />
-                  </Text>
-                </Grid>
-                <Grid item xs={10}>
-                  <Text variant='h6' color={'primary'}>
-                    Lorem ipsum dolor sit.
-                  </Text>
-                  <Text variant='body1' color={'textPrimary'}>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Numquam!
-                  </Text>
-                </Grid>
-              </Grid>
-            </Grid>
-          </Grid>
-          <Grid container spacing={10}>
-            <Grid item xs={6}>
-              <Grid container spacing={10}>
-                <Grid item xs={2}>
-                  <Text variant='h4' color={'primary'}>
-                    {' '}
-                    <Pet />
-                  </Text>
-                </Grid>
-                <Grid item xs={10}>
-                  <Text variant='h6' color={'primary'}>
-                    Lorem ipsum dolor sit.
-                  </Text>
-                  <Text variant='body1' color={'textPrimary'}>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Numquam!
-                  </Text>
-                </Grid>
-              </Grid>
-            </Grid>
-            <Grid item xs={6}>
-              <Grid container spacing={10}>
-                <Grid item xs={2}>
-                  <Text variant='h4' color={'primary'}>
-                    {' '}
-                    <NoSmoking />
-                  </Text>
-                </Grid>
-                <Grid item xs={10}>
-                  <Text variant='h6' color={'primary'}>
-                    Lorem ipsum dolor sit.
-                  </Text>
-                  <Text variant='body1' color={'textPrimary'}>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Numquam!
-                  </Text>
-                </Grid>
-              </Grid>
-            </Grid>
-          </Grid>
-          <Grid container spacing={10}>
-            <Grid item xs={6}>
-              <Grid container spacing={10}>
-                <Grid item xs={2}>
-                  <Text variant='h4' color={'primary'}>
-                    {' '}
-                    <Key />
-                  </Text>
-                </Grid>
-                <Grid item xs={10}>
-                  <Text variant='h6' color={'primary'}>
-                    Lorem ipsum dolor sit.
-                  </Text>
-                  <Text variant='body1' color={'textPrimary'}>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Numquam!
-                  </Text>
-                </Grid>
-              </Grid>
-            </Grid>
-            <Grid item xs={6}>
-              <Grid container spacing={10}>
-                <Grid item xs={2}>
-                  <Text variant='h4' color={'primary'}>
-                    {' '}
-                    <Sauna variant='large' />
-                  </Text>
-                </Grid>
-                <Grid item xs={10}>
-                  <Text variant='h6' color={'primary'}>
-                    Lorem ipsum dolor sit.
-                  </Text>
-                  <Text variant='body1' color={'textPrimary'}>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Numquam!
-                  </Text>
-                </Grid>
-              </Grid>
-            </Grid>
+            ))}
           </Grid>
         </CardContent>
       </PageContent>
